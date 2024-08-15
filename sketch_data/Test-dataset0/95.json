@@ -1,0 +1,386 @@
+{
+    "layers": [
+        {
+            "id": "A20F4A90-1927-4588-BDC4-568D434972BA",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 667
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "68C1A8B2-D2D8-4A32-898C-3AF36925ACD5",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 190,
+                "width": 343,
+                "height": 287
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "51D7D9DB-5899-46A2-9FCF-2CE3D39441FB",
+            "name": "Path",
+            "rect": {
+                "x": 8,
+                "y": 182,
+                "width": 343,
+                "height": 303
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A0AA62A5-5C4E-4092-87F5-21C8B41A867C",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 166,
+                "width": 343,
+                "height": 335
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FD6B199A-B19B-4A7B-BE8C-6291E39AD74A",
+            "name": "Lifestyle",
+            "rect": {
+                "x": 33,
+                "y": 536,
+                "width": 53,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9F9675ED-6731-465A-B501-242A28D94ED8",
+            "name": "Top Things To See Du",
+            "rect": {
+                "x": 32,
+                "y": 570,
+                "width": 285,
+                "height": 55
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C096FA43-2995-4147-BFCD-53A46D2AE749",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 124,
+                "width": 72,
+                "height": 2
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D8E4BA4D-1719-47E0-8B4A-F4B9A0ECDFB4",
+            "name": "Fashion",
+            "rect": {
+                "x": 37,
+                "y": 91,
+                "width": 61,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A39B914D-3D56-47A1-8221-6A87840DDBB9",
+            "name": "Life Style",
+            "rect": {
+                "x": 159,
+                "y": 91,
+                "width": 75,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "10348009-BE2D-419C-A79C-83DCE4C9CBD4",
+            "name": "Travel",
+            "rect": {
+                "x": 292,
+                "y": 91,
+                "width": 47,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B35A8A4A-351F-4B64-981A-D1DB8496BB2D",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 20,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9763094F-6E4C-4AC4-9027-D7A8F48E370D",
+            "name": "ZADE",
+            "rect": {
+                "x": 165,
+                "y": 36,
+                "width": 44,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "76526EDC-D726-491F-BAFB-6E8FA9F4E6B4",
+            "name": "Path",
+            "rect": {
+                "x": 317,
+                "y": 34,
+                "width": 10,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5C0AF5C3-A93E-4835-9411-5E96003DBA2D",
+            "name": "Path",
+            "rect": {
+                "x": 317,
+                "y": 34,
+                "width": 10,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5CC647B1-C9B0-4E6A-A85A-8409C9B731C4",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 34,
+                "width": 18,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1ED96A1A-215E-4F4E-8753-65F4C0003E88",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 34,
+                "width": 18,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D3CC7344-5D69-42C2-854E-03BC87275268",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 34,
+                "width": 18,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6107467C-1AA2-4028-B2FB-FB87687193AE",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 34,
+                "width": 18,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EBA8C560-E437-4DCD-A94E-E278D365DD29",
+            "name": "Path",
+            "rect": {
+                "x": 343,
+                "y": 34,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4817D2F5-BAD2-4E31-B19E-EAF37824366D",
+            "name": "Path",
+            "rect": {
+                "x": 343,
+                "y": 34,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D11285D5-E330-4D32-AF31-45312E25DEEB",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 20
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

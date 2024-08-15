@@ -1,0 +1,674 @@
+{
+    "layers": [
+        {
+            "id": "DF3D1430-4D6D-4AD0-B3EC-732548432C20",
+            "name": "跑马灯 copy 6",
+            "rect": {
+                "x": 1627,
+                "y": 351,
+                "width": 650,
+                "height": 140
+            },
+            "_class": "slice",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6F77D67B-8697-4A6A-AE66-15E3961B5A81",
+            "name": "跑马灯 copy",
+            "rect": {
+                "x": 60,
+                "y": 351,
+                "width": 650,
+                "height": 140
+            },
+            "_class": "slice",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "61DED889-60CF-475E-8282-1ED2108A77CA",
+            "name": "跑马灯 copy 3",
+            "rect": {
+                "x": 837,
+                "y": 136,
+                "width": 650,
+                "height": 140
+            },
+            "_class": "slice",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "85F96778-04F3-49AA-A306-D2C14158FF08",
+            "name": "Path",
+            "rect": {
+                "x": 1206,
+                "y": 1506,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B788F616-97C5-401D-8754-C9B939F912E7",
+            "name": "Path",
+            "rect": {
+                "x": 1261,
+                "y": 1506,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EE5F6CDA-E1A1-48B9-9AD7-8B1DFBF5C9EA",
+            "name": "Path",
+            "rect": {
+                "x": 1233,
+                "y": 1506,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3FC4ED7D-5A4A-494C-ADA3-126CF2CA7730",
+            "name": "Path",
+            "rect": {
+                "x": 1288,
+                "y": 1506,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E447F5AE-30DE-445E-A286-971AB1700F1F",
+            "name": "预售会场_跑马灯_556-135_蓝色_",
+            "rect": {
+                "x": 111,
+                "y": 840,
+                "width": 864,
+                "height": 36
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "147437C0-5565-4D4A-B19D-3DEA4BBA680E",
+            "name": "135 copy",
+            "rect": {
+                "x": 715,
+                "y": 302,
+                "width": 55,
+                "height": 28
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9BD4C1CC-504D-4A9B-8CB9-4E1BAFEFC405",
+            "name": "556 copy",
+            "rect": {
+                "x": 356,
+                "y": 182,
+                "width": 62,
+                "height": 28
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EEB0340D-E902-4135-B598-B9DB8C583A38",
+            "name": "24",
+            "rect": {
+                "x": 30,
+                "y": 299,
+                "width": 40,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "741B8328-6D8C-434E-99AB-28A4931EA7CA",
+            "name": "跑马灯_556_135_紫蓝绿_外包规范_mo copy",
+            "rect": {
+                "x": 111,
+                "y": 253,
+                "width": 554,
+                "height": 132
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "064B888F-B1CA-4CBE-AD7C-F989DFEB3900",
+            "name": "跑马灯_556_135_紫蓝绿_外包规范_mo copy 2",
+            "rect": {
+                "x": 111,
+                "y": 249,
+                "width": 554,
+                "height": 135
+            },
+            "_class": "slice",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "18C9EA11-7282-4573-849E-D6AFB1527A6A",
+            "name": "Path",
+            "rect": {
+                "x": 679,
+                "y": 249,
+                "width": 11,
+                "height": 134
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "37E90829-805B-4F0D-825E-8FD009DBB4E5",
+            "name": "Path",
+            "rect": {
+                "x": 112,
+                "y": 231,
+                "width": 553,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4A6CC8A7-4EA6-4D23-AD6E-2F57D0BFAE48",
+            "name": "跑马灯导出样式",
+            "rect": {
+                "x": 160,
+                "y": 77,
+                "width": 251,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "984FC267-8B5F-48AF-92C5-66C480CD653A",
+            "name": "跑马灯导出文件命名",
+            "rect": {
+                "x": 160,
+                "y": 708,
+                "width": 320,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "756B7955-A886-4ED2-95BC-3A5C5FC2E8A5",
+            "name": "需求方需要提供的内容",
+            "rect": {
+                "x": 161,
+                "y": 1276,
+                "width": 359,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "853E376D-449F-4F11-BC8A-484738A62DEC",
+            "name": "会场名称",
+            "rect": {
+                "x": 121,
+                "y": 1010,
+                "width": 142,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6805FF71-2E52-427F-A76C-D90C73DA8DC8",
+            "name": "颜色",
+            "rect": {
+                "x": 561,
+                "y": 1010,
+                "width": 69,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "053E6AE3-566A-4664-B3BA-6BB93EB764F4",
+            "name": "时间",
+            "rect": {
+                "x": 691,
+                "y": 1010,
+                "width": 67,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4CCCB4AE-F137-4F2B-B70C-841D2B608BE0",
+            "name": "对应跑马灯的文案",
+            "rect": {
+                "x": 835,
+                "y": 1010,
+                "width": 286,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "16FDEBCD-872E-4CB3-AE4D-8F7D37010397",
+            "name": "尺寸",
+            "rect": {
+                "x": 422,
+                "y": 1010,
+                "width": 69,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3775B705-D2E2-43AE-8503-D1A587A60599",
+            "name": "Path",
+            "rect": {
+                "x": 113,
+                "y": 69,
+                "width": 17,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BB2E32A4-B521-4CF8-8B16-A2EBFD4907CA",
+            "name": "Path",
+            "rect": {
+                "x": 113,
+                "y": 700,
+                "width": 17,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1351B967-3F8D-4826-A48A-A162965CC090",
+            "name": "Path",
+            "rect": {
+                "x": 113,
+                "y": 1268,
+                "width": 17,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FDD3FBE2-A562-47CA-994A-6C2D17DCC69E",
+            "name": "Path",
+            "rect": {
+                "x": 184,
+                "y": 362,
+                "width": 682,
+                "height": 123
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E8205E50-E3EC-4B47-A102-DF6F635C4481",
+            "name": "根据文案更换产品图片",
+            "rect": {
+                "x": 892,
+                "y": 459,
+                "width": 358,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C5420F92-079E-48E6-97EA-F903185132B6",
+            "name": "Path",
+            "rect": {
+                "x": 188,
+                "y": 887,
+                "width": 2,
+                "height": 93
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "75FE381D-70C3-467A-877A-329EF226B34A",
+            "name": "Path",
+            "rect": {
+                "x": 594,
+                "y": 887,
+                "width": 2,
+                "height": 93
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4967FB36-695A-4F6C-945B-CAC5CCEF5CBD",
+            "name": "Path",
+            "rect": {
+                "x": 723,
+                "y": 887,
+                "width": 2,
+                "height": 93
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A38078F6-ADF9-4610-80E8-8E7767D0F484",
+            "name": "Path",
+            "rect": {
+                "x": 880,
+                "y": 887,
+                "width": 2,
+                "height": 93
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6DC5AC55-D8A1-4B50-9B59-304D47002EF9",
+            "name": "Path",
+            "rect": {
+                "x": 455,
+                "y": 887,
+                "width": 2,
+                "height": 93
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D659CC6E-7CCB-47E9-B094-7B5B317A105D",
+            "name": "Path",
+            "rect": {
+                "x": 135,
+                "y": 252,
+                "width": 102,
+                "height": 102
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AC3286B1-65DA-4569-A36E-EDE5956E7BBA",
+            "name": "102",
+            "rect": {
+                "x": 158,
+                "y": 288,
+                "width": 55,
+                "height": 28
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EAB0EC0A-52A0-4804-BE57-E8C32CE59287",
+            "name": "Path",
+            "rect": {
+                "x": 111,
+                "y": 302,
+                "width": 24,
+                "height": 20
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8D0AC428-BC65-473B-97BE-27D1FD4A023C",
+            "name": "Path",
+            "rect": {
+                "x": 71,
+                "y": 312,
+                "width": 29,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 1799,
+    "height": 2245,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,548 @@
+{
+    "layers": [
+        {
+            "id": "01E06282-7474-4724-9ED9-21891A7F3059",
+            "name": "红包记录统计",
+            "rect": {
+                "x": 0,
+                "y": 218,
+                "width": 750,
+                "height": 400
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "425BA5EA-2948-4011-A25F-F9F1C0E3A837",
+            "name": "Divider Bottom",
+            "rect": {
+                "x": 0,
+                "y": 640,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.8980392,
+                0.8980392,
+                0.8980392,
+                1
+            ]
+        },
+        {
+            "id": "AC55B68A-633E-481D-8C16-603B4FB84394",
+            "name": "Oval 89",
+            "rect": {
+                "x": 30,
+                "y": 671,
+                "width": 80,
+                "height": 80
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.93333334,
+                0.8,
+                0.5647059,
+                1
+            ]
+        },
+        {
+            "id": "5173DE16-2B77-4D60-A583-22F9A8264978",
+            "name": "一",
+            "rect": {
+                "x": 54,
+                "y": 709,
+                "width": 34,
+                "height": 4
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D4432C3E-82DA-4768-83BD-CBC7BF5914C8",
+            "name": "Divider Bottom",
+            "rect": {
+                "x": 30,
+                "y": 1060,
+                "width": 720,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9411765,
+                0.92941177,
+                0.9098039,
+                1
+            ]
+        },
+        {
+            "id": "528FC545-C558-417D-AA52-65278EC95CC8",
+            "name": "红包记录列表 copy 2",
+            "rect": {
+                "x": 0,
+                "y": 1201,
+                "width": 750,
+                "height": 140
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0B6E4EA0-AE07-49C4-9E65-13672E55203F",
+            "name": "红包记录列表 copy",
+            "rect": {
+                "x": 0,
+                "y": 1061,
+                "width": 750,
+                "height": 140
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4B9CFCF1-54BC-42C6-B063-41964A4CA70F",
+            "name": "红包记录列表 copy",
+            "rect": {
+                "x": 0,
+                "y": 921,
+                "width": 750,
+                "height": 140
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "54355C3F-8640-4835-90FC-A870D94BDCB9",
+            "name": "红包记录列表 copy",
+            "rect": {
+                "x": 0,
+                "y": 781,
+                "width": 750,
+                "height": 140
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "200DE1F1-0192-487D-B699-CF8284D6BF08",
+            "name": "红包记录列表",
+            "rect": {
+                "x": 0,
+                "y": 641,
+                "width": 750,
+                "height": 140
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9DE30807-5A18-4BE3-BA7B-6ADA9B283517",
+            "name": "Rectangle 780 Copy 2",
+            "rect": {
+                "x": 0,
+                "y": 129,
+                "width": 750,
+                "height": 91
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "B3AFB22C-CC46-4700-86ED-0FC24A86397A",
+            "name": "我收到的",
+            "rect": {
+                "x": 125,
+                "y": 157,
+                "width": 125,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5348F28D-C5FD-457C-B1D9-4B684243586E",
+            "name": "我发出的",
+            "rect": {
+                "x": 500,
+                "y": 157,
+                "width": 125,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F6CDDD63-4019-4717-8644-159265DDD8F5",
+            "name": "红包记录统计－",
+            "rect": {
+                "x": 0,
+                "y": 220,
+                "width": 750,
+                "height": 420
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AED14C6F-BD34-4AEE-9738-54DC92FCE335",
+            "name": "Rectangle 119 Copy 11",
+            "rect": {
+                "x": 499,
+                "y": 216,
+                "width": 129,
+                "height": 4
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.18039216,
+                0.18039216,
+                0.18039216,
+                1
+            ]
+        },
+        {
+            "id": "D10D716C-EF6C-4F14-80A3-B1F761C7B936",
+            "name": "group bg",
+            "rect": {
+                "x": 0,
+                "y": 1341,
+                "width": 750,
+                "height": 140
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "D3475CBE-991F-4849-8058-84DD27E88173",
+            "name": "黄金红包",
+            "rect": {
+                "x": 141,
+                "y": 1376,
+                "width": 125,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "F36BC357-D59C-4E85-8FF8-E9278B0C9B6F",
+            "name": "1个红包 01-12",
+            "rect": {
+                "x": 141,
+                "y": 1422,
+                "width": 175,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "4E34CE57-6CDF-4228-BB20-3323D8B7B109",
+            "name": "Divider Bottom",
+            "rect": {
+                "x": 30,
+                "y": 1480,
+                "width": 720,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9411765,
+                0.92941177,
+                0.9098039,
+                1
+            ]
+        },
+        {
+            "id": "2A74508A-9000-4C38-BD5F-8850AAE8182B",
+            "name": "1毫克",
+            "rect": {
+                "x": 644,
+                "y": 1376,
+                "width": 75,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "83BD11BB-8A80-4501-8A93-532284267E54",
+            "name": "确认中",
+            "rect": {
+                "x": 637,
+                "y": 1424,
+                "width": 81,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "9B0BBB30-8FBD-440C-BEDC-82764F9716FE",
+            "name": "金色红包icon",
+            "rect": {
+                "x": 29,
+                "y": 1369,
+                "width": 82,
+                "height": 82
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F575D966-619F-4CAE-89FE-6E402FBA7B2F",
+            "name": "group bg",
+            "rect": {
+                "x": 0,
+                "y": 1481,
+                "width": 750,
+                "height": 140
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "768E330F-B57E-4679-A4E7-51B28F5E373A",
+            "name": "黄金红包",
+            "rect": {
+                "x": 141,
+                "y": 1516,
+                "width": 125,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "30894E2B-745D-456E-89DE-03F4CFBE3E8A",
+            "name": "1个红包 01-12",
+            "rect": {
+                "x": 141,
+                "y": 1562,
+                "width": 175,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "E3E553AB-F965-4A50-87F0-469D4E3ED930",
+            "name": "Divider Bottom",
+            "rect": {
+                "x": 30,
+                "y": 1620,
+                "width": 720,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9411765,
+                0.92941177,
+                0.9098039,
+                1
+            ]
+        },
+        {
+            "id": "8C3A781B-F5FE-42CD-9DBF-24557CBD0E86",
+            "name": "1毫克",
+            "rect": {
+                "x": 644,
+                "y": 1516,
+                "width": 75,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "A3701AFE-84C6-4FC3-8B29-330B80DE44AD",
+            "name": "确认失败",
+            "rect": {
+                "x": 609,
+                "y": 1564,
+                "width": 110,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "2A097226-1D25-4B4B-9B9D-55DD20B72274",
+            "name": "金色红包icon",
+            "rect": {
+                "x": 29,
+                "y": 1509,
+                "width": 82,
+                "height": 82
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BBC4E2ED-1D0B-4824-9D98-2A37E4E394CA",
+            "name": "黄金红包Top－无小马达",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 130
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1621,
+    "layer_width": 64,
+    "layer_height": 64
+}

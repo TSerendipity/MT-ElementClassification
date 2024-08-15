@@ -1,0 +1,800 @@
+{
+    "layers": [
+        {
+            "id": "67ACB759-EA6B-44C0-BF82-6EA04E91FA85",
+            "name": "1A",
+            "rect": {
+                "x": 20,
+                "y": 40,
+                "width": 21,
+                "height": 17
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.13333334,
+                0.13333334,
+                0.13333334,
+                1
+            ]
+        },
+        {
+            "id": "F2DFA31B-3C95-41BB-A55C-EAE85CD6152D",
+            "name": "Super Mario Bros",
+            "rect": {
+                "x": 108,
+                "y": 37,
+                "width": 160,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E897FC42-C8B6-4FBA-B3B3-DC354700270E",
+            "name": "Buy whole package",
+            "rect": {
+                "x": 26,
+                "y": 633,
+                "width": 155,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DEC65433-48DF-4BC0-BF86-E52E76CD8735",
+            "name": "Rectangle",
+            "rect": {
+                "x": 12,
+                "y": 655,
+                "width": 363,
+                "height": 153
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "448F175C-588D-4EB7-8695-FF7C501A1F35",
+            "name": "Oval",
+            "rect": {
+                "x": 12,
+                "y": 655,
+                "width": 363,
+                "height": 153
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "3F2E592B-2588-4079-B21E-4DEEBF79CA05",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 12,
+                "y": 655,
+                "width": 363,
+                "height": 153
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "106DC2D5-F48A-4D4C-8CE1-C68AB2C8B0CA",
+            "name": "Line",
+            "rect": {
+                "x": 261,
+                "y": 676,
+                "width": 2,
+                "height": 77
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "05007D63-588B-4790-A3F9-3E13CE99605C",
+            "name": "€ 19.99",
+            "rect": {
+                "x": 274,
+                "y": 715,
+                "width": 62,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C00ADB69-70E9-43F3-BBED-82F827CC90F2",
+            "name": "Buy Now",
+            "rect": {
+                "x": 316,
+                "y": 699,
+                "width": 21,
+                "height": 21
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "381E641A-618E-40AC-8175-26AEFA382313",
+            "name": "Pack of 3 Games",
+            "rect": {
+                "x": 130,
+                "y": 687,
+                "width": 101,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A6F2FD40-7FA2-488B-8F46-42A6741F5F6D",
+            "name": "Multiplayer Games",
+            "rect": {
+                "x": 130,
+                "y": 710,
+                "width": 112,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D9031F10-2C93-4C0C-B0C0-15C14CBBFCCA",
+            "name": "Limited in Stocks",
+            "rect": {
+                "x": 130,
+                "y": 734,
+                "width": 103,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "65DE4C91-A4A1-4F63-9B9D-3B35E31489C7",
+            "name": "Oval",
+            "rect": {
+                "x": 123,
+                "y": 690,
+                "width": 3,
+                "height": 3
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.13333334,
+                0.13333334,
+                0.13333334,
+                0.29803923
+            ]
+        },
+        {
+            "id": "8CB29F7B-5A5E-4D14-9347-A1AB8357D296",
+            "name": "Oval Copy 4",
+            "rect": {
+                "x": 123,
+                "y": 713,
+                "width": 3,
+                "height": 3
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.13333334,
+                0.13333334,
+                0.13333334,
+                0.29803923
+            ]
+        },
+        {
+            "id": "EE341B6C-0D40-4A4C-8BA4-9169227725F7",
+            "name": "Oval Copy 5",
+            "rect": {
+                "x": 123,
+                "y": 737,
+                "width": 3,
+                "height": 3
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.13333334,
+                0.13333334,
+                0.13333334,
+                0.29803923
+            ]
+        },
+        {
+            "id": "5994F431-C610-423E-9EB0-C54D23567D63",
+            "name": "Mask",
+            "rect": {
+                "x": 70,
+                "y": 692,
+                "width": 37,
+                "height": 47
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "26E40BFB-E018-4D88-83C2-5C25AE8575C7",
+            "name": "530-90_574d56266c1d2",
+            "rect": {
+                "x": 70,
+                "y": 692,
+                "width": 37,
+                "height": 47
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AE53396E-91BF-45B2-B56A-4BD892236A9D",
+            "name": "Mask",
+            "rect": {
+                "x": 56,
+                "y": 687,
+                "width": 45,
+                "height": 57
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "938DDE79-D204-4C36-A3CD-C6B8ABF8633D",
+            "name": "WiiU_MK8_artwork_07__1_.0",
+            "rect": {
+                "x": 56,
+                "y": 687,
+                "width": 45,
+                "height": 57
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0.2
+            ]
+        },
+        {
+            "id": "A7B21971-57DC-484D-B937-6085F3A8CA13",
+            "name": "Mask",
+            "rect": {
+                "x": 42,
+                "y": 682,
+                "width": 52,
+                "height": 67
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "70AE10F9-7C76-4B19-9275-B365C1904ADF",
+            "name": "pG4sH0D",
+            "rect": {
+                "x": 42,
+                "y": 682,
+                "width": 52,
+                "height": 67
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D6FA769C-8B25-45EF-A498-7A10EE59DD0E",
+            "name": "Game of the year",
+            "rect": {
+                "x": 25,
+                "y": 209,
+                "width": 126,
+                "height": 51
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A35B85C5-3819-4DDF-AF68-872A64648648",
+            "name": "584df3376a5ae41a83ddee00",
+            "rect": {
+                "x": 156,
+                "y": 70,
+                "width": 273,
+                "height": 273
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7A7EBD15-35A4-441D-969C-5FB3C5561F47",
+            "name": "Mask Copy",
+            "rect": {
+                "x": 65,
+                "y": 352,
+                "width": 227,
+                "height": 285
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "D7C11DA6-E5BF-4A51-994F-5D9909B5B23B",
+            "name": "Mask",
+            "rect": {
+                "x": 40,
+                "y": 342,
+                "width": 277,
+                "height": 285
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "C004ADCD-4D7C-4F86-ABB3-3E346505EA1C",
+            "name": "Mask",
+            "rect": {
+                "x": 0,
+                "y": 322,
+                "width": 357,
+                "height": 329
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "A2A853CC-E637-40E8-A884-1DFAD0039F98",
+            "name": "Rectangle Copy",
+            "rect": {
+                "x": 219,
+                "y": 490,
+                "width": 120,
+                "height": 79
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.95686275,
+                0.14117648,
+                0.2509804,
+                1
+            ]
+        },
+        {
+            "id": "38BD1252-83F4-4ADC-8AB0-B7E49C40FE4B",
+            "name": "€ 7.99",
+            "rect": {
+                "x": 236,
+                "y": 500,
+                "width": 88,
+                "height": 60
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B453E99E-315E-4E05-BA78-5196C64D1F96",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 322,
+                "width": 355,
+                "height": 208
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "CC3B52F9-4A42-4520-A3AC-0FFA9CA0481C",
+            "name": "514007",
+            "rect": {
+                "x": 0,
+                "y": 322,
+                "width": 355,
+                "height": 208
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "9E2A6424-9A4F-4090-8B6A-0A2882D67F98",
+            "name": "purepng.com-super-mariomariofictional-charactervideo-gamefranchisenintendodesigner-1701528623783lmseg copy 3",
+            "rect": {
+                "x": 181,
+                "y": 322,
+                "width": 174,
+                "height": 199
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F91EB898-A6DA-4E69-A9D8-CFA61E0EFDAD",
+            "name": "ed9a3958ab9ca1e838b04334de7154b5",
+            "rect": {
+                "x": 3,
+                "y": 375,
+                "width": 182,
+                "height": 154
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "90DCDC82-222E-42E6-AC53-40862F32E2E4",
+            "name": "Fire-Free-Download-PNG",
+            "rect": {
+                "x": 0,
+                "y": 443,
+                "width": 149,
+                "height": 87
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "0B33258A-58E4-48B6-8A96-6A7741793D6B",
+            "name": "Fire-Free-Download-PNG Copy",
+            "rect": {
+                "x": 97,
+                "y": 443,
+                "width": 174,
+                "height": 87
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "5F1D4DAE-DAC7-4124-BAC9-A92BE11BFB3D",
+            "name": "Fire-Free-Download-PNG Copy 2",
+            "rect": {
+                "x": 222,
+                "y": 443,
+                "width": 132,
+                "height": 87
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "94D0F4B0-2CC2-4106-A06C-EA101E3200C5",
+            "name": "purepng.com-super-mariomariofictional-charactervideo-gamefranchisenintendodesigner-1701528623783lmseg copy 4",
+            "rect": {
+                "x": 220,
+                "y": 368,
+                "width": 149,
+                "height": 146
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "54EA3374-E7E6-4D5B-826D-907CA4553839",
+            "name": "purepng.com-super-mariomariofictional-charactervideo-gamefranchisenintendodesigner-1701528623783lmseg copy",
+            "rect": {
+                "x": 191,
+                "y": 303,
+                "width": 113,
+                "height": 85
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "43453FC8-58E9-49CE-82AD-08270A4C26C4",
+            "name": "Super Mario Bros",
+            "rect": {
+                "x": 18,
+                "y": 499,
+                "width": 177,
+                "height": 62
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FCD135A3-A431-4ED6-BC34-2DB0C3C51DB6",
+            "name": "It’s a platform vide",
+            "rect": {
+                "x": 18,
+                "y": 531,
+                "width": 271,
+                "height": 79
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0FF6620A-3732-4676-B331-EA63F2AFBA37",
+            "name": "Oval",
+            "rect": {
+                "x": 330,
+                "y": 481,
+                "width": 34,
+                "height": 35
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.13333334,
+                0.13333334,
+                0.13333334,
+                1
+            ]
+        },
+        {
+            "id": "65A5FEF7-E1BD-4AB0-82D9-64677CFC1F53",
+            "name": "Rectangle",
+            "rect": {
+                "x": 319,
+                "y": 453,
+                "width": 56,
+                "height": 61
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.95686275,
+                0.14117648,
+                0.2509804,
+                1
+            ]
+        },
+        {
+            "id": "B315A415-9334-4EFC-9CEC-6C932D6788B3",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 330,
+                "y": 448,
+                "width": 34,
+                "height": 35
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.13333334,
+                0.13333334,
+                0.13333334,
+                1
+            ]
+        },
+        {
+            "id": "4AE9A60A-34D6-4B9C-A29B-2227E5F04B65",
+            "name": "Oval Copy 3",
+            "rect": {
+                "x": 330,
+                "y": 436,
+                "width": 34,
+                "height": 35
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.13333334,
+                0.13333334,
+                0.13333334,
+                1
+            ]
+        },
+        {
+            "id": "C8B9956A-2C64-44B4-9E65-FAAA78A6527F",
+            "name": "2019",
+            "rect": {
+                "x": 26,
+                "y": 183,
+                "width": 35,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

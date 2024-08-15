@@ -1,0 +1,836 @@
+{
+    "layers": [
+        {
+            "id": "500C1303-CF59-436B-8B3E-D00B92231C81",
+            "name": "Rectangle 5 Copy 4",
+            "rect": {
+                "x": 0,
+                "y": 128,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9254902,
+                0.9254902,
+                0.9254902,
+                1
+            ]
+        },
+        {
+            "id": "967C1EA6-AA02-456D-9FFD-982C175EA6FB",
+            "name": "Mask",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 419
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "2631A136-214D-469A-9312-F7B236035644",
+            "name": "777",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 419
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "E72D4D8F-1F0F-4A22-A489-29F3F96A5741",
+            "name": "Mask",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 419
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0.2509804
+            ]
+        },
+        {
+            "id": "50F27CD4-85F6-4A3F-8CF3-4B039F376399",
+            "name": "项目详情",
+            "rect": {
+                "x": 311,
+                "y": 68,
+                "width": 134,
+                "height": 32
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CC4C1AD6-2324-43B4-89AE-C22735B3686C",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 25,
+                "y": 66,
+                "width": 19,
+                "height": 19
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "0A947639-D854-4F43-82C9-0D01C7CAA132",
+            "name": "Rectangle 11 Copy",
+            "rect": {
+                "x": 25,
+                "y": 83,
+                "width": 19,
+                "height": 19
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "3C04C322-8A5D-4969-B454-83AE53FA83DB",
+            "name": "Mask",
+            "rect": {
+                "x": 24,
+                "y": 152,
+                "width": 188,
+                "height": 235
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "109ABD8E-C9D0-4FBC-B961-79583A17587B",
+            "name": "777",
+            "rect": {
+                "x": 24,
+                "y": 152,
+                "width": 188,
+                "height": 235
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5F2452A0-DFEE-4E42-A244-55CC4896CEF9",
+            "name": "周杰伦2017演唱会世界巡回演唱会摩 天",
+            "rect": {
+                "x": 237,
+                "y": 162,
+                "width": 482,
+                "height": 71
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "904A87D1-115E-426E-A171-29AE580F2809",
+            "name": "Rectangle",
+            "rect": {
+                "x": 239,
+                "y": 259,
+                "width": 72,
+                "height": 36
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "5D200884-05F4-40CB-83AB-2035BA16446E",
+            "name": "实名制",
+            "rect": {
+                "x": 246,
+                "y": 267,
+                "width": 58,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "45E8D24C-251B-403F-9C19-86C0882E99B4",
+            "name": "Status Bar / White ",
+            "rect": {
+                "x": 12,
+                "y": 4,
+                "width": 726,
+                "height": 22
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3F0347C0-4E94-40E8-AF08-C19B65965058",
+            "name": "150元起",
+            "rect": {
+                "x": 237,
+                "y": 353,
+                "width": 108,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "47D7742B-B3C5-4209-86E7-3E9F3A308605",
+            "name": "Rectangle 2 Copy 2",
+            "rect": {
+                "x": 0,
+                "y": 621,
+                "width": 750,
+                "height": 214
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "914D1EA0-E456-4924-80CD-EC8E7FBAE74C",
+            "name": "保利剧院",
+            "rect": {
+                "x": 73,
+                "y": 739,
+                "width": 103,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "67BE1831-C2C5-4554-8252-46268263884A",
+            "name": "北京市东城区东中街30号",
+            "rect": {
+                "x": 73,
+                "y": 780,
+                "width": 289,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1ED35395-AE2E-4CC9-8A56-99EAC355C265",
+            "name": "2017.07.28-2017.09.2 copy",
+            "rect": {
+                "x": 74,
+                "y": 655,
+                "width": 276,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9071B0DD-59E6-42D3-8B7C-F3A696424E77",
+            "name": "Rectangle 5 Copy 4",
+            "rect": {
+                "x": 25,
+                "y": 709,
+                "width": 725,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9254902,
+                0.9254902,
+                0.9254902,
+                1
+            ]
+        },
+        {
+            "id": "92725B0D-C84A-46CD-823A-8C29064CE43C",
+            "name": "Oval 2",
+            "rect": {
+                "x": 27,
+                "y": 753,
+                "width": 28,
+                "height": 34
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "D30522E6-939F-45D7-8288-2525A38557C3",
+            "name": "Path 2",
+            "rect": {
+                "x": 27,
+                "y": 753,
+                "width": 28,
+                "height": 34
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "06729081-83EE-4E98-9237-5F7056773DE7",
+            "name": "Oval 3",
+            "rect": {
+                "x": 34,
+                "y": 760,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "7E9859F9-4B50-4318-B40C-3E42666452CE",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 27,
+                "y": 754,
+                "width": 28,
+                "height": 33
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                0.6901961
+            ]
+        },
+        {
+            "id": "C7F436B4-7E80-4204-84DA-208B557BA4E5",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 41,
+                "y": 660,
+                "width": 7,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.70980394,
+                0.70980394,
+                0.70980394,
+                1
+            ]
+        },
+        {
+            "id": "10D0C1E6-7D7B-47E2-86E7-74EAFD52E320",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 41,
+                "y": 660,
+                "width": 7,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.70980394,
+                0.70980394,
+                0.70980394,
+                1
+            ]
+        },
+        {
+            "id": "0869CAB0-43E2-43A9-8A64-1F2880D73D67",
+            "name": "Oval 2",
+            "rect": {
+                "x": 27,
+                "y": 652,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "F6A375A8-1A2C-403F-9C67-0E270007F6BE",
+            "name": "Rectangle 2 Copy 2",
+            "rect": {
+                "x": 0,
+                "y": 847,
+                "width": 750,
+                "height": 460
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "0381F046-2DDE-4E2C-B1C4-AA7F1BAB8518",
+            "name": "查看更多",
+            "rect": {
+                "x": 324,
+                "y": 1248,
+                "width": 101,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4C4EEB23-F08F-4476-ADA7-6810936FB5D2",
+            "name": "项目介绍",
+            "rect": {
+                "x": 24,
+                "y": 881,
+                "width": 101,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "273AB30F-EEFE-4C73-9BD8-B7E4179AD20B",
+            "name": "Rectangle 5 Copy 4",
+            "rect": {
+                "x": 24,
+                "y": 937,
+                "width": 702,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9254902,
+                0.9254902,
+                0.9254902,
+                1
+            ]
+        },
+        {
+            "id": "CC701DF7-8E42-4F58-B5CC-636F791C7F2B",
+            "name": "Rectangle 5 Copy 4",
+            "rect": {
+                "x": 0,
+                "y": 1216,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9254902,
+                0.9254902,
+                0.9254902,
+                1
+            ]
+        },
+        {
+            "id": "4EF9A04A-A546-4F84-AFA8-0E15C2DDF86E",
+            "name": "此次全新巡演是五月天成军20年的重要里程",
+            "rect": {
+                "x": 26,
+                "y": 968,
+                "width": 693,
+                "height": 217
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DA05B202-2340-45DC-A23C-FEF30EDA8A0C",
+            "name": "Rectangle 2 Copy 2",
+            "rect": {
+                "x": 0,
+                "y": 1237,
+                "width": 750,
+                "height": 96
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                0.27450982,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "01B8B0C7-BBDF-4989-8E35-25AB0D04102B",
+            "name": "选座购买",
+            "rect": {
+                "x": 317,
+                "y": 1268,
+                "width": 118,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C89F54C4-8584-4E03-911D-F79B233277CC",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 0,
+                "y": 529,
+                "width": 750,
+                "height": 92
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.972549,
+                0.972549,
+                0.972549,
+                1
+            ]
+        },
+        {
+            "id": "B81BBDF9-A9C3-4019-9202-C7F0FED9021D",
+            "name": "票品优惠（满100减10元，满200减2",
+            "rect": {
+                "x": 88,
+                "y": 564,
+                "width": 393,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "121926B7-8A89-4FD8-94F7-8ADE8EDAFE8E",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 25,
+                "y": 560,
+                "width": 52,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "B8C13305-B9C4-4CBE-BE57-14A8947AA4DD",
+            "name": "优惠",
+            "rect": {
+                "x": 31,
+                "y": 565,
+                "width": 40,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "128B2BEE-E181-4615-84AB-EDBC61396091",
+            "name": "更多",
+            "rect": {
+                "x": 671,
+                "y": 565,
+                "width": 39,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0D039458-EA10-41D7-A0BD-7617827626DB",
+            "name": "Path",
+            "rect": {
+                "x": 723,
+                "y": 569,
+                "width": 7,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6,
+                0.6,
+                0.6,
+                1
+            ]
+        },
+        {
+            "id": "990F5771-DAC3-4539-AC06-8052E890A35A",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 0,
+                "y": 419,
+                "width": 750,
+                "height": 112
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.972549,
+                0.972549,
+                0.972549,
+                1
+            ]
+        },
+        {
+            "id": "C299D20A-5DEA-47BE-9319-FB2B67B73181",
+            "name": "Oval",
+            "rect": {
+                "x": 27,
+                "y": 446,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "A7137224-7C74-4F99-BE19-8C1165D01526",
+            "name": "Rectangle 9",
+            "rect": {
+                "x": 41,
+                "y": 452,
+                "width": 2,
+                "height": 12
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "1BC5561B-810E-488C-B926-1104F610E616",
+            "name": "Oval 3",
+            "rect": {
+                "x": 40,
+                "y": 467,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "A0129399-A391-42B4-A172-09AF90732DD4",
+            "name": "本剧目开票15天内专享5折优惠，15天后",
+            "rect": {
+                "x": 73,
+                "y": 449,
+                "width": 651,
+                "height": 52
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8420F4FD-FFCE-427C-ABF9-9F252110B6DB",
+            "name": "Line",
+            "rect": {
+                "x": 24,
+                "y": 528,
+                "width": 704,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

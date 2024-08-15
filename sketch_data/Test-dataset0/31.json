@@ -1,0 +1,1214 @@
+{
+    "layers": [
+        {
+            "id": "6B87E311-1718-4C67-8C77-64546D7533B1",
+            "name": "Mask",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                0.17254902,
+                0.15686275,
+                0.21960784,
+                1
+            ]
+        },
+        {
+            "id": "08363398-E7F5-406A-9E10-6EBA533CC1C6",
+            "name": "Path",
+            "rect": {
+                "x": 162,
+                "y": 0,
+                "width": 213,
+                "height": 233
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5EFB3A99-0CB5-4BF6-A860-B01F8376CF31",
+            "name": "Path",
+            "rect": {
+                "x": 162,
+                "y": 0,
+                "width": 213,
+                "height": 233
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D57DD924-88D0-4886-91DF-5486F80DDBE2",
+            "name": "Path",
+            "rect": {
+                "x": 162,
+                "y": 0,
+                "width": 213,
+                "height": 233
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F1E7E6C2-64B4-448C-B5C2-233E46D49A7C",
+            "name": "Episode 148",
+            "rect": {
+                "x": 109,
+                "y": 271,
+                "width": 85,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "67CE673E-0327-484C-A667-6FFEA6146F6D",
+            "name": "Martin Garrix Show",
+            "rect": {
+                "x": 109,
+                "y": 291,
+                "width": 107,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "56B7D3E9-F0B5-40AB-99C6-FFDB1AB956F3",
+            "name": "1:42:00",
+            "rect": {
+                "x": 108,
+                "y": 308,
+                "width": 42,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E2FBA23D-AB3B-4B04-8CC5-0E6BC74B6973",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 293,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0AC9D8AF-1033-4DE1-8DC5-6030A08F8BF6",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 293,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FF78DF03-627A-429F-9FEC-8B3E4A1A71CC",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 293,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7AB7F867-DA15-4859-AA39-F1ABF9E3703C",
+            "name": "Oval",
+            "rect": {
+                "x": 29,
+                "y": 264,
+                "width": 62,
+                "height": 62
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "71BDFE5A-0B5B-4E33-9D4D-060835E03867",
+            "name": "Path",
+            "rect": {
+                "x": 54,
+                "y": 287,
+                "width": 14,
+                "height": 17
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "88C51ECC-39D5-400E-85BE-25F96E2616E4",
+            "name": "Episode 149",
+            "rect": {
+                "x": 109,
+                "y": 356,
+                "width": 85,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EA6E1DA4-2107-45B9-AA7C-A9A4B98DE4E0",
+            "name": "Martin Garrix Show",
+            "rect": {
+                "x": 109,
+                "y": 376,
+                "width": 107,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6E668398-E0CF-4A85-97FA-03A71CE0825C",
+            "name": "1:42:00",
+            "rect": {
+                "x": 108,
+                "y": 393,
+                "width": 42,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "14DAE6E6-11B0-4FCD-B8B0-A52196BF6A15",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 378,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E7AEC540-18D3-43C5-8D6F-7E03A4FDFB1E",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 378,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B26213E5-E65D-4B35-BE79-8DEE9CDE0DD2",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 378,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CCEF6B44-D7BB-48F1-AE7B-E0A87B8695FC",
+            "name": "Oval",
+            "rect": {
+                "x": 29,
+                "y": 349,
+                "width": 62,
+                "height": 62
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "C91AA71A-1212-444D-A711-A8944F12CFC7",
+            "name": "Path",
+            "rect": {
+                "x": 54,
+                "y": 372,
+                "width": 14,
+                "height": 17
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "097C6536-15C6-4D23-858C-F8A8F0466266",
+            "name": "Episode 150",
+            "rect": {
+                "x": 109,
+                "y": 441,
+                "width": 84,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "639DBD81-1A2F-4C55-9171-A296156DA75E",
+            "name": "Martin Garrix Show",
+            "rect": {
+                "x": 109,
+                "y": 461,
+                "width": 107,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7920F883-AD98-44E4-BC85-03E1D8C01682",
+            "name": "1:42:00",
+            "rect": {
+                "x": 108,
+                "y": 478,
+                "width": 42,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FA3F7844-9908-4A02-AAC3-A2370D93F882",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 463,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DBAECBCC-85C9-4AD5-89D6-E0B5FF0CF4C4",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 463,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5149B560-57E4-41F2-8223-11C6F7442793",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 463,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6AC7B0A7-8B44-4628-AB20-6DDA882E8A10",
+            "name": "Oval",
+            "rect": {
+                "x": 29,
+                "y": 434,
+                "width": 62,
+                "height": 62
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "8E94BCF7-EE95-4672-8A66-CC96DA9B0BB4",
+            "name": "Path",
+            "rect": {
+                "x": 54,
+                "y": 457,
+                "width": 14,
+                "height": 17
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B3C43732-8717-48D7-8E0F-A3A31CE8F707",
+            "name": "Episode 210",
+            "rect": {
+                "x": 109,
+                "y": 526,
+                "width": 84,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "247846A0-F13E-4979-A9C6-A807C62B8C37",
+            "name": "Afrojack - Jacked Ra",
+            "rect": {
+                "x": 108,
+                "y": 546,
+                "width": 135,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "886BCB1E-DC4C-4AF9-A5DC-94CAB5D75F9D",
+            "name": "1:42:00",
+            "rect": {
+                "x": 108,
+                "y": 563,
+                "width": 42,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "24E31E63-8015-40EB-9D18-06065E26DCA4",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 548,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "624C7CB1-778C-46E4-BC0F-237375FA51BF",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 548,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EDEFF8FC-596D-49B5-9A71-69AC2A9C1C09",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 548,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F03665BF-3D9E-459E-9BBB-C606754BE4F3",
+            "name": "Oval",
+            "rect": {
+                "x": 29,
+                "y": 519,
+                "width": 62,
+                "height": 62
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "92768213-7E6E-479D-883F-D6020C414C74",
+            "name": "Path",
+            "rect": {
+                "x": 54,
+                "y": 542,
+                "width": 14,
+                "height": 17
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A699D0C2-7A92-4A5B-8ABF-362594A01646",
+            "name": "Episode 210",
+            "rect": {
+                "x": 109,
+                "y": 611,
+                "width": 84,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3A2E768C-F5E5-4B0F-992C-24AC1C318B1C",
+            "name": "Afrojack - Jacked Ra",
+            "rect": {
+                "x": 108,
+                "y": 631,
+                "width": 135,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6C7C7D16-2D8F-4522-95EB-0AA9BBF59457",
+            "name": "1:42:00",
+            "rect": {
+                "x": 108,
+                "y": 648,
+                "width": 42,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F965E193-BB83-48D3-8470-F10D73FA200B",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 633,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "71DC2958-BCF2-4FBD-A33D-5A3A34995F02",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 633,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F8488750-C6A6-402F-8292-147764946A07",
+            "name": "Oval",
+            "rect": {
+                "x": 329,
+                "y": 633,
+                "width": 18,
+                "height": 4
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DA196752-F319-4503-8C32-6974B2C40B8A",
+            "name": "Oval",
+            "rect": {
+                "x": 29,
+                "y": 604,
+                "width": 62,
+                "height": 62
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "4FEEA897-1BD2-4633-8F2C-744100A6F3DF",
+            "name": "Path",
+            "rect": {
+                "x": 54,
+                "y": 627,
+                "width": 14,
+                "height": 17
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8888F943-0F75-4604-8CDC-858DC3968FC0",
+            "name": "DOWNLOADS",
+            "rect": {
+                "x": 29,
+                "y": 165,
+                "width": 136,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "457A974F-ECDB-4B78-B220-5CFA6D6E3D4B",
+            "name": "Path",
+            "rect": {
+                "x": 28,
+                "y": 50,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.3137255,
+                0.8901961,
+                0.7607843,
+                1
+            ]
+        },
+        {
+            "id": "2079AF26-F20E-41CB-BD9C-01A489A2B558",
+            "name": "Path",
+            "rect": {
+                "x": 28,
+                "y": 50,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.3137255,
+                0.8901961,
+                0.7607843,
+                1
+            ]
+        },
+        {
+            "id": "9160304D-32ED-4B5B-8C77-C928AA8E9D44",
+            "name": "Path",
+            "rect": {
+                "x": 28,
+                "y": 50,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.3137255,
+                0.8901961,
+                0.7607843,
+                1
+            ]
+        },
+        {
+            "id": "BDE4B94C-844B-4535-8A99-8564EC7AEEAC",
+            "name": "POD",
+            "rect": {
+                "x": 81,
+                "y": 54,
+                "width": 35,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9572451C-0108-4A28-95B2-1D422F7DC936",
+            "name": "CASTR",
+            "rect": {
+                "x": 79,
+                "y": 72,
+                "width": 46,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "72BDF493-2DA0-4ED9-9A32-82CF0B3A32C1",
+            "name": "Rectangle",
+            "rect": {
+                "x": 304,
+                "y": 49,
+                "width": 42,
+                "height": 42
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "04BDD843-5FCC-489C-BC51-93F1DB2BB354",
+            "name": "Oval",
+            "rect": {
+                "x": 317,
+                "y": 62,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2FCEF8B9-04E8-4FCF-A263-B42C246461BC",
+            "name": "Path",
+            "rect": {
+                "x": 317,
+                "y": 62,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9B972C82-45AE-4DF9-84E2-501D7A38579C",
+            "name": "Listen to all your p",
+            "rect": {
+                "x": 28,
+                "y": 197,
+                "width": 143,
+                "height": 28
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3F40336E-7E41-4BBF-9B7E-5C9A51D83931",
+            "name": "iPhone X/Home Indicator/Home Indicator - On Dark",
+            "rect": {
+                "x": 121,
+                "y": 798,
+                "width": 134,
+                "height": 5
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "72D328BE-B776-410E-9FC9-72631ED19986",
+            "name": "Path",
+            "rect": {
+                "x": 130,
+                "y": 735,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5F05DD54-FC80-43F4-A504-9DE2C925B792",
+            "name": "Path",
+            "rect": {
+                "x": 130,
+                "y": 735,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7C78C8A3-8F7E-460B-9457-12CAD36EEBA4",
+            "name": "Path",
+            "rect": {
+                "x": 130,
+                "y": 735,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4FFB8C89-5B14-4026-9624-466416294F0D",
+            "name": "Rectangle",
+            "rect": {
+                "x": 45,
+                "y": 735,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2D5F4D16-23A9-437C-9BF8-4E6EE1867BF2",
+            "name": "Rectangle",
+            "rect": {
+                "x": 45,
+                "y": 735,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2013B11B-E9E4-4D95-8F29-63AE5713AE9E",
+            "name": "Rectangle",
+            "rect": {
+                "x": 45,
+                "y": 735,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1C934018-D160-43E5-8DD4-54CAB7B4ED2C",
+            "name": "Rectangle",
+            "rect": {
+                "x": 45,
+                "y": 735,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "23492EFC-CC70-491F-A87A-057C2F7D15C5",
+            "name": "Path",
+            "rect": {
+                "x": 221,
+                "y": 735,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F11EA732-46B0-42E5-BDD2-BDF401FF9381",
+            "name": "Path",
+            "rect": {
+                "x": 221,
+                "y": 735,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4184728D-0AF4-4410-813C-6B18A07262B9",
+            "name": "Path",
+            "rect": {
+                "x": 221,
+                "y": 735,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8975D6BE-36C6-4D7E-AAEF-086B7F5ABB1A",
+            "name": "Path",
+            "rect": {
+                "x": 310,
+                "y": 735,
+                "width": 24,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "968DB202-1A3C-4063-B6F9-631E383A518B",
+            "name": "Oval",
+            "rect": {
+                "x": 310,
+                "y": 735,
+                "width": 24,
+                "height": 26
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

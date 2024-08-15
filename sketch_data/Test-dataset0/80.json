@@ -1,0 +1,1052 @@
+{
+    "layers": [
+        {
+            "id": "AC8CDAA1-C15A-401F-8B53-1505A35ED1BE",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 198
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.37254903,
+                0.27058825,
+                0.5686275,
+                1
+            ]
+        },
+        {
+            "id": "264C4590-6735-46DA-9D2F-8BF1FD21EBC2",
+            "name": "Shape",
+            "rect": {
+                "x": 305,
+                "y": 21,
+                "width": 22,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "941B3C99-0DDE-4B85-84CC-76AECD19EA8C",
+            "name": "Fill",
+            "rect": {
+                "x": 305,
+                "y": 21,
+                "width": 22,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1EF25856-D512-4309-9C0A-06AE1CE4550B",
+            "name": "Shape-2",
+            "rect": {
+                "x": 328,
+                "y": 25,
+                "width": 2,
+                "height": 4
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "A9FEE5BB-1E1B-4A99-A5C1-A4061021B8D7",
+            "name": "Shape-3",
+            "rect": {
+                "x": 307,
+                "y": 23,
+                "width": 18,
+                "height": 8
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "BA099D10-CB9D-47B5-B6E8-7C79272AE186",
+            "name": "Shape-4-path",
+            "rect": {
+                "x": 284,
+                "y": 21,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AD34DAF4-0566-4BE7-AD81-B3DEE137DD92",
+            "name": "Shape-4-path",
+            "rect": {
+                "x": 284,
+                "y": 21,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4FD9E7DA-BC60-4A46-B159-14913C3D0254",
+            "name": "Shape-4-path",
+            "rect": {
+                "x": 284,
+                "y": 21,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0E7FEFF0-018C-42F5-9B0B-2549B33A3561",
+            "name": "Shape-5-path",
+            "rect": {
+                "x": 262,
+                "y": 21,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "750C54AD-E2F4-4A67-BBC6-9886ABD14353",
+            "name": "Shape-5-path",
+            "rect": {
+                "x": 262,
+                "y": 21,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5F4548CF-216D-49B7-ACA4-08D3AD82138A",
+            "name": "Shape-5-path",
+            "rect": {
+                "x": 262,
+                "y": 21,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EC5258BA-02F9-4477-8A9C-0E4AB0BEB4B3",
+            "name": "Shape-5-path",
+            "rect": {
+                "x": 262,
+                "y": 21,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "38629AA8-543B-407C-9F16-B96216A75C69",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AE742DF4-7FA7-4649-8817-DEC75C3565A0",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3687B78F-1099-46C3-9C97-98A9725652CC",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "695CAECE-4A77-4FEC-8B49-EEC9B2AB0ABB",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5ACFC776-0603-46FA-8985-DC5CC0333B43",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FDDF5022-7131-4BC4-8CFF-6E1920E58FE6",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "72D92F8E-9195-4331-AF70-39182034BE60",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F8D5DDE0-AE26-4887-8910-0AD52EEB44C2",
+            "name": "Path_200",
+            "rect": {
+                "x": 314,
+                "y": 63,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C09AE244-81D6-4839-A924-F6860F73942B",
+            "name": "Path_201",
+            "rect": {
+                "x": 317,
+                "y": 55,
+                "width": 10,
+                "height": 6
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1E3A53F5-2A3C-49A1-9938-84D5DAB012A0",
+            "name": "Line_209",
+            "rect": {
+                "x": 321,
+                "y": 55,
+                "width": 2,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "33B9C56F-F09D-42C4-87BF-5CEEB285975A",
+            "name": "Line_36",
+            "rect": {
+                "x": 30,
+                "y": 64,
+                "width": 16,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A2D103D4-236F-4832-96EE-D4D5862D8EC5",
+            "name": "Path_12",
+            "rect": {
+                "x": 30,
+                "y": 57,
+                "width": 9,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EEAB6F0F-A837-48A4-ADB9-BA36B60F014D",
+            "name": "WEEK",
+            "rect": {
+                "x": 173,
+                "y": 153,
+                "width": 33,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.6,
+                0.56078434,
+                0.63529414,
+                1
+            ]
+        },
+        {
+            "id": "064B23AF-A29E-48C4-8552-0C099174BC49",
+            "name": "MONTH",
+            "rect": {
+                "x": 263,
+                "y": 152,
+                "width": 44,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.6,
+                0.56078434,
+                0.63529414,
+                1
+            ]
+        },
+        {
+            "id": "0941B59D-7F93-438F-AB94-2A44397678F4",
+            "name": "button",
+            "rect": {
+                "x": 48,
+                "y": 141,
+                "width": 81,
+                "height": 32
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.83137256,
+                0.49803922,
+                0.6509804,
+                1
+            ]
+        },
+        {
+            "id": "4BE8E244-E107-443F-A61B-7871974FF825",
+            "name": "TODAY",
+            "rect": {
+                "x": 67,
+                "y": 152,
+                "width": 42,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "AF2A0B26-3C8B-47B2-B001-E2582BEE5B18",
+            "name": "Activity",
+            "rect": {
+                "x": 45,
+                "y": 96,
+                "width": 84,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "AE477AD6-C84C-4C59-BDEA-F7AF40D4513F",
+            "name": "Rectangle_525",
+            "rect": {
+                "x": 30,
+                "y": 463,
+                "width": 300,
+                "height": 268
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "D2151976-E43F-4791-88BB-6D030583C449",
+            "name": "part",
+            "rect": {
+                "x": 96,
+                "y": 499,
+                "width": 137,
+                "height": 63
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1F1E6E8B-995D-4695-B3F6-9DEF65E93B90",
+            "name": "part-2",
+            "rect": {
+                "x": 84,
+                "y": 542,
+                "width": 64,
+                "height": 136
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D4428869-B0FB-48A3-8D8C-4ACBA36B8E77",
+            "name": "part-3",
+            "rect": {
+                "x": 127,
+                "y": 510,
+                "width": 148,
+                "height": 180
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "582218C1-98C6-4871-9B3A-B581D0ABBF60",
+            "name": "part-4",
+            "rect": {
+                "x": 212,
+                "y": 510,
+                "width": 63,
+                "height": 137
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BABE7740-5FA0-4BFD-B488-8C6043003159",
+            "name": "part-5",
+            "rect": {
+                "x": 136,
+                "y": 499,
+                "width": 97,
+                "height": 32
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5308AE4C-B29C-4608-92CC-F18AE13498AD",
+            "name": "2199",
+            "rect": {
+                "x": 147,
+                "y": 573,
+                "width": 71,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.20784314,
+                0.14901961,
+                0.25490198,
+                1
+            ]
+        },
+        {
+            "id": "FA1B1C03-3D54-46D0-B22C-BB478D9F929D",
+            "name": "Total Calories",
+            "rect": {
+                "x": 143,
+                "y": 607,
+                "width": 72,
+                "height": 10
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.20784314,
+                0.14901961,
+                0.25490198,
+                1
+            ]
+        },
+        {
+            "id": "DA4670B6-3B7C-4AF7-9D94-E134DCF97335",
+            "name": "41",
+            "rect": {
+                "x": 120,
+                "y": 694,
+                "width": 12,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.58431375,
+                0.6,
+                0.7019608,
+                1
+            ]
+        },
+        {
+            "id": "54EFD2C5-EFFC-48A8-B727-312D857382EE",
+            "name": "%",
+            "rect": {
+                "x": 132,
+                "y": 695,
+                "width": 9,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.58431375,
+                0.6,
+                0.7019608,
+                1
+            ]
+        },
+        {
+            "id": "B4D7AB8D-8065-4FAC-BB92-F7317DCF87A4",
+            "name": "18",
+            "rect": {
+                "x": 280,
+                "y": 634,
+                "width": 13,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.30980393,
+                0.5529412,
+                0.79607844,
+                1
+            ]
+        },
+        {
+            "id": "DE9D7F80-CB61-4FDC-A70B-157C35D5350B",
+            "name": "%",
+            "rect": {
+                "x": 293,
+                "y": 637,
+                "width": 8,
+                "height": 8
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.30980393,
+                0.5529412,
+                0.79607844,
+                1
+            ]
+        },
+        {
+            "id": "40583115-6550-4BC1-84CC-EF55E1C0EF01",
+            "name": "18",
+            "rect": {
+                "x": 213,
+                "y": 487,
+                "width": 13,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.5411765,
+                0.3372549,
+                0.6745098,
+                1
+            ]
+        },
+        {
+            "id": "36105C9A-3F63-46B3-A181-FA0B619E878F",
+            "name": "%",
+            "rect": {
+                "x": 225,
+                "y": 490,
+                "width": 8,
+                "height": 8
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.5411765,
+                0.3372549,
+                0.6745098,
+                1
+            ]
+        },
+        {
+            "id": "22265423-BBEC-44B8-9F2E-57696C4FA436",
+            "name": "22",
+            "rect": {
+                "x": 60,
+                "y": 542,
+                "width": 14,
+                "height": 10
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.37254903,
+                0.27058825,
+                0.5686275,
+                1
+            ]
+        },
+        {
+            "id": "B0BCFBB5-3C3A-48FF-95BD-9E18EE996A4A",
+            "name": "%",
+            "rect": {
+                "x": 74,
+                "y": 546,
+                "width": 8,
+                "height": 8
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.37254903,
+                0.27058825,
+                0.5686275,
+                1
+            ]
+        },
+        {
+            "id": "57014558-B129-45EA-AFF1-56D296093054",
+            "name": "bg-2",
+            "rect": {
+                "x": 30,
+                "y": 212,
+                "width": 300,
+                "height": 242
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "004FC16E-DEE7-46F8-B646-FE2AD6196352",
+            "name": "Yoga",
+            "rect": {
+                "x": 77,
+                "y": 248,
+                "width": 37,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.20784314,
+                0.14901961,
+                0.25490198,
+                1
+            ]
+        },
+        {
+            "id": "3B2E428C-C73E-4FC7-B6CB-3F19999022AE",
+            "name": "15 min",
+            "rect": {
+                "x": 265,
+                "y": 250,
+                "width": 42,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.20784314,
+                0.14901961,
+                0.25490198,
+                1
+            ]
+        },
+        {
+            "id": "50738D12-AF9D-4EF2-B4C4-938B3829D608",
+            "name": "Ellipse_90",
+            "rect": {
+                "x": 47,
+                "y": 247,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.5411765,
+                0.3372549,
+                0.6745098,
+                1
+            ]
+        },
+        {
+            "id": "D36166FB-E2CE-4E52-BA01-BAEF1E082FB7",
+            "name": "Running",
+            "rect": {
+                "x": 78,
+                "y": 352,
+                "width": 58,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.20784314,
+                0.14901961,
+                0.25490198,
+                1
+            ]
+        },
+        {
+            "id": "22499D5A-1015-4021-9279-8F1C4FD442F4",
+            "name": "17 min",
+            "rect": {
+                "x": 265,
+                "y": 355,
+                "width": 41,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.20784314,
+                0.14901961,
+                0.25490198,
+                1
+            ]
+        },
+        {
+            "id": "995F0F4D-C26C-479E-A4D7-35BB7B8236D2",
+            "name": "Ellipse_90-2",
+            "rect": {
+                "x": 47,
+                "y": 353,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.37254903,
+                0.27058825,
+                0.5686275,
+                1
+            ]
+        },
+        {
+            "id": "70BF4F74-705B-499C-AEE0-91A02A870EC2",
+            "name": "Gym",
+            "rect": {
+                "x": 78,
+                "y": 404,
+                "width": 32,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.20784314,
+                0.14901961,
+                0.25490198,
+                1
+            ]
+        },
+        {
+            "id": "A64DC454-D714-4A13-92FA-905A5FE63DA5",
+            "name": "41 min",
+            "rect": {
+                "x": 264,
+                "y": 407,
+                "width": 42,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.20784314,
+                0.14901961,
+                0.25490198,
+                1
+            ]
+        },
+        {
+            "id": "075B024B-2BFA-4752-B602-11290F633952",
+            "name": "Ellipse_90-3",
+            "rect": {
+                "x": 47,
+                "y": 405,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.58431375,
+                0.6,
+                0.7019608,
+                1
+            ]
+        },
+        {
+            "id": "62FE9C97-158C-45F1-A9E3-61515816792D",
+            "name": "Meditation",
+            "rect": {
+                "x": 78,
+                "y": 300,
+                "width": 75,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.20784314,
+                0.14901961,
+                0.25490198,
+                1
+            ]
+        },
+        {
+            "id": "380B2BC3-298B-4ACE-A497-3C35D245E5D5",
+            "name": "34 min",
+            "rect": {
+                "x": 261,
+                "y": 303,
+                "width": 44,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.20784314,
+                0.14901961,
+                0.25490198,
+                1
+            ]
+        },
+        {
+            "id": "79A8E110-6902-4270-9CDB-1A1B69B585C9",
+            "name": "Ellipse_90-4",
+            "rect": {
+                "x": 47,
+                "y": 300,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.30980393,
+                0.5529412,
+                0.79607844,
+                1
+            ]
+        }
+    ],
+    "width": 360,
+    "height": 760,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,1142 @@
+{
+    "layers": [
+        {
+            "id": "2692CA1A-FA34-4FAE-A3F2-8EB4BAB822B6",
+            "name": "Path",
+            "rect": {
+                "x": 28,
+                "y": 72,
+                "width": 488,
+                "height": 344
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A6BA9F0E-95DA-492E-AB62-062D6706A38C",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 364,
+                "width": 480,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7905D1FC-0B08-4768-8ACA-45A5BA6561C3",
+            "name": "回复",
+            "rect": {
+                "x": 99,
+                "y": 381,
+                "width": 27,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A9ECC857-E241-4A57-997C-8584046A975C",
+            "name": "转发",
+            "rect": {
+                "x": 258,
+                "y": 381,
+                "width": 28,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3D840B79-ED94-4BB1-BD28-03F9985310F3",
+            "name": "查看详情",
+            "rect": {
+                "x": 404,
+                "y": 381,
+                "width": 56,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "88AE767E-274F-49CA-8537-49A79FF87AC6",
+            "name": "Path",
+            "rect": {
+                "x": 192,
+                "y": 364,
+                "width": 1,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "41988586-2273-46F1-BB21-9EB17DC65B3E",
+            "name": "Path",
+            "rect": {
+                "x": 351,
+                "y": 364,
+                "width": 1,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4691CD74-6DD7-404A-9487-DE3767DB12CB",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 364,
+                "width": 480,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "32BD04C7-4036-4930-8722-84B8F1477228",
+            "name": "Path",
+            "rect": {
+                "x": 44,
+                "y": 88,
+                "width": 456,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1F633EE9-5AF7-4FC8-8507-ED882B839195",
+            "name": "Path",
+            "rect": {
+                "x": 56,
+                "y": 92,
+                "width": 64,
+                "height": 64
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9A20FA6D-7744-485C-8F61-3A42F8EBB341",
+            "name": "时 间：2016年9月27日星期二 11",
+            "rect": {
+                "x": 56,
+                "y": 182,
+                "width": 252,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7CECC12B-B0CC-419E-9BD7-47C7370A7982",
+            "name": "地 点：桂语山房高级餐厅",
+            "rect": {
+                "x": 56,
+                "y": 206,
+                "width": 144,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "92F64C58-B6D0-46A4-90B0-50C0D57028DA",
+            "name": "组织者：邱珍妮(右玄)",
+            "rect": {
+                "x": 56,
+                "y": 230,
+                "width": 120,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A43224E5-57D7-4FA5-A972-1C3CC9DEC197",
+            "name": "必 选：邱珍妮(右玄)，赵磊(仲权)，周",
+            "rect": {
+                "x": 56,
+                "y": 254,
+                "width": 298,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DBCBCD98-BF7D-49DC-B38A-8A836E2D08DF",
+            "name": "可 选：三通(毕志卫)",
+            "rect": {
+                "x": 56,
+                "y": 278,
+                "width": 118,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0A270E53-CCB4-4AA0-A676-3B062B18F7F9",
+            "name": "Path",
+            "rect": {
+                "x": 56,
+                "y": 316,
+                "width": 242,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "037BF7E5-1158-44B2-9914-324247F5F6E7",
+            "name": "Path",
+            "rect": {
+                "x": 64,
+                "y": 320,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "56CDAF9B-91CB-4055-A46C-40D1056082B2",
+            "name": "Path",
+            "rect": {
+                "x": 65,
+                "y": 321,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6ED55DBE-E5FD-4BAF-AF08-316D0BB4A55E",
+            "name": "Path",
+            "rect": {
+                "x": 69,
+                "y": 326,
+                "width": 7,
+                "height": 5
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EBB857F1-8732-4EAF-ACAE-37D7F6E5301B",
+            "name": "接受",
+            "rect": {
+                "x": 84,
+                "y": 321,
+                "width": 24,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B57DAF98-FADC-458C-8C62-535594B9CF39",
+            "name": "暂定",
+            "rect": {
+                "x": 165,
+                "y": 321,
+                "width": 24,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3EE747B4-4402-4F16-9832-A53E8AA969F6",
+            "name": "拒绝",
+            "rect": {
+                "x": 246,
+                "y": 321,
+                "width": 24,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9AC07F1A-F013-4C99-AE57-9D8D46F28FC8",
+            "name": "Path",
+            "rect": {
+                "x": 112,
+                "y": 320,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "51E6A79E-2744-4095-A3EB-F9FDE3848C55",
+            "name": "Path",
+            "rect": {
+                "x": 116,
+                "y": 325,
+                "width": 8,
+                "height": 6
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "37D2AE07-AE58-41D5-B3D8-6621DEA7687D",
+            "name": "Path",
+            "rect": {
+                "x": 193,
+                "y": 320,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "ECB9AD02-B73F-495D-81E2-79AC0D63C78F",
+            "name": "Path",
+            "rect": {
+                "x": 197,
+                "y": 325,
+                "width": 8,
+                "height": 6
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A21D7A02-F918-49C7-B9C9-EA0EAAABF2AE",
+            "name": "Path",
+            "rect": {
+                "x": 274,
+                "y": 320,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2E3626A3-DBBD-41F0-A4E6-DACA4F008353",
+            "name": "Path",
+            "rect": {
+                "x": 278,
+                "y": 325,
+                "width": 8,
+                "height": 6
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DD5AA6E1-D035-4CB8-8E93-D8755A77C067",
+            "name": "Path",
+            "rect": {
+                "x": 136,
+                "y": 317,
+                "width": 1,
+                "height": 23
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "18BBCAAC-83B1-4AC2-98B5-133270F159DC",
+            "name": "Path",
+            "rect": {
+                "x": 150,
+                "y": 324,
+                "width": 6,
+                "height": 8
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BCFAD915-C8C7-47FD-9205-099765BA084C",
+            "name": "Path",
+            "rect": {
+                "x": 150,
+                "y": 324,
+                "width": 6,
+                "height": 8
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "50ED836E-ADE1-4D82-96B1-B65FF2FCA89D",
+            "name": "Path",
+            "rect": {
+                "x": 146,
+                "y": 321,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "56CF8853-6502-4FB9-A6B2-CD7D39F858B5",
+            "name": "Path",
+            "rect": {
+                "x": 145,
+                "y": 320,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "060EB40F-8337-4E7B-BDC1-3F37A2C30984",
+            "name": "Path",
+            "rect": {
+                "x": 231,
+                "y": 325,
+                "width": 6,
+                "height": 6
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EC74B586-B87C-4088-9B3A-7C1E14266040",
+            "name": "Path",
+            "rect": {
+                "x": 227,
+                "y": 321,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B95B0763-39EF-4E34-9287-3E7B7792847B",
+            "name": "Path",
+            "rect": {
+                "x": 226,
+                "y": 320,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8F551603-E80F-40FC-AD7D-976FF046F002",
+            "name": "Path",
+            "rect": {
+                "x": 217,
+                "y": 317,
+                "width": 1,
+                "height": 23
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "324F1C45-727B-4DBE-BB34-0DB0D10C420F",
+            "name": "邱珍妮(又玄)邀请你参加电话会议. QI",
+            "rect": {
+                "x": 136,
+                "y": 93,
+                "width": 238,
+                "height": 57
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "74D76CA0-416E-4A19-86EC-0DCF22CC7978",
+            "name": "Path",
+            "rect": {
+                "x": 476,
+                "y": 100,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BDAE4942-BA2B-451D-8226-3DF6039B7206",
+            "name": "Path",
+            "rect": {
+                "x": 28,
+                "y": 476,
+                "width": 488,
+                "height": 344
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A6E8DC13-D17E-4FCB-A915-70F104C17D46",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 768,
+                "width": 480,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0CF4239F-5101-42F9-852C-C3AB9AA10D5F",
+            "name": "回复",
+            "rect": {
+                "x": 99,
+                "y": 785,
+                "width": 27,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5D21FD74-2BFB-46CD-AE34-F28EEFF9D2C1",
+            "name": "转发",
+            "rect": {
+                "x": 258,
+                "y": 785,
+                "width": 28,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E1C16603-56E7-4FF2-ADB6-F3E203AB8D05",
+            "name": "查看详情",
+            "rect": {
+                "x": 404,
+                "y": 785,
+                "width": 56,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9A7358B3-06F6-4B4F-8043-36CF7BD69068",
+            "name": "Path",
+            "rect": {
+                "x": 192,
+                "y": 768,
+                "width": 1,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D4C606F9-B133-49B5-B898-FE8CE1B79925",
+            "name": "Path",
+            "rect": {
+                "x": 351,
+                "y": 768,
+                "width": 1,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3C866946-16FE-4624-8F98-9DB6440C0667",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 768,
+                "width": 480,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6D656B1D-20CA-4D67-9D75-128145E761F4",
+            "name": "Path",
+            "rect": {
+                "x": 44,
+                "y": 492,
+                "width": 456,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2AEF251B-30A4-4258-9D78-C46776700890",
+            "name": "时 间：2016年9月27日星期二 11",
+            "rect": {
+                "x": 56,
+                "y": 579,
+                "width": 252,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8AF49A8B-0CA5-46B9-9451-93548D29583E",
+            "name": "地 点：桂语山房高级餐厅",
+            "rect": {
+                "x": 56,
+                "y": 603,
+                "width": 144,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BEA185BE-170C-423C-9111-DD64FFABB936",
+            "name": "组织者：邱珍妮(右玄)",
+            "rect": {
+                "x": 56,
+                "y": 627,
+                "width": 120,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CABA4375-9786-4985-A1BC-08B48EA30647",
+            "name": "必 选：邱珍妮(右玄)，赵磊(仲权)，周",
+            "rect": {
+                "x": 56,
+                "y": 651,
+                "width": 298,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C6FC6FB1-D94A-4743-A643-47275820A0EE",
+            "name": "可 选：三通(毕志卫)",
+            "rect": {
+                "x": 56,
+                "y": 675,
+                "width": 118,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "918F5CA3-C12B-45AC-8605-FC42C677E288",
+            "name": "您是会议组织者无需响应",
+            "rect": {
+                "x": 56,
+                "y": 706,
+                "width": 132,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "96B79A32-46F8-4EDA-9FED-4596AC1FECA4",
+            "name": "查看与会者回应",
+            "rect": {
+                "x": 200,
+                "y": 706,
+                "width": 84,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "17403F7E-E15A-4F75-B2AC-63905B33365B",
+            "name": "Path",
+            "rect": {
+                "x": 476,
+                "y": 504,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EB93E1F3-F48F-4CDA-A6B4-DDC9496B537F",
+            "name": "邱珍妮(又玄)邀请你参加电话会议./QI",
+            "rect": {
+                "x": 56,
+                "y": 507,
+                "width": 305,
+                "height": 43
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "849A1A73-8D67-479A-BECD-971D6A3C77B3",
+            "name": "Path",
+            "rect": {
+                "x": 436,
+                "y": 501,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "66CAFC7D-B229-4032-AEFD-423BE9409658",
+            "name": "Rectangle 220",
+            "rect": {
+                "x": 438,
+                "y": 503,
+                "width": 13,
+                "height": 12
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0262DDB4-EF0C-4821-A096-0EFC345254EF",
+            "name": "Rectangle 220 Copy",
+            "rect": {
+                "x": 438,
+                "y": 503,
+                "width": 13,
+                "height": 12
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A700725E-13D8-457C-A27F-ED33BC14A693",
+            "name": "Triangle 8",
+            "rect": {
+                "x": 438,
+                "y": 503,
+                "width": 13,
+                "height": 12
+            },
+            "_class": "triangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6DEC0775-6A96-4F22-8930-46CCBD630A9E",
+            "name": "收到的邀约卡片",
+            "rect": {
+                "x": 38,
+                "y": 35,
+                "width": 97,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9FD8FCA1-DB17-4A5A-916A-3B37DC992E1C",
+            "name": "发出的邀约卡片",
+            "rect": {
+                "x": 30,
+                "y": 439,
+                "width": 97,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 546,
+    "height": 900,
+    "layer_width": 64,
+    "layer_height": 64
+}

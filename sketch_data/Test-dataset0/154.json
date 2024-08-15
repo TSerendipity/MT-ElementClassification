@@ -1,0 +1,764 @@
+{
+    "layers": [
+        {
+            "id": "8D37F533-878D-478F-B251-9D75B146404A",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 206,
+                "width": 720,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3ACE9D1E-37C1-4596-ADB7-95B46C81AB77",
+            "name": "6月夏日订单累计满返",
+            "rect": {
+                "x": 27,
+                "y": 145,
+                "width": 673,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9CD98904-EAEA-4BF7-8664-CE998D7B1AC3",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 572,
+                "width": 750,
+                "height": 122
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0124B344-F027-4F88-9204-D156927578A3",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 572,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "965F9180-D6F9-4C0E-844D-91AC0BBCBD60",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 693,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0F19D6A8-EC84-4C5A-AAEB-3B55231F8F78",
+            "name": "6月当前确认收货后累计金额",
+            "rect": {
+                "x": 25,
+                "y": 600,
+                "width": 308,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B20DA4AE-83F6-49A7-8F34-1B85500B6D03",
+            "name": "（统计延迟一天）",
+            "rect": {
+                "x": 32,
+                "y": 639,
+                "width": 149,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5F6EF26F-E9AB-4E31-B345-1F4673A969DD",
+            "name": "￥1220",
+            "rect": {
+                "x": 586,
+                "y": 611,
+                "width": 136,
+                "height": 36
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "62B86561-1DE9-461F-B926-65B8AE2BB9F4",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 207,
+                "width": 750,
+                "height": 366
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "357729E4-1DEC-492A-8110-ADFE058E5C5C",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 572,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DB66A79D-EB2E-45A2-8C96-BDFE5B4F677F",
+            "name": "6月1日至6月30日在零售通采购累计满足",
+            "rect": {
+                "x": 166,
+                "y": 373,
+                "width": 539,
+                "height": 168
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "389CF426-3B13-4068-96AE-AECC4A7517BD",
+            "name": "2017年6月1日-2017年6月30日",
+            "rect": {
+                "x": 167,
+                "y": 326,
+                "width": 358,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "88796689-0CC0-4AD1-89FF-9CE63EB47673",
+            "name": "您2017年5月在零售通采购XXX元（不",
+            "rect": {
+                "x": 26,
+                "y": 238,
+                "width": 679,
+                "height": 59
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "267F53AF-1776-4A4D-AB08-99A428AE1E0B",
+            "name": "• 活动时间： • 规则描述：",
+            "rect": {
+                "x": 27,
+                "y": 325,
+                "width": 119,
+                "height": 71
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6C6F49C4-EC1D-40C8-83E9-A7908997D613",
+            "name": "app/topbar copy",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 137
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9AB43F44-805E-4290-A3CA-CCE8EA723ABC",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 127,
+                "width": 750,
+                "height": 60
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2530F34D-FFCF-41CF-9317-91DCC745EDB6",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 186,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DB035313-00DB-4038-B201-B43FD7B14D3D",
+            "name": "7月满返红包",
+            "rect": {
+                "x": 126,
+                "y": 139,
+                "width": 154,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7157FFD6-B786-4DD0-9B37-2C785F278C7B",
+            "name": "未激活卷",
+            "rect": {
+                "x": 303,
+                "y": 123,
+                "width": 113,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "60293A0F-16DE-443A-82C9-E10673FB6E40",
+            "name": "6月满返红包",
+            "rect": {
+                "x": 465,
+                "y": 139,
+                "width": 155,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C7E49684-93FF-40A4-B5DA-9283094778F5",
+            "name": "Path",
+            "rect": {
+                "x": 464,
+                "y": 183,
+                "width": 156,
+                "height": 4
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0998101D-E0E3-41D6-9469-FCBDF097F7C3",
+            "name": "Combined-Shape-path",
+            "rect": {
+                "x": 24,
+                "y": 714,
+                "width": 702,
+                "height": 142
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "395BA5DC-FE92-4BE7-B952-1D1F10B597C2",
+            "name": "¥",
+            "rect": {
+                "x": 46,
+                "y": 758,
+                "width": 13,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7E5B6697-CD36-4758-BF00-910F7F9FEE30",
+            "name": "100",
+            "rect": {
+                "x": 66,
+                "y": 736,
+                "width": 66,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EE32BC47-4552-4F67-93C3-7E192C2875E1",
+            "name": "立即领取",
+            "rect": {
+                "x": 591,
+                "y": 775,
+                "width": 95,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CF7268D8-C479-48FD-BF8A-416D20D4CF83",
+            "name": "红包",
+            "rect": {
+                "x": 155,
+                "y": 751,
+                "width": 46,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "47FB417D-98D3-4857-9685-49115683960B",
+            "name": "当月累计采购满金额￥1000 全部确认收",
+            "rect": {
+                "x": 44,
+                "y": 788,
+                "width": 243,
+                "height": 46
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D0AEFBA8-D5C9-48FB-9074-8172F7C05175",
+            "name": "Line-Copy-7 $(line-cap:square)-path",
+            "rect": {
+                "x": 558,
+                "y": 715,
+                "width": 1,
+                "height": 141
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "52F67F95-1A4D-48F1-9762-46EFFBD93753",
+            "name": "Combined-Shape-Copy-3-path",
+            "rect": {
+                "x": 24,
+                "y": 876,
+                "width": 702,
+                "height": 142
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "823FF92B-E0BF-4673-B9E4-A3973BD0E667",
+            "name": "Line-Copy-8 $(line-cap:square)-path",
+            "rect": {
+                "x": 24,
+                "y": 876,
+                "width": 702,
+                "height": 142
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8973D79A-DF49-430E-B098-708CBB272DB4",
+            "name": "¥",
+            "rect": {
+                "x": 46,
+                "y": 920,
+                "width": 13,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "27EF6387-D259-4142-9A10-7761F2C8280C",
+            "name": "200",
+            "rect": {
+                "x": 62,
+                "y": 898,
+                "width": 70,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DAA9AF81-694A-4C7E-A351-B5EF8C41C8A1",
+            "name": "继续努力",
+            "rect": {
+                "x": 591,
+                "y": 937,
+                "width": 92,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FD815493-30BE-4676-AD18-09D0083A95EC",
+            "name": "红包",
+            "rect": {
+                "x": 155,
+                "y": 913,
+                "width": 46,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CDDE0FD2-C186-4BF3-8E4D-20A92A7D818F",
+            "name": "当月累计采购满金额￥2000 全部确认收",
+            "rect": {
+                "x": 44,
+                "y": 950,
+                "width": 247,
+                "height": 48
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B51E09CA-32ED-4B5B-813C-C57BD6586539",
+            "name": "Combined-Shape-Copy-3-path",
+            "rect": {
+                "x": 24,
+                "y": 1038,
+                "width": 702,
+                "height": 142
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4AFE56EF-72BD-4FB5-A944-324851538A45",
+            "name": "Line-Copy-8 $(line-cap:square)-path",
+            "rect": {
+                "x": 558,
+                "y": 1039,
+                "width": 1,
+                "height": 141
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DBBFCAB3-0981-4EAB-97C9-2DB98F9AA9AC",
+            "name": "¥",
+            "rect": {
+                "x": 46,
+                "y": 1082,
+                "width": 13,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4AFA726D-802A-4C69-B672-666E64C10114",
+            "name": "300",
+            "rect": {
+                "x": 63,
+                "y": 1060,
+                "width": 69,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A8903401-48F1-4621-BDB2-174C53FF9602",
+            "name": "继续努力",
+            "rect": {
+                "x": 591,
+                "y": 1099,
+                "width": 92,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6AC87935-F8C8-4E5E-ADD0-60E5A8457027",
+            "name": "红包",
+            "rect": {
+                "x": 155,
+                "y": 1075,
+                "width": 46,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "45405290-F785-40CD-8A25-A534EA2EA59D",
+            "name": "当月累计采购满金额￥3000 全部确认收",
+            "rect": {
+                "x": 44,
+                "y": 1112,
+                "width": 247,
+                "height": 48
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

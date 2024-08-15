@@ -1,0 +1,1484 @@
+{
+    "layers": [
+        {
+            "id": "14C9F6A3-A560-4B88-B4DF-4F9645A74DFB",
+            "name": "Path",
+            "rect": {
+                "x": 220,
+                "y": 92,
+                "width": 1220,
+                "height": 72
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EF1A24C1-4B93-4FEE-8868-981455A9A99B",
+            "name": "标题",
+            "rect": {
+                "x": 240,
+                "y": 118,
+                "width": 80,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B2801BA0-67FC-4124-AA36-857E8840CD28",
+            "name": "浏览器",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 40
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4F13518C-A0B5-45D7-9D84-0A29B798F8A5",
+            "name": "组件/按钮/主要",
+            "rect": {
+                "x": 1360,
+                "y": 112,
+                "width": 60,
+                "height": 32
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7B26A453-CF6C-4DE5-B7B5-CC773046A5DE",
+            "name": "Path",
+            "rect": {
+                "x": 236,
+                "y": 182,
+                "width": 288,
+                "height": 148
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5B03BD52-A02A-4ADC-9E16-E12038B63ADA",
+            "name": "环保看板",
+            "rect": {
+                "x": 256,
+                "y": 203,
+                "width": 56,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D0C05D5E-EA17-4AB9-9BA4-1CBABB80B59B",
+            "name": "5",
+            "rect": {
+                "x": 412,
+                "y": 261,
+                "width": 17,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A37E70EB-6C82-4E6C-ACF2-53076402A9AE",
+            "name": "数据卡片",
+            "rect": {
+                "x": 392,
+                "y": 231,
+                "width": 55,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7A1FFA21-07FA-4602-AB1F-B2393B940D2F",
+            "name": "图标/信息/疑问",
+            "rect": {
+                "x": 462,
+                "y": 202,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7E345B53-F219-4E2C-8671-6FE187CFBDB0",
+            "name": "图标/更多",
+            "rect": {
+                "x": 488,
+                "y": 209,
+                "width": 12,
+                "height": 2
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "62B1D8E8-A6AD-4AC8-9A03-01AF762D63D2",
+            "name": "Path",
+            "rect": {
+                "x": 236,
+                "y": 342,
+                "width": 288,
+                "height": 148
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E51CCBF7-2262-4CE5-9FC9-EE47CBA97A89",
+            "name": "iconfont地址： copy",
+            "rect": {
+                "x": 302,
+                "y": 503,
+                "width": 74,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FE4025B6-C14D-469E-B70A-A4A7B1DD091A",
+            "name": "http://www.iconfont.",
+            "rect": {
+                "x": 301,
+                "y": 541,
+                "width": 535,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "17EA869D-46BC-47E2-85E3-54885AE794A1",
+            "name": "我的项目-（平台-入口大图）",
+            "rect": {
+                "x": 302,
+                "y": 520,
+                "width": 150,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3B70473B-E9FB-4605-813B-75A99E2DDC46",
+            "name": "Path",
+            "rect": {
+                "x": 302,
+                "y": 564,
+                "width": 600,
+                "height": 162
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E70316EE-9D58-44B5-90A2-5A7A523E8454",
+            "name": "Bitmap",
+            "rect": {
+                "x": 312,
+                "y": 581,
+                "width": 580,
+                "height": 128
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "905DAAFE-70C9-4319-862D-82686B36C3B1",
+            "name": "农业看板",
+            "rect": {
+                "x": 256,
+                "y": 363,
+                "width": 56,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D46005E9-7874-4052-AABB-C9D46EB21A24",
+            "name": "5",
+            "rect": {
+                "x": 412,
+                "y": 421,
+                "width": 17,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9C63B782-F6D4-46C0-AB26-204752252DCD",
+            "name": "数据卡片",
+            "rect": {
+                "x": 392,
+                "y": 391,
+                "width": 55,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F91A04E0-9723-47C9-A831-D0BD45999D24",
+            "name": "图标/信息/疑问",
+            "rect": {
+                "x": 462,
+                "y": 362,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "276347FD-B8B0-443D-BC60-B9CDD98AB238",
+            "name": "图标/更多",
+            "rect": {
+                "x": 488,
+                "y": 369,
+                "width": 12,
+                "height": 2
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AE407329-5C64-4610-AA88-29D4F1E78DF5",
+            "name": "Path",
+            "rect": {
+                "x": 536,
+                "y": 182,
+                "width": 288,
+                "height": 148
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "647E8ABA-D3DF-4A9D-A653-779BF74E3DEC",
+            "name": "水务看板",
+            "rect": {
+                "x": 556,
+                "y": 203,
+                "width": 56,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "510C9EE0-B8F3-48B6-AD09-04B5F846E39B",
+            "name": "10",
+            "rect": {
+                "x": 704,
+                "y": 260,
+                "width": 31,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9A2931A3-CBB3-41DF-B62A-5473D8DAFF80",
+            "name": "数据卡片",
+            "rect": {
+                "x": 692,
+                "y": 231,
+                "width": 55,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0B2A41A1-60AD-4AE4-A39B-7E11A8340BF5",
+            "name": "图标/信息/疑问",
+            "rect": {
+                "x": 762,
+                "y": 202,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "68489F36-36DF-4A64-8299-A3AC1D6C5B7C",
+            "name": "图标/更多",
+            "rect": {
+                "x": 788,
+                "y": 209,
+                "width": 12,
+                "height": 2
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "37062662-4712-4704-9C0E-6459D8C1BDA1",
+            "name": "Path",
+            "rect": {
+                "x": 536,
+                "y": 342,
+                "width": 288,
+                "height": 148
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "14297295-0C4E-48A6-852A-F3B3D8F3BFE0",
+            "name": "数据看板",
+            "rect": {
+                "x": 556,
+                "y": 363,
+                "width": 56,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BD1E6D0C-A85B-4CD9-81BE-B001D579D192",
+            "name": "5",
+            "rect": {
+                "x": 712,
+                "y": 417,
+                "width": 17,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0C492956-A8EC-40AD-A4C9-8B0EA847CE55",
+            "name": "数据卡片",
+            "rect": {
+                "x": 692,
+                "y": 387,
+                "width": 55,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E8730C40-4128-4D05-A26C-D65D42F86012",
+            "name": "图标/信息/疑问",
+            "rect": {
+                "x": 762,
+                "y": 362,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D8C3B11F-8DF3-4F30-B254-0FDD0350CDC3",
+            "name": "图标/更多",
+            "rect": {
+                "x": 788,
+                "y": 369,
+                "width": 12,
+                "height": 2
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "68699AC2-9906-49A0-A406-6C2F87F191D5",
+            "name": "Path",
+            "rect": {
+                "x": 836,
+                "y": 182,
+                "width": 288,
+                "height": 148
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "95AA59AD-D10A-47E1-9DDE-DC5B508C2FE9",
+            "name": "交通看板",
+            "rect": {
+                "x": 856,
+                "y": 203,
+                "width": 56,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "912250CE-C846-4F1A-89C5-3D59AD8D8A73",
+            "name": "5",
+            "rect": {
+                "x": 1012,
+                "y": 261,
+                "width": 17,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9DD3E527-FD2D-4875-8164-DE2C3F14303F",
+            "name": "数据卡片",
+            "rect": {
+                "x": 992,
+                "y": 231,
+                "width": 55,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "51F05367-2379-4659-8B1F-C7FB3CA46631",
+            "name": "图标/信息/疑问",
+            "rect": {
+                "x": 1062,
+                "y": 202,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AC3173A2-25E0-4FA8-B66E-548F6027E8C1",
+            "name": "图标/更多",
+            "rect": {
+                "x": 1088,
+                "y": 209,
+                "width": 12,
+                "height": 2
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5A36FB51-6B8D-43D3-88FC-6E5CCFCC924B",
+            "name": "Path",
+            "rect": {
+                "x": 1136,
+                "y": 182,
+                "width": 288,
+                "height": 148
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "88FD7742-250D-49FB-87B0-31EF3D1A9511",
+            "name": "天气看板",
+            "rect": {
+                "x": 1156,
+                "y": 203,
+                "width": 56,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5BECF414-E4F0-4779-9E2A-3E0975244FDA",
+            "name": "5",
+            "rect": {
+                "x": 1312,
+                "y": 261,
+                "width": 17,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "982CFB8B-10CE-4ACC-9562-7C869DEEF55E",
+            "name": "数据卡片",
+            "rect": {
+                "x": 1292,
+                "y": 231,
+                "width": 55,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AFB2C673-CFE0-4C4B-B62F-6849F3D2EC2C",
+            "name": "图标/信息/疑问",
+            "rect": {
+                "x": 1362,
+                "y": 202,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C68CFD20-8A7E-4E44-A03C-6076D6740C03",
+            "name": "图标/更多",
+            "rect": {
+                "x": 1388,
+                "y": 209,
+                "width": 12,
+                "height": 2
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A74C5214-2419-45EA-8796-EB3843EC4A21",
+            "name": "入口-天气看板",
+            "rect": {
+                "x": 1166,
+                "y": 245,
+                "width": 52,
+                "height": 42
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E49C0AE4-2C5B-4030-BB6E-B14113E7BFA6",
+            "name": "入口-天气看板 copy",
+            "rect": {
+                "x": 876,
+                "y": 244,
+                "width": 52,
+                "height": 44
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "10ADEC64-D5C5-4B44-8BEC-C9EC86D18B21",
+            "name": "入口-天气看板 copy 2",
+            "rect": {
+                "x": 578,
+                "y": 240,
+                "width": 48,
+                "height": 49
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "04DA0119-88D4-421F-A3DE-1871DC470512",
+            "name": "入口-天气看板 copy 3",
+            "rect": {
+                "x": 277,
+                "y": 240,
+                "width": 50,
+                "height": 48
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7EFDC7EA-AD88-480F-A4D6-44E0C8BC6BC9",
+            "name": "入口-天气看板 copy 4",
+            "rect": {
+                "x": 277,
+                "y": 401,
+                "width": 51,
+                "height": 45
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9DC61FF1-A77E-4A0F-B41A-C02DD25D7BFE",
+            "name": "Path",
+            "rect": {
+                "x": 305,
+                "y": 439,
+                "width": 2,
+                "height": 56
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E401FD5E-D0D0-4E89-91FD-C580582E563E",
+            "name": "入口-天气看板 copy 5",
+            "rect": {
+                "x": 578,
+                "y": 401,
+                "width": 48,
+                "height": 46
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EA014497-EC34-4840-9DF0-275B014F4ABE",
+            "name": "Path",
+            "rect": {
+                "x": 441,
+                "y": 40,
+                "width": 1,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3B85419E-B4D8-4796-9483-32BB764BF7A9",
+            "name": "title",
+            "rect": {
+                "x": 216,
+                "y": 36,
+                "width": 1224,
+                "height": 60
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A70936AF-98CF-49F2-84F2-C45E8F08957F",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 40,
+                "width": 1440,
+                "height": 52
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1C1685C3-A2BD-4E66-9C9D-94FE1F09FF94",
+            "name": "开发者社区",
+            "rect": {
+                "x": 1188,
+                "y": 56,
+                "width": 70,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8CF2E9AB-CA3E-498D-8D5D-916BB9943F65",
+            "name": "文档中心",
+            "rect": {
+                "x": 1091,
+                "y": 56,
+                "width": 56,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0FE4E574-9D4D-429F-A631-D8EBE83350EB",
+            "name": "Path",
+            "rect": {
+                "x": 1155,
+                "y": 64,
+                "width": 7,
+                "height": 5
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "674EEBDF-222A-4248-8B50-69387DB75501",
+            "name": "icon/指向/导航专用/右",
+            "rect": {
+                "x": 1151,
+                "y": 59,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "11C46787-4AF1-4634-82E6-9CF17690F335",
+            "name": "ten****@163.com",
+            "rect": {
+                "x": 1285,
+                "y": 61,
+                "width": 114,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "060B13B7-0DA0-4D64-89AF-FD89E4D0A271",
+            "name": "Path",
+            "rect": {
+                "x": 1407,
+                "y": 64,
+                "width": 7,
+                "height": 5
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CE4038D6-5A32-493E-838E-D51FD5F6E145",
+            "name": "icon/指向/导航专用/右",
+            "rect": {
+                "x": 1405,
+                "y": 65,
+                "width": 9,
+                "height": 6
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BF502D26-9D50-4044-90B6-45EEB97888B7",
+            "name": "消息中心",
+            "rect": {
+                "x": 1202,
+                "y": 58,
+                "width": 57,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4F569539-4EB8-4EAB-8877-6755EB3789E9",
+            "name": "icon/广播",
+            "rect": {
+                "x": 1179,
+                "y": 58,
+                "width": 14,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4DE15B0A-0AE5-4DD9-A650-FE6CA74C10EE",
+            "name": "智能城市管理平台",
+            "rect": {
+                "x": 56,
+                "y": 58,
+                "width": 113,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8CEA7704-4F3D-4CAD-8F40-5404D11455D1",
+            "name": "感知设备管理",
+            "rect": {
+                "x": 424,
+                "y": 59,
+                "width": 85,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "085FD158-C388-4D82-A836-DF4BBF4B5104",
+            "name": "数据接入",
+            "rect": {
+                "x": 565,
+                "y": 59,
+                "width": 56,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "37C2040B-5498-4345-85DC-6886A57BC656",
+            "name": "平台配置",
+            "rect": {
+                "x": 699,
+                "y": 59,
+                "width": 56,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8ECD0F28-07DD-4E57-AA70-E7392F94A57B",
+            "name": "应用中心 copy",
+            "rect": {
+                "x": 846,
+                "y": 59,
+                "width": 57,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "47D553F8-A691-4F45-864A-7DB173C65CE7",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 66,
+                "width": 6,
+                "height": 8
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4FEC654C-93C5-42BB-9E50-90C9CBD7802C",
+            "name": "Path",
+            "rect": {
+                "x": 20,
+                "y": 56,
+                "width": 8,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3E7AEB8E-98F3-4A7B-A50E-C1899CD85776",
+            "name": "Path",
+            "rect": {
+                "x": 28,
+                "y": 56,
+                "width": 5,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "752CAFB5-4E15-4B1D-AE0F-52CD52DE4AB4",
+            "name": "Path",
+            "rect": {
+                "x": 36,
+                "y": 66,
+                "width": 4,
+                "height": 8
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "380961F0-93FE-4732-85F6-A372021F8028",
+            "name": "城市运营管理",
+            "rect": {
+                "x": 273,
+                "y": 59,
+                "width": 85,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FCE6695F-A448-47DA-AD8C-4DCFCDE328B0",
+            "name": "Path",
+            "rect": {
+                "x": 240,
+                "y": 40,
+                "width": 1,
+                "height": 52
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F49C65A7-DED1-4AFB-8280-1ACC720934B9",
+            "name": "Path",
+            "rect": {
+                "x": 389,
+                "y": 40,
+                "width": 1,
+                "height": 52
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F48841E0-ED52-4FA6-8EDE-4662D3CA4238",
+            "name": "Path",
+            "rect": {
+                "x": 533,
+                "y": 40,
+                "width": 1,
+                "height": 52
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E0149791-38B0-4A76-9F38-892F553B51AF",
+            "name": "Path",
+            "rect": {
+                "x": 654,
+                "y": 40,
+                "width": 1,
+                "height": 52
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9B8B5567-2420-499B-857C-48088B9E3F13",
+            "name": "Path",
+            "rect": {
+                "x": 803,
+                "y": 40,
+                "width": 1,
+                "height": 52
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "713E1DA1-8E44-4F80-A8EA-C0C2FEF1279D",
+            "name": "Path",
+            "rect": {
+                "x": 943,
+                "y": 40,
+                "width": 1,
+                "height": 52
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2DF6C9B1-F767-4B8E-A4EF-1A9A695BE0C0",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 92,
+                "width": 180,
+                "height": 1068
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "83EE4518-9658-4C0A-8B81-FB29E052A941",
+            "name": "PS:页面所展示的仅为图标的使用说明，页",
+            "rect": {
+                "x": 790,
+                "y": 1060,
+                "width": 615,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 1440,
+    "height": 1160,
+    "layer_width": 64,
+    "layer_height": 64
+}

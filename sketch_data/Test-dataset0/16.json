@@ -1,0 +1,746 @@
+{
+    "layers": [
+        {
+            "id": "2A2263E6-DE70-477F-A6E2-2B33A667F67B",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.42352942,
+                0.7411765,
+                0.89411765,
+                1
+            ]
+        },
+        {
+            "id": "C13D8CFC-A92B-4824-93E7-1A7A1FFCE541",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 141,
+                "width": 375,
+                "height": 671
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "87071250-46AC-4AC2-8015-78D883113DF5",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 0,
+                "y": 31,
+                "width": 375,
+                "height": 110
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "719D1ED4-AFA1-438A-9173-D08A4E3CACC3",
+            "name": "Squirtle’s shell is",
+            "rect": {
+                "x": 20,
+                "y": 46,
+                "width": 352,
+                "height": 163
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9091CE30-5FC2-49CC-854F-32987FE30290",
+            "name": "Squirtle",
+            "rect": {
+                "x": 20,
+                "y": -72,
+                "width": 335,
+                "height": 48
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "96D3D835-FDB1-40B9-B81E-F6A3FFABE283",
+            "name": "Rectangle 7",
+            "rect": {
+                "x": 0,
+                "y": -17,
+                "width": 375,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "B76DE4CB-2793-4AF5-A647-29AFD4E2A64F",
+            "name": "Rectangle",
+            "rect": {
+                "x": 120,
+                "y": -18,
+                "width": 130,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "226BD3DB-A6C9-4B03-B2D5-DA97ED473F6F",
+            "name": "Water",
+            "rect": {
+                "x": 149,
+                "y": -1,
+                "width": 84,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "1311E2FF-B935-4AAB-9820-4D42885DF67F",
+            "name": "Oval 5",
+            "rect": {
+                "x": 144,
+                "y": -1,
+                "width": 10,
+                "height": 15
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "6728C311-B818-453E-9B89-33C861EF1E23",
+            "name": "Path",
+            "rect": {
+                "x": 144,
+                "y": -1,
+                "width": 10,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "C60C3492-A45F-45C4-93C5-05AD612658C0",
+            "name": "Line 2",
+            "rect": {
+                "x": 26,
+                "y": 855,
+                "width": 349,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "E33354C4-81DC-40D5-800E-8584911E2F67",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9C61D28B-032B-4A7C-92D4-419761F6337B",
+            "name": "Border",
+            "rect": {
+                "x": 336,
+                "y": 17,
+                "width": 22,
+                "height": 12
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "471FFAA8-670A-4578-B483-4BDFC12D4842",
+            "name": "Cap",
+            "rect": {
+                "x": 359,
+                "y": 21,
+                "width": 2,
+                "height": 4
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "C537C415-50BE-4B2C-86AF-0BEE61E4B8EE",
+            "name": "Capacity",
+            "rect": {
+                "x": 338,
+                "y": 19,
+                "width": 18,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "2A0589B7-0149-4B72-93E9-1F2387365989",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "030FAEF5-CF2B-4E37-AEDF-87A3768C1FDC",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "56A93C69-3A9D-4812-BB12-FE667BFA0E84",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "DD488F81-0F37-4722-BB82-67A0414427AF",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "4434CB85-F888-4B00-8A90-0ACBF0803C08",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "8598DBC4-80A9-4E9B-82AF-BB9F88D4F1E7",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "14B4AB0C-BB5F-4F7F-8D8B-F0117BD4EF69",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "BEBD0024-0DAD-4F4F-B4C0-78FA1530C081",
+            "name": "Time Style",
+            "rect": {
+                "x": 35,
+                "y": 19,
+                "width": 25,
+                "height": 12
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "16C7198E-7DD8-400E-AF01-4D85E62064FA",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 0,
+                "y": 778,
+                "width": 375,
+                "height": 34
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "D532132D-ACE3-4EE0-927F-BCA89A4758BE",
+            "name": "iPhone X/iPhone X Frame",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "12B8BA4D-ECA7-4999-BF11-5304AEA62893",
+            "name": "iPhone X/Home Indicator/Home Indicator - On Light",
+            "rect": {
+                "x": 0,
+                "y": 778,
+                "width": 375,
+                "height": 34
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A84454F5-B271-43B6-97B8-71A7E46066FC",
+            "name": "Types/Water",
+            "rect": {
+                "x": 141,
+                "y": 94,
+                "width": 94,
+                "height": 94
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9C83C019-06FC-4A06-B213-C0D9E51F7139",
+            "name": "Bubble",
+            "rect": {
+                "x": 126,
+                "y": 208,
+                "width": 124,
+                "height": 32
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E5D28213-2F12-4E65-B114-BEAF867419B8",
+            "name": "Rectangle 7",
+            "rect": {
+                "x": 0,
+                "y": 254,
+                "width": 375,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "11B21E88-7A84-4A46-8E25-443635B6BEFC",
+            "name": "Tag/Water",
+            "rect": {
+                "x": 123,
+                "y": 254,
+                "width": 130,
+                "height": 50
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2F669032-0FAC-4ECF-8863-9CB79BAA7094",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 0,
+                "y": 304,
+                "width": 375,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "13D58B2E-FA2F-45DF-82A1-D715D73D5B12",
+            "name": "Inflicts regular dam",
+            "rect": {
+                "x": 38,
+                "y": 327,
+                "width": 300,
+                "height": 37
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "00BEC23E-0CE4-4E45-B8AD-FC1A3DB4F1C6",
+            "name": "Base Power",
+            "rect": {
+                "x": 36,
+                "y": 418,
+                "width": 79,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "37068FB3-06E7-486D-9B3E-75530271EF87",
+            "name": "Accuracy",
+            "rect": {
+                "x": 157,
+                "y": 418,
+                "width": 62,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "744A8715-E9B7-4321-AC06-67F99D8A104C",
+            "name": "100%",
+            "rect": {
+                "x": 166,
+                "y": 461,
+                "width": 45,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7B9D0368-74E4-4263-BB96-E5708BEBD184",
+            "name": "40",
+            "rect": {
+                "x": 60,
+                "y": 461,
+                "width": 21,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EF1573A9-C463-463F-AA3C-F7943EE2993B",
+            "name": "30",
+            "rect": {
+                "x": 290,
+                "y": 461,
+                "width": 21,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "26875C62-C4CE-4C7F-81ED-56D95B3D888B",
+            "name": "PP",
+            "rect": {
+                "x": 293,
+                "y": 418,
+                "width": 17,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7774EA1C-9A30-425C-95A7-4B5978E4037C",
+            "name": "Rectangle 10",
+            "rect": {
+                "x": 131,
+                "y": 414,
+                "width": 1,
+                "height": 83
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.89411765,
+                0.89411765,
+                0.89411765,
+                1
+            ]
+        },
+        {
+            "id": "1A35D873-E15D-48FD-ABB3-1752E1DA8110",
+            "name": "Rectangle 10 Copy",
+            "rect": {
+                "x": 244,
+                "y": 414,
+                "width": 1,
+                "height": 83
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.89411765,
+                0.89411765,
+                0.89411765,
+                1
+            ]
+        },
+        {
+            "id": "5CD3A43F-EABA-42E7-8EBB-EB33606720AD",
+            "name": "Path",
+            "rect": {
+                "x": 10,
+                "y": 60,
+                "width": 21,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

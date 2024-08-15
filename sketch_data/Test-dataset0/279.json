@@ -1,0 +1,566 @@
+{
+    "layers": [
+        {
+            "id": "80FF5746-D00A-467E-9842-734515C1B733",
+            "name": "Rectangle 247",
+            "rect": {
+                "x": 0,
+                "y": 744,
+                "width": 750,
+                "height": 91
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "1038A209-CD14-4644-9C2A-ECEE84B40B1C",
+            "name": "订单号",
+            "rect": {
+                "x": 31,
+                "y": 775,
+                "width": 82,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D026AD05-896D-4319-8949-08E36FEB71A0",
+            "name": "SN893284-9-029842839",
+            "rect": {
+                "x": 209,
+                "y": 778,
+                "width": 508,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9D41104E-D1E9-4E79-846B-8414FD6B33D7",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 479,
+                "width": 750,
+                "height": 265
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "6CD828A4-3901-40B1-B6AE-C92427BCE1C1",
+            "name": "红包克数",
+            "rect": {
+                "x": 31,
+                "y": 625,
+                "width": 110,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2A31416A-C7D7-4C62-A2CE-D37B8806A29F",
+            "name": "1.000克",
+            "rect": {
+                "x": 623,
+                "y": 626,
+                "width": 96,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "23999B87-59E7-4C1B-9988-9C7A1B556E9D",
+            "name": "黄金产品",
+            "rect": {
+                "x": 31,
+                "y": 569,
+                "width": 109,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1EE5E530-F7B0-4214-8D05-2ED795CC5393",
+            "name": "红包信息",
+            "rect": {
+                "x": 31,
+                "y": 513,
+                "width": 110,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CD3E5456-C120-4FD3-9EE6-E7D5C3D67BB3",
+            "name": "浦发黄金",
+            "rect": {
+                "x": 609,
+                "y": 569,
+                "width": 110,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7B63DD68-626D-4098-BD8E-635B4602FE84",
+            "name": "发出时间",
+            "rect": {
+                "x": 31,
+                "y": 677,
+                "width": 109,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F4F42859-C7E7-4FA0-8F76-FDF13A3EF918",
+            "name": "2017-05-04 10:10:10",
+            "rect": {
+                "x": 452,
+                "y": 681,
+                "width": 267,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8770552B-2EEF-447F-A9C3-46EF510E40C3",
+            "name": "Rectangle 451",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 129
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "EAD58429-8621-4457-B9F5-1AB97C4BD215",
+            "name": "previous-path",
+            "rect": {
+                "x": 29,
+                "y": 67,
+                "width": 21,
+                "height": 35
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C4895ABC-3877-4F88-85A6-7BDEB2DF04CF",
+            "name": "返回",
+            "rect": {
+                "x": 58,
+                "y": 69,
+                "width": 60,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DD4D7AEC-9EFB-406C-B77F-EE77C7443FF6",
+            "name": "记录详情",
+            "rect": {
+                "x": 304,
+                "y": 78,
+                "width": 142,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4323B11D-8DC5-4B58-AE7A-2B23D4DBA810",
+            "name": "Oval 1",
+            "rect": {
+                "x": 14,
+                "y": 14,
+                "width": 11,
+                "height": 11
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "7B3CC12A-4FC0-4BC6-985E-29919747B6C2",
+            "name": "Oval 1 copy",
+            "rect": {
+                "x": 28,
+                "y": 14,
+                "width": 11,
+                "height": 11
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "6665B2AE-E825-4E4E-9948-67E2BDACF471",
+            "name": "Oval 1 copy 2",
+            "rect": {
+                "x": 42,
+                "y": 14,
+                "width": 11,
+                "height": 11
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "212BB806-B5D9-43F2-8B6E-E481965BCCA3",
+            "name": "Shape",
+            "rect": {
+                "x": 56,
+                "y": 14,
+                "width": 11,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "5E7466A6-B641-42FF-A46A-4B12DA8CC5FD",
+            "name": "Shape",
+            "rect": {
+                "x": 70,
+                "y": 14,
+                "width": 11,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "34F14350-F7DA-466D-AD0D-07DC64719FDF",
+            "name": "AFUX",
+            "rect": {
+                "x": 89,
+                "y": 11,
+                "width": 48,
+                "height": 45
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "4A2965B0-9B56-4BD5-99C1-939021446652",
+            "name": "Path",
+            "rect": {
+                "x": 159,
+                "y": 9,
+                "width": 24,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "3BF03AEE-32A7-4A4D-BE03-4587A3D0E979",
+            "name": "Shape",
+            "rect": {
+                "x": 159,
+                "y": 9,
+                "width": 24,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "EF0ABADB-EA22-4DB0-8712-7560AE3FC447",
+            "name": "Shape",
+            "rect": {
+                "x": 159,
+                "y": 9,
+                "width": 24,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "0A64C7B0-9585-46D8-AC19-AD02BC936148",
+            "name": "9:41",
+            "rect": {
+                "x": 332,
+                "y": 11,
+                "width": 93,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "3B6FBFFB-9EE8-4692-9FF2-64A52D2B113C",
+            "name": "Shape",
+            "rect": {
+                "x": 691,
+                "y": 10,
+                "width": 49,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "4670E504-DBBC-4BAF-9833-3FE3F80F0C3B",
+            "name": "Shape",
+            "rect": {
+                "x": 691,
+                "y": 10,
+                "width": 49,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "641AB37E-F888-41B1-A083-37F9F9DA51AA",
+            "name": "Shape",
+            "rect": {
+                "x": 691,
+                "y": 10,
+                "width": 49,
+                "height": 19
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "C4EB88CA-042B-468A-BE5C-E8B97A55F1ED",
+            "name": "Shape",
+            "rect": {
+                "x": 691,
+                "y": 10,
+                "width": 49,
+                "height": 19
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.011764706,
+                0.011764706,
+                0.011764706,
+                1
+            ]
+        },
+        {
+            "id": "238EFD2E-1637-4354-A224-61B514CBA218",
+            "name": "100%",
+            "rect": {
+                "x": 623,
+                "y": 11,
+                "width": 53,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "C1E5223C-2796-4406-B761-031FD88031A7",
+            "name": "失败",
+            "rect": {
+                "x": 0,
+                "y": 128,
+                "width": 750,
+                "height": 351
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,2168 @@
+{
+    "layers": [
+        {
+            "id": "14343557-37C3-4A6D-8246-B5ADAA87DF92",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 572,
+                "width": 750,
+                "height": 210
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7BD8C5F9-86A4-48C1-B6B3-54DC0848DD8F",
+            "name": "Path",
+            "rect": {
+                "x": 24,
+                "y": 596,
+                "width": 120,
+                "height": 120
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E3177101-2569-4859-91ED-1A2995852C9A",
+            "name": "Zespri佳沛新西兰阳光金奇异果12个",
+            "rect": {
+                "x": 162,
+                "y": 601,
+                "width": 417,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B9589401-C314-4C80-B913-96E668A49712",
+            "name": "￥89.00",
+            "rect": {
+                "x": 642,
+                "y": 603,
+                "width": 83,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F51E1042-5DD6-43C3-80CF-37C1B33E586F",
+            "name": "￥179.00",
+            "rect": {
+                "x": 634,
+                "y": 636,
+                "width": 91,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F13F3692-3A9C-49ED-BA94-6CE79F4B735F",
+            "name": "-134g/个",
+            "rect": {
+                "x": 163,
+                "y": 634,
+                "width": 102,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7140F589-A40C-4528-B24D-92B71860698C",
+            "name": "规格: 500g/盒 单价: ￥38.0",
+            "rect": {
+                "x": 163,
+                "y": 697,
+                "width": 309,
+                "height": 56
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FF827F8E-611D-4E1C-9BBB-1BDE8269F5AF",
+            "name": "Path",
+            "rect": {
+                "x": 594,
+                "y": 718,
+                "width": 132,
+                "height": 40
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9235FD61-186B-4DC6-BA30-64C79C5C1721",
+            "name": "申请退款",
+            "rect": {
+                "x": 615,
+                "y": 727,
+                "width": 93,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C9BE57F2-A1C7-4CA4-9DEA-39D3DCAC2333",
+            "name": "Path",
+            "rect": {
+                "x": 24,
+                "y": 781,
+                "width": 702,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4F99480B-3EC0-4BD5-AF48-856828375A08",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 750,
+                "height": 216
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2B2C5C92-88D9-45AD-AD44-1F3861197E73",
+            "name": "Path",
+            "rect": {
+                "x": 24,
+                "y": 806,
+                "width": 120,
+                "height": 120
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7890F572-F54F-489B-B3DF-7F0FCE8F1098",
+            "name": "Bitmap",
+            "rect": {
+                "x": 24,
+                "y": 806,
+                "width": 120,
+                "height": 120
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EB371F94-1CF2-4B1E-81FC-674715555185",
+            "name": "Zespri佳沛新西兰阳光金奇",
+            "rect": {
+                "x": 236,
+                "y": 811,
+                "width": 286,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E5EC38AD-ED65-4FE4-8062-AEB65C36931F",
+            "name": "异果12个114-134g/个",
+            "rect": {
+                "x": 162,
+                "y": 844,
+                "width": 233,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "76C15CC7-20B0-410A-BA95-31736DFF30ED",
+            "name": "Path",
+            "rect": {
+                "x": 162,
+                "y": 811,
+                "width": 68,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9F6E185F-0D3C-4352-80C4-269FC65B799B",
+            "name": "组合装",
+            "rect": {
+                "x": 167,
+                "y": 813,
+                "width": 58,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "24609849-1463-4D2F-BDBE-99719289314D",
+            "name": "￥89.00",
+            "rect": {
+                "x": 642,
+                "y": 813,
+                "width": 83,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D29618A4-0A80-419D-AD0E-C96BD77A1977",
+            "name": "￥179.00",
+            "rect": {
+                "x": 634,
+                "y": 846,
+                "width": 91,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "743C77F3-CF34-4403-BBA5-48AFAD1156DF",
+            "name": "规格: 35g/包 单价: ￥43.5/",
+            "rect": {
+                "x": 163,
+                "y": 907,
+                "width": 281,
+                "height": 56
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F3312AF6-F20E-48A4-B8BE-78723170B6FE",
+            "name": "Path",
+            "rect": {
+                "x": 592,
+                "y": 928,
+                "width": 132,
+                "height": 40
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "72A6F409-2713-4E1F-8776-47E936F99EB6",
+            "name": "申请退款",
+            "rect": {
+                "x": 613,
+                "y": 937,
+                "width": 93,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8F85FAC3-E1BC-4FA8-8F73-B00E82D4D04B",
+            "name": "Path",
+            "rect": {
+                "x": 24,
+                "y": 1049,
+                "width": 702,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8CA13878-6932-43D8-BF96-460133165D8D",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 388,
+                "width": 750,
+                "height": 166
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B0637ADE-7471-46AA-9F56-B164916B3FEE",
+            "name": "Path",
+            "rect": {
+                "x": 24,
+                "y": 414,
+                "width": 36,
+                "height": 36
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EEEA469A-2A0B-4276-BC87-DB1B76B50AC4",
+            "name": "Path",
+            "rect": {
+                "x": 29,
+                "y": 417,
+                "width": 27,
+                "height": 30
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5E6FA669-E4D9-4C12-B34C-0779DDC0BE0B",
+            "name": "Path",
+            "rect": {
+                "x": 29,
+                "y": 417,
+                "width": 27,
+                "height": 30
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3251FDDD-C198-40C8-A85A-39D7CFE63EAE",
+            "name": "Path",
+            "rect": {
+                "x": 29,
+                "y": 417,
+                "width": 27,
+                "height": 30
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F4094F8F-3574-4B4C-8451-B7E852763F45",
+            "name": "Path",
+            "rect": {
+                "x": 29,
+                "y": 417,
+                "width": 27,
+                "height": 30
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4C1B31FC-B2ED-43F4-934C-C50039BEA1E5",
+            "name": "收货人：雨田",
+            "rect": {
+                "x": 85,
+                "y": 418,
+                "width": 165,
+                "height": 28
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F3CE2F70-0863-40F4-9080-881FA3DCB4C3",
+            "name": "18200119822",
+            "rect": {
+                "x": 556,
+                "y": 421,
+                "width": 167,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A6C9711F-44C5-4869-816C-3FECDE782974",
+            "name": "上海市徐汇区虹梅路2007号1号楼10楼",
+            "rect": {
+                "x": 85,
+                "y": 469,
+                "width": 640,
+                "height": 56
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7C3CD174-59E2-4F02-A117-7221A7F20995",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 130
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EE82D898-108D-4D1F-B3B3-EFC87DEE0A8A",
+            "name": "订单详情",
+            "rect": {
+                "x": 304,
+                "y": 68,
+                "width": 142,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FE52AC36-8B55-4FD2-B2D9-5CDB59D1F7D1",
+            "name": "Path",
+            "rect": {
+                "x": 24,
+                "y": 67,
+                "width": 36,
+                "height": 36
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "756F5B04-8F36-4EB1-B5B8-6AC7ED872B99",
+            "name": "Path",
+            "rect": {
+                "x": 33,
+                "y": 70,
+                "width": 16,
+                "height": 30
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "381EFAB3-F821-4304-BA2B-89DEAB7950B2",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 40
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7326E478-B733-41CA-9857-80CFAE16B2B8",
+            "name": "1",
+            "rect": {
+                "x": 13,
+                "y": 15,
+                "width": 66,
+                "height": 10
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D694C4DE-2AC3-458C-A4E0-5A97B4785AA7",
+            "name": "2",
+            "rect": {
+                "x": 13,
+                "y": 15,
+                "width": 66,
+                "height": 10
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C09C66A7-7A9E-41BE-9492-DE86D540D2D3",
+            "name": "3",
+            "rect": {
+                "x": 13,
+                "y": 15,
+                "width": 66,
+                "height": 10
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2A273A7E-2C67-4FCE-80E0-D53154D55669",
+            "name": "4",
+            "rect": {
+                "x": 13,
+                "y": 15,
+                "width": 66,
+                "height": 10
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3ABBB2AC-1315-4E98-A16A-5A80045E4ADA",
+            "name": "5",
+            "rect": {
+                "x": 13,
+                "y": 15,
+                "width": 66,
+                "height": 10
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "85CB6662-A385-4E8C-B0A3-D60C9B1B68CA",
+            "name": "Carrier",
+            "rect": {
+                "x": 89,
+                "y": 10,
+                "width": 71,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "465BDD8C-E530-4019-A9FB-A50D00AE6FB2",
+            "name": "Bottom",
+            "rect": {
+                "x": 171,
+                "y": 11,
+                "width": 26,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "637E3192-D5D7-49B0-940B-F4038AFFD042",
+            "name": "Middle",
+            "rect": {
+                "x": 171,
+                "y": 11,
+                "width": 26,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "048DE614-F765-4C05-8B9D-EA4BD1B5BAC5",
+            "name": "Top",
+            "rect": {
+                "x": 171,
+                "y": 11,
+                "width": 26,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8B907288-723E-4DDF-8B1D-7B2FB9C37F7E",
+            "name": "9:41 AM",
+            "rect": {
+                "x": 327,
+                "y": 12,
+                "width": 90,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7440F4C1-B74B-4F4B-A939-4BBBAAEA4B7C",
+            "name": "100%",
+            "rect": {
+                "x": 621,
+                "y": 9,
+                "width": 62,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A5359F49-952B-47D0-9300-5C3CF0BAC8A6",
+            "name": "Border",
+            "rect": {
+                "x": 690,
+                "y": 11,
+                "width": 49,
+                "height": 19
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "895AD949-E651-4A09-9C8A-F404993A2DC2",
+            "name": "Cap",
+            "rect": {
+                "x": 690,
+                "y": 11,
+                "width": 49,
+                "height": 19
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9DC02826-1BD3-4AFE-9FB8-A1D44C789BE7",
+            "name": "Border Subtraction",
+            "rect": {
+                "x": 690,
+                "y": 11,
+                "width": 49,
+                "height": 19
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "306915B1-D747-45D5-BE70-2B31B53A72D4",
+            "name": "Battery Level",
+            "rect": {
+                "x": 690,
+                "y": 11,
+                "width": 49,
+                "height": 19
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7D03A124-C2F4-414F-BA58-E5CFD2FD7370",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1016,
+                "width": 750,
+                "height": 88
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9B9245E9-11F0-44C7-BBC7-A8C371CC5EC5",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1103,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "83FEBB80-61A7-4BC5-9B66-0063A000B4F0",
+            "name": "送达时间",
+            "rect": {
+                "x": 25,
+                "y": 1046,
+                "width": 109,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8C751C7B-B757-47B9-9052-3884152F67DF",
+            "name": "5月30日 9:00-18:00",
+            "rect": {
+                "x": 458,
+                "y": 1048,
+                "width": 267,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "687C944F-A050-493E-B301-B4136AE7B3EA",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1690,
+                "width": 750,
+                "height": 244
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D45C2968-8BD0-4D9D-8CC3-91396CF7171F",
+            "name": "Type something",
+            "rect": {
+                "x": 416,
+                "y": 1775,
+                "width": 307,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8BF4FBF2-FB6C-43FB-872A-6A9D0DF6DAF7",
+            "name": "订单编号：",
+            "rect": {
+                "x": 25,
+                "y": 1772,
+                "width": 120,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EA63DF6B-1F91-41F8-BD61-A3371D4A34FA",
+            "name": "支付宝",
+            "rect": {
+                "x": 643,
+                "y": 1824,
+                "width": 81,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "32DBFD8E-5ACC-442A-90D1-F697684E683E",
+            "name": "支付方式：",
+            "rect": {
+                "x": 25,
+                "y": 1824,
+                "width": 120,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2386EFD7-7738-4E25-8989-B0C2128DE7CA",
+            "name": "Type something Copy",
+            "rect": {
+                "x": 416,
+                "y": 1879,
+                "width": 307,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B775EC89-1DE5-41BE-BD72-950C20711AF9",
+            "name": "交易流水号：",
+            "rect": {
+                "x": 25,
+                "y": 1876,
+                "width": 148,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C10F39FE-D3D5-48E1-84D6-9144BAE21F46",
+            "name": "下单时间：",
+            "rect": {
+                "x": 25,
+                "y": 1720,
+                "width": 120,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A8111210-4B7A-4195-8BC6-65ADD39EC05D",
+            "name": "2015.09.07  15:30:15",
+            "rect": {
+                "x": 462,
+                "y": 1723,
+                "width": 263,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BD08719C-A7C8-4A0F-AD81-35599A0A518F",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1104,
+                "width": 750,
+                "height": 134
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8F03D901-3369-4DF2-A89A-C95F6FBCFB52",
+            "name": "Path",
+            "rect": {
+                "x": 22,
+                "y": 1128,
+                "width": 706,
+                "height": 64
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A5E78649-D6C5-42F9-8FFE-2F32D1D32D78",
+            "name": "订单备注",
+            "rect": {
+                "x": 25,
+                "y": 1134,
+                "width": 110,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "ECAB6A3D-C92D-4A4E-A2DB-5FC03EA77592",
+            "name": "请把包装好好包得严严实实的",
+            "rect": {
+                "x": 25,
+                "y": 1180,
+                "width": 361,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0FABEDD6-32BC-4956-B6C3-CDD41C14BAEC",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1256,
+                "width": 750,
+                "height": 282
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "89AC1B96-B1D3-43C3-8FEE-076A93D4C327",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1538,
+                "width": 750,
+                "height": 134
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B563BF52-316C-45FE-8B1F-229996CA6BB5",
+            "name": "Path",
+            "rect": {
+                "x": 20,
+                "y": 1448,
+                "width": 710,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3E57540D-D6E0-462F-A089-8F6485AFDBFD",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1537,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E204ED25-6E00-4E34-9DA5-BE883F56E302",
+            "name": "商品小计",
+            "rect": {
+                "x": 25,
+                "y": 1286,
+                "width": 110,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "33E0F732-72E2-4E06-8E0C-06838625BC31",
+            "name": "￥165.00",
+            "rect": {
+                "x": 617,
+                "y": 1289,
+                "width": 108,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A7F76418-04F1-4647-A145-A6FF089A616C",
+            "name": "-￥10.00",
+            "rect": {
+                "x": 634,
+                "y": 1353,
+                "width": 91,
+                "height": 50
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "97982364-152A-4984-AB70-E503C1D9E6E0",
+            "name": "优惠金额",
+            "rect": {
+                "x": 45,
+                "y": 1339,
+                "width": 110,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3221A6FF-3651-4FB1-87CE-0BD7180FC4C8",
+            "name": "-￥5.00",
+            "rect": {
+                "x": 645,
+                "y": 1405,
+                "width": 80,
+                "height": 50
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C7872A28-7D49-43C3-A0B4-5AF302586A3B",
+            "name": "优惠券",
+            "rect": {
+                "x": 45,
+                "y": 1390,
+                "width": 82,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6D8CAA10-358C-4E5D-8EDA-EC1A61E50D4F",
+            "name": "￥60.00",
+            "rect": {
+                "x": 636,
+                "y": 1571,
+                "width": 89,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FF630662-08F1-42DA-BCA7-7B2D9BBC2309",
+            "name": "礼品卡抵扣",
+            "rect": {
+                "x": 45,
+                "y": 1568,
+                "width": 127,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0EADFD50-B106-4D3F-9491-3A348A7AC71B",
+            "name": "￥90.00",
+            "rect": {
+                "x": 636,
+                "y": 1620,
+                "width": 89,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9F1E9220-E8D1-4AED-BCEE-AD9AE9A36C80",
+            "name": "支付宝支付",
+            "rect": {
+                "x": 45,
+                "y": 1617,
+                "width": 128,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "11FE2DF2-362D-4D97-B055-41A96D890E9D",
+            "name": "￥150.00",
+            "rect": {
+                "x": 617,
+                "y": 1483,
+                "width": 108,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "21499DA5-EC86-4882-86C7-36D28ECB2CA1",
+            "name": "实付金额合计",
+            "rect": {
+                "x": 25,
+                "y": 1479,
+                "width": 166,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "61733A2F-9E5D-4AB6-BB7D-4E1B99BC9EE3",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 130,
+                "width": 750,
+                "height": 240
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A1D2C7CC-DAEC-4A44-BCF3-F30BD94E7D0F",
+            "name": "Path",
+            "rect": {
+                "x": 82,
+                "y": 167,
+                "width": 200,
+                "height": 66
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "151F4A5D-515E-4C1E-AA52-528C2BCDE65E",
+            "name": "Triangle 1",
+            "rect": {
+                "x": 82,
+                "y": 167,
+                "width": 200,
+                "height": 66
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6AA3F55F-B07A-46CC-A09F-D3DADFD8EB18",
+            "name": "已确认待配送",
+            "rect": {
+                "x": 102,
+                "y": 183,
+                "width": 165,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2AE5C436-2484-4DE3-A081-81CCC2C72F8B",
+            "name": "准备",
+            "rect": {
+                "x": 243,
+                "y": 288,
+                "width": 54,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D11831D6-9E8C-45C7-87DA-E0AC67B63A7E",
+            "name": "下单",
+            "rect": {
+                "x": 102,
+                "y": 288,
+                "width": 54,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "862BF92D-E9DF-4A6C-99E9-F7D444E48EE3",
+            "name": "配送",
+            "rect": {
+                "x": 489,
+                "y": 289,
+                "width": 54,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A21E537A-2A68-4F52-80FF-14BF021CF194",
+            "name": "5月30日 9:00-18:00",
+            "rect": {
+                "x": 620,
+                "y": 291,
+                "width": 112,
+                "height": 45
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FF814018-1C0E-4F77-A82A-7624FF474A63",
+            "name": "Path",
+            "rect": {
+                "x": 58,
+                "y": 242,
+                "width": 32,
+                "height": 32
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A2A64091-69D5-417A-B431-B26C1E82F36D",
+            "name": "Path",
+            "rect": {
+                "x": 168,
+                "y": 242,
+                "width": 32,
+                "height": 32
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9094CAA3-74B4-42E4-B466-C22125CFDC3D",
+            "name": "Path",
+            "rect": {
+                "x": 344,
+                "y": 246,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F3E23DE5-E721-49FC-B3CE-8FCFA15B0091",
+            "name": "Path",
+            "rect": {
+                "x": 172,
+                "y": 246,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FB0A1D79-2441-4A70-8B41-F4A9159AA13B",
+            "name": "Path",
+            "rect": {
+                "x": 344,
+                "y": 246,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4F5434EF-AA1F-49C3-B2BB-9A1C4B7AB5A7",
+            "name": "Path",
+            "rect": {
+                "x": 62,
+                "y": 246,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FD4E61C2-730E-4DC1-86F1-7222FB35B6AA",
+            "name": "Path",
+            "rect": {
+                "x": 340,
+                "y": 242,
+                "width": 32,
+                "height": 32
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9EC21756-E5CB-4E0F-8B40-0C217AF57EF9",
+            "name": "Path",
+            "rect": {
+                "x": 660,
+                "y": 242,
+                "width": 32,
+                "height": 32
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3B64B904-6204-4FF9-979C-5C83751F9899",
+            "name": "Path",
+            "rect": {
+                "x": 96,
+                "y": 256,
+                "width": 66,
+                "height": 4
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7CB81E52-8C0C-44BD-9BCF-48398087A4BF",
+            "name": "Path",
+            "rect": {
+                "x": 379,
+                "y": 256,
+                "width": 270,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "93AF7F8B-4368-4A97-8255-F5C48DED0CE6",
+            "name": "Path",
+            "rect": {
+                "x": 206,
+                "y": 258,
+                "width": 126,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "142C57F7-7CED-4B51-BDD8-E7CFCC1E8963",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1952,
+                "width": 750,
+                "height": 281
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0CF45BB9-0D49-4B09-814F-BDEFC8013E77",
+            "name": "Path",
+            "rect": {
+                "x": 24,
+                "y": 2144,
+                "width": 726,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DE0F887D-B139-4E1E-B2D9-9B195538F199",
+            "name": "订单完成后可查看电子发票",
+            "rect": {
+                "x": 391,
+                "y": 2175,
+                "width": 334,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C2BAF45B-A5F0-49CF-BC44-91E15622CDAF",
+            "name": "发票信息",
+            "rect": {
+                "x": 25,
+                "y": 1982,
+                "width": 110,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "72A57018-727D-49ED-9C8B-E6F736484D67",
+            "name": "发票抬头：个人",
+            "rect": {
+                "x": 25,
+                "y": 2040,
+                "width": 194,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CFE799AA-E8B3-4BF8-B59E-DF3C970BE8F9",
+            "name": "发票内容：明细",
+            "rect": {
+                "x": 25,
+                "y": 2086,
+                "width": 193,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9B219549-6822-47A3-AF74-3D965DCC505D",
+            "name": "电子发票",
+            "rect": {
+                "x": 617,
+                "y": 1982,
+                "width": 108,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7FC0BF31-CE89-43E0-8D3F-97F7F0784CFB",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 2231,
+                "width": 750,
+                "height": 110
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "161AB18D-947B-4FCD-9446-B1128EF8675B",
+            "name": "Path",
+            "rect": {
+                "x": 551,
+                "y": 2254,
+                "width": 170,
+                "height": 66
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D77F0F9C-B3A1-49DE-A839-22B31A75DD14",
+            "name": "再来一单",
+            "rect": {
+                "x": 589,
+                "y": 2274,
+                "width": 94,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BACEE132-C4B4-4647-82AF-B97BE18E4449",
+            "name": "Path",
+            "rect": {
+                "x": 412,
+                "y": 2254,
+                "width": 115,
+                "height": 66
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "33A4196F-FFE9-40D5-BFB8-D9D318A9E0A9",
+            "name": "Path",
+            "rect": {
+                "x": 218,
+                "y": 2254,
+                "width": 170,
+                "height": 66
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CCCC9020-FF48-4D6A-A537-9154FDC66ADC",
+            "name": "Path",
+            "rect": {
+                "x": 24,
+                "y": 2254,
+                "width": 170,
+                "height": 66
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B98178D7-08C5-4399-B730-6989D2D7C621",
+            "name": "评价",
+            "rect": {
+                "x": 447,
+                "y": 2276,
+                "width": 47,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "79FF0857-3FB4-4202-A51E-1984DDDFC16A",
+            "name": "联系客服",
+            "rect": {
+                "x": 255,
+                "y": 2276,
+                "width": 95,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "42803CC0-93D7-4019-9E3F-50CD1833AB57",
+            "name": "删除订单",
+            "rect": {
+                "x": 61,
+                "y": 2276,
+                "width": 94,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 2478,
+    "layer_width": 64,
+    "layer_height": 64
+}

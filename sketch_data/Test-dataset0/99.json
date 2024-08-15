@@ -1,0 +1,1016 @@
+{
+    "layers": [
+        {
+            "id": "B0C2D707-61BA-4391-9105-F2E93186F163",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "3C2BD5C4-3777-494D-940D-8A967FDF5D6E",
+            "name": "iPhone X/Home Indicator/Home Indicator - On Light",
+            "rect": {
+                "x": 121,
+                "y": 798,
+                "width": 134,
+                "height": 5
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0EF38E09-D3A6-43E1-8CA8-3F22A097BD8C",
+            "name": "Mask",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 286
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "6949A7D8-7445-48A3-B415-FB94EF0C407D",
+            "name": "Rectangle",
+            "rect": {
+                "x": 231,
+                "y": 156,
+                "width": 144,
+                "height": 130
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "6290A6B1-8EB0-4500-A583-2469B80168B3",
+            "name": "Rectangle Copy",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 233,
+                "height": 226
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "B7C1A4D1-1C86-45C2-A165-6BDD88E39CDB",
+            "name": "Kyle ortega",
+            "rect": {
+                "x": 235,
+                "y": 39,
+                "width": 73,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5AB127D1-7C6B-44CE-BF0C-212670FE0324",
+            "name": "Rectangle",
+            "rect": {
+                "x": 321,
+                "y": 27,
+                "width": 34,
+                "height": 34
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "D60B9C73-F35F-4597-B0DE-E647471987CA",
+            "name": "Oval",
+            "rect": {
+                "x": 20,
+                "y": 36,
+                "width": 7,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "07981984-C095-4310-8572-A8509B77A1BA",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 20,
+                "y": 48,
+                "width": 7,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "5A8CBF68-1BF4-42F1-BD9D-6E687F5DBE3C",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 33,
+                "y": 36,
+                "width": 7,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "64E29C5B-C5C8-49E6-91AA-9A51EBEE4376",
+            "name": "Oval Copy 3",
+            "rect": {
+                "x": 33,
+                "y": 48,
+                "width": 7,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "266FAC55-2EFD-483A-89CA-338E7A43DD63",
+            "name": "Total balance",
+            "rect": {
+                "x": 20,
+                "y": 88,
+                "width": 88,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CEB589B7-B756-41B4-A817-95FB6B68B754",
+            "name": "1,008",
+            "rect": {
+                "x": 46,
+                "y": 112,
+                "width": 64,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0F6A55E1-80E0-470A-B5C1-10645D85BEDF",
+            "name": "Path",
+            "rect": {
+                "x": 20,
+                "y": 115,
+                "width": 18,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "6C8F5736-BD76-46D6-9743-70850BDDA971",
+            "name": "Path",
+            "rect": {
+                "x": 20,
+                "y": 115,
+                "width": 18,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "A1995FCF-F123-4182-93F0-466B397A1D16",
+            "name": "Path",
+            "rect": {
+                "x": 20,
+                "y": 115,
+                "width": 18,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "69F63942-00E9-40AD-BA74-E6E96901B0DA",
+            "name": "Rectangle",
+            "rect": {
+                "x": 235,
+                "y": 87,
+                "width": 120,
+                "height": 44
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                0.101960786
+            ]
+        },
+        {
+            "id": "6C863C20-BDC8-4F1A-89A9-66D73AD734CD",
+            "name": "Add Money",
+            "rect": {
+                "x": 268,
+                "y": 104,
+                "width": 75,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "161B5EF6-27CB-4199-B91C-CE245288F76B",
+            "name": "Rectangle",
+            "rect": {
+                "x": 248,
+                "y": 104,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "C83D9287-EC8C-4A91-9183-BA6CE8376F51",
+            "name": "Rectangle Copy 2",
+            "rect": {
+                "x": 248,
+                "y": 104,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "358BA920-2E8F-4D71-869F-5C5EA289D2F4",
+            "name": "BTC",
+            "rect": {
+                "x": 31,
+                "y": 248,
+                "width": 30,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B2C2FF6E-3095-4189-8A02-DDD6F5B99250",
+            "name": "Bitmap",
+            "rect": {
+                "x": 34,
+                "y": 221,
+                "width": 18,
+                "height": 22
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "7E577D9D-BA09-4E3C-957B-D0DDFFC39259",
+            "name": "XRP",
+            "rect": {
+                "x": 94,
+                "y": 249,
+                "width": 31,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "643589B8-8427-4CCD-B0F4-A8B1CCA706FC",
+            "name": "Bitmap",
+            "rect": {
+                "x": 97,
+                "y": 222,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "A9C97FC8-2C51-4916-8FDF-FDFB60366E5E",
+            "name": "LTC",
+            "rect": {
+                "x": 250,
+                "y": 248,
+                "width": 27,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7E720F0A-85AB-4215-BBF5-559D5D573BE0",
+            "name": "Bitmap",
+            "rect": {
+                "x": 254,
+                "y": 222,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "A6BFBB1A-559D-4645-8091-5E6A9FA9E754",
+            "name": "XPM",
+            "rect": {
+                "x": 310,
+                "y": 249,
+                "width": 34,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E0F5B825-80C9-425D-9207-28D41D7190BB",
+            "name": "Bitmap",
+            "rect": {
+                "x": 318,
+                "y": 222,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "00C5B3B2-2553-4C65-B0FC-97CDA2A9E3E4",
+            "name": "Rectangle",
+            "rect": {
+                "x": 144,
+                "y": 186,
+                "width": 92,
+                "height": 136
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "0ABB79BC-89F3-4941-AD7B-4E35692A2D3D",
+            "name": "Path",
+            "rect": {
+                "x": 179,
+                "y": 222,
+                "width": 22,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "0294A7AF-018C-4443-8975-04196DF7CEA8",
+            "name": "Path",
+            "rect": {
+                "x": 179,
+                "y": 222,
+                "width": 22,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "0BCD5B5A-E999-47CD-89EB-29287897A90F",
+            "name": "Path",
+            "rect": {
+                "x": 179,
+                "y": 222,
+                "width": 22,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "383DFE60-BDE2-4FDC-BC25-6181C7B39108",
+            "name": "Oval",
+            "rect": {
+                "x": 185,
+                "y": 270,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.22745098,
+                0.21176471,
+                0.8627451,
+                1
+            ]
+        },
+        {
+            "id": "31F818AE-FE73-41C1-9FA7-112D4ED88478",
+            "name": "LiB",
+            "rect": {
+                "x": 179,
+                "y": 248,
+                "width": 22,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "05E57B45-A737-4B0D-BA92-88CD4A58D355",
+            "name": "Separator",
+            "rect": {
+                "x": 75,
+                "y": 460,
+                "width": 225,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                0.101960786
+            ]
+        },
+        {
+            "id": "B98AA98A-67DB-4662-9690-CA193B752391",
+            "name": "Oval",
+            "rect": {
+                "x": 153,
+                "y": 434,
+                "width": 68,
+                "height": 68
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "45BFBD8F-57A1-4DE2-A76F-44EEF59C1119",
+            "name": "Shape",
+            "rect": {
+                "x": 180,
+                "y": 457,
+                "width": 15,
+                "height": 9
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "E352C89E-78EF-4ACB-BFFB-A6A2D9BBDE6E",
+            "name": "About libra",
+            "rect": {
+                "x": 20,
+                "y": 327,
+                "width": 81,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7367D641-000A-4650-97A2-73BF62BDC0EF",
+            "name": "Facebook has finally",
+            "rect": {
+                "x": 20,
+                "y": 359,
+                "width": 332,
+                "height": 63
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2D39BCFC-C363-47E3-AF40-6FC0B777AF32",
+            "name": "Rectangle",
+            "rect": {
+                "x": 20,
+                "y": 625,
+                "width": 50,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.16862746,
+                0.15686275,
+                0.8352941,
+                1
+            ]
+        },
+        {
+            "id": "94BA1E07-1B0E-4611-9291-96EDE7A182DF",
+            "name": "Rectangle",
+            "rect": {
+                "x": 239,
+                "y": 629,
+                "width": 116,
+                "height": 41
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "6B7FFD68-3538-4294-B1BF-EDA7EF0AB423",
+            "name": "3,192",
+            "rect": {
+                "x": 283,
+                "y": 643,
+                "width": 41,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DE845A12-2C6D-4E71-8075-1694137EB20B",
+            "name": "Path",
+            "rect": {
+                "x": 262,
+                "y": 644,
+                "width": 15,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "95BFA3DD-A60B-464E-8F08-392A4434EC2E",
+            "name": "Path",
+            "rect": {
+                "x": 262,
+                "y": 644,
+                "width": 15,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "526DE537-BB87-4EA5-BD50-6220CE8C5C2D",
+            "name": "Path",
+            "rect": {
+                "x": 262,
+                "y": 644,
+                "width": 15,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "237C1627-5637-4CCA-B222-F61255AF1022",
+            "name": "Jordan Woods",
+            "rect": {
+                "x": 85,
+                "y": 631,
+                "width": 112,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C4EEE774-0799-4913-8860-DEB162FE70EB",
+            "name": "24 transactions",
+            "rect": {
+                "x": 86,
+                "y": 655,
+                "width": 109,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "660ABBEB-2F72-4BCD-B0A0-7C3E852213B4",
+            "name": "Rectangle",
+            "rect": {
+                "x": 20,
+                "y": 703,
+                "width": 50,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.16862746,
+                0.15686275,
+                0.8352941,
+                1
+            ]
+        },
+        {
+            "id": "D460F2F0-8A3C-46D7-A2A2-92248C705766",
+            "name": "Rectangle",
+            "rect": {
+                "x": 239,
+                "y": 707,
+                "width": 116,
+                "height": 41
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "9597E4A4-5C62-498F-BC25-0D01C64CBB32",
+            "name": "2,726",
+            "rect": {
+                "x": 283,
+                "y": 721,
+                "width": 43,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F9CC47BB-5DAE-4AF0-AF49-13072341C7C4",
+            "name": "Path",
+            "rect": {
+                "x": 262,
+                "y": 722,
+                "width": 15,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "D540B55B-0850-4E06-989F-CB9BEE76B540",
+            "name": "Path",
+            "rect": {
+                "x": 262,
+                "y": 722,
+                "width": 15,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "9C702875-EB7C-4194-910B-7B2144BCE5C8",
+            "name": "Path",
+            "rect": {
+                "x": 262,
+                "y": 722,
+                "width": 15,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.23137255,
+                0.21568628,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "05ABF1FB-F1FA-46E9-95C7-4E9D79965B1C",
+            "name": "Lizzie West",
+            "rect": {
+                "x": 86,
+                "y": 709,
+                "width": 88,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D519689B-59E8-4B76-9A4A-E1741EDFAA2A",
+            "name": "22 transactions",
+            "rect": {
+                "x": 86,
+                "y": 733,
+                "width": 108,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9B49C09E-D6A8-4A5A-8328-DA2E91F2758D",
+            "name": "Transactions with fr",
+            "rect": {
+                "x": 20,
+                "y": 505,
+                "width": 192,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,1466 @@
+{
+    "layers": [
+        {
+            "id": "511E59F1-AAAC-4BCE-8E38-E12750378E50",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 128
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "28B47859-CDF1-4474-8CF2-79861B1638B7",
+            "name": "Background Copy",
+            "rect": {
+                "x": 0,
+                "y": 127,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.7764706,
+                0.78431374,
+                0.7882353,
+                1
+            ]
+        },
+        {
+            "id": "37C55628-9EAC-448B-A37E-FC582A7A17B8",
+            "name": "完成",
+            "rect": {
+                "x": 657,
+                "y": 69,
+                "width": 62,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "38329945-0DD1-4032-9568-395E6B414111",
+            "name": "确认账户",
+            "rect": {
+                "x": 303,
+                "y": 59,
+                "width": 145,
+                "height": 44
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D11EEE1A-7E19-46C3-B1FA-9023FF597991",
+            "name": "iconfont-fanhui",
+            "rect": {
+                "x": 28,
+                "y": 67,
+                "width": 20,
+                "height": 34
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.0627451,
+                0.5568628,
+                0.9137255,
+                1
+            ]
+        },
+        {
+            "id": "50D2FD8F-4CA0-49EF-97A8-59B366013E01",
+            "name": "",
+            "rect": {
+                "x": 55,
+                "y": 61,
+                "width": 64,
+                "height": 39
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E7478B03-C3B6-4E98-A996-29C043EC823D",
+            "name": "Oval 1",
+            "rect": {
+                "x": 11,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "AB4EEAAD-D4EA-4106-9281-662CC216F0AD",
+            "name": "Oval 1 copy",
+            "rect": {
+                "x": 25,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "ADF76047-18FE-46EE-B147-532C7E0C00CE",
+            "name": "Oval 1 copy 2",
+            "rect": {
+                "x": 39,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "7A4D92CC-2033-4D11-B95E-12AA5522B10E",
+            "name": "Path",
+            "rect": {
+                "x": 53,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "42B846AA-D45B-4718-9555-8EBFFADB6A28",
+            "name": "Path",
+            "rect": {
+                "x": 53,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "CF0C9958-7A2E-4E8D-9185-26BF0748D169",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "2EBEBFB7-BD7D-4914-9E44-E1337E822DCC",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "E8855092-6FF9-40B6-BFA2-E088A19DE113",
+            "name": "Path",
+            "rect": {
+                "x": 88,
+                "y": 10,
+                "width": 24,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "52B8D6B9-B2E1-40A3-B47E-786BDAA2774F",
+            "name": "Shape",
+            "rect": {
+                "x": 88,
+                "y": 10,
+                "width": 24,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "A378D557-01A8-49B8-AF3E-0D0E175573E2",
+            "name": "Shape",
+            "rect": {
+                "x": 88,
+                "y": 10,
+                "width": 24,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "83C04F4C-3687-4FD9-AB99-C9787490F164",
+            "name": "9:41",
+            "rect": {
+                "x": 334,
+                "y": 12,
+                "width": 82,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "AC36FE92-EE29-4622-81AA-F7A04C600ECF",
+            "name": "Path",
+            "rect": {
+                "x": 690,
+                "y": 10,
+                "width": 46,
+                "height": 21
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "E018106A-ACB1-4F00-83CF-63E72A6A6996",
+            "name": "Path",
+            "rect": {
+                "x": 690,
+                "y": 10,
+                "width": 46,
+                "height": 21
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "23F39B51-89E2-4776-8081-1218EA08BB95",
+            "name": "Path",
+            "rect": {
+                "x": 692,
+                "y": 12,
+                "width": 48,
+                "height": 17
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "00BA31D0-04BE-46D1-84F7-3F8502022627",
+            "name": "Path",
+            "rect": {
+                "x": 692,
+                "y": 12,
+                "width": 48,
+                "height": 17
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "CEEB3C2F-7810-460E-8224-8D4ED786B82C",
+            "name": "42%",
+            "rect": {
+                "x": 637,
+                "y": 12,
+                "width": 43,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "38778D5C-7BF5-4EB8-A14A-AF8CF011A4A0",
+            "name": "Path",
+            "rect": {
+                "x": 608,
+                "y": 6,
+                "width": 17,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "23D31125-552D-4178-B54E-B0E3FFBBC6AD",
+            "name": "Path",
+            "rect": {
+                "x": 608,
+                "y": 6,
+                "width": 17,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "77947359-792B-4055-BC22-605AA0CFB539",
+            "name": "Path",
+            "rect": {
+                "x": 608,
+                "y": 6,
+                "width": 17,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "6A61F0EC-9B9B-4E60-ADCA-3005600254A4",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 128,
+                "width": 750,
+                "height": 520
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "B490E99C-1A0E-4989-BFDB-8BE9C06B0010",
+            "name": "提交成功",
+            "rect": {
+                "x": 302,
+                "y": 389,
+                "width": 144,
+                "height": 113
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1DF88C72-63A7-4A05-8EFA-48616E2782C9",
+            "name": "预计3分钟到账，我们会以短信通知你",
+            "rect": {
+                "x": 102,
+                "y": 477,
+                "width": 545,
+                "height": 33
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "24491CFD-6611-448B-9F8F-A198C4EAF4DE",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 648,
+                "width": 750,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "8DBCD37D-62AE-4D54-A6EA-6B3E4CDA7851",
+            "name": "bg copy",
+            "rect": {
+                "x": 0,
+                "y": 748,
+                "width": 750,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "784D824B-F483-4CDD-9317-3BE607E4B336",
+            "name": "Line",
+            "rect": {
+                "x": 29,
+                "y": 747,
+                "width": 692,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "5A5E34CD-37A1-423C-84C6-1E8108197716",
+            "name": "贷款金额",
+            "rect": {
+                "x": 31,
+                "y": 683,
+                "width": 129,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EBC2ECDD-A791-4D84-AEE1-0391B09E989F",
+            "name": "收款账户",
+            "rect": {
+                "x": 32,
+                "y": 783,
+                "width": 125,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "94415F3A-C41B-4B43-AC7C-939F21A0948C",
+            "name": "20,000.00",
+            "rect": {
+                "x": 569,
+                "y": 686,
+                "width": 150,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F91312CF-87F5-4412-AABD-DE47A783DADE",
+            "name": "keo***@gmail.com",
+            "rect": {
+                "x": 462,
+                "y": 786,
+                "width": 257,
+                "height": 69
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B2A60D9B-5627-44CC-9BF1-BC8D9E052B5C",
+            "name": "Rectangle 21 Copy",
+            "rect": {
+                "x": 372,
+                "y": 778,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                0.0627451,
+                0.5568628,
+                0.9137255,
+                1
+            ]
+        },
+        {
+            "id": "E94CFE0E-4FCF-4AAD-A7D8-2F6ED46C67C6",
+            "name": "Path",
+            "rect": {
+                "x": 377,
+                "y": 785,
+                "width": 35,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "5023EC47-10AF-4B39-9AAB-00861526BCEA",
+            "name": "Path",
+            "rect": {
+                "x": 377,
+                "y": 785,
+                "width": 35,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "217E526E-B5FE-4FE3-851F-24D3534540B6",
+            "name": "Oval 3",
+            "rect": {
+                "x": 305,
+                "y": 198,
+                "width": 140,
+                "height": 140
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0,
+                0.63529414,
+                0.6745098,
+                1
+            ]
+        },
+        {
+            "id": "2812B79E-0882-49A0-AD31-F98341CE3CA0",
+            "name": "Rectangle",
+            "rect": {
+                "x": 333,
+                "y": 268,
+                "width": 33,
+                "height": 32
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "5F5EA94D-7056-421F-B7B6-A4C260382B83",
+            "name": "Rectangle Copy",
+            "rect": {
+                "x": 357,
+                "y": 242,
+                "width": 58,
+                "height": 58
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "595CAC40-E738-4C09-8CDE-DF2EF139B6AC",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 0,
+                "y": 888,
+                "width": 750,
+                "height": 320
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "483721C9-96A1-434E-8E7D-1F8BA12D897B",
+            "name": "本次支用获得抽奖机会一次",
+            "rect": {
+                "x": 196,
+                "y": 917,
+                "width": 358,
+                "height": 28
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4640DDDD-2266-4221-96B6-888964F5EB59",
+            "name": "Rectangle 9 Copy 5",
+            "rect": {
+                "x": 245,
+                "y": 1128,
+                "width": 260,
+                "height": 60
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9254902,
+                0.9254902,
+                0.9254902,
+                1
+            ]
+        },
+        {
+            "id": "511D76C6-3653-4A96-A448-7A67C2E6B452",
+            "name": "开始抽奖",
+            "rect": {
+                "x": 320,
+                "y": 1145,
+                "width": 110,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A4E0C02F-1695-4ABD-B67F-D57A4D001B47",
+            "name": "Rectangle 9 Copy 2",
+            "rect": {
+                "x": 30,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "2B8681B3-38EA-4525-8642-19A1C1AC7A21",
+            "name": "Oval",
+            "rect": {
+                "x": 30,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "8CC69428-C74A-436A-BC74-A2CA8F54E991",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 30,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "F412AE07-5DED-4510-B780-300E210AB752",
+            "name": "Fill 1",
+            "rect": {
+                "x": 138,
+                "y": 988,
+                "width": 112,
+                "height": 110
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6862745,
+                0.6862745,
+                0.6862745,
+                1
+            ]
+        },
+        {
+            "id": "972F3D47-0D78-4B6F-8648-319FAF6384C8",
+            "name": "Fill 3",
+            "rect": {
+                "x": 138,
+                "y": 988,
+                "width": 112,
+                "height": 110
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6862745,
+                0.6862745,
+                0.6862745,
+                1
+            ]
+        },
+        {
+            "id": "B39B9DB6-E513-4CFF-82C2-94B5EC416585",
+            "name": "Fill 6",
+            "rect": {
+                "x": 138,
+                "y": 988,
+                "width": 112,
+                "height": 110
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6862745,
+                0.6862745,
+                0.6862745,
+                1
+            ]
+        },
+        {
+            "id": "9A09FE79-D022-4B41-83C9-AB947016A97B",
+            "name": "Line 3",
+            "rect": {
+                "x": 228,
+                "y": 980,
+                "width": 2,
+                "height": 104
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "00042FEE-B041-47FC-9F15-5B8C54640321",
+            "name": "Line 3 Copy",
+            "rect": {
+                "x": 226,
+                "y": 980,
+                "width": 2,
+                "height": 104
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "4A719D55-0E43-49DE-AF76-B45E4BA75471",
+            "name": "利率优惠",
+            "rect": {
+                "x": 48,
+                "y": 986,
+                "width": 95,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F5B7B512-5EE4-468E-ADAF-5CD48B84D507",
+            "name": "(最低)",
+            "rect": {
+                "x": 118,
+                "y": 1052,
+                "width": 62,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "25949948-3A15-40A8-86D0-C0BE67A757C2",
+            "name": "5",
+            "rect": {
+                "x": 50,
+                "y": 1035,
+                "width": 26,
+                "height": 37
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7F6972FC-FB19-47DC-B52F-6074D55C4017",
+            "name": "折",
+            "rect": {
+                "x": 81,
+                "y": 1045,
+                "width": 30,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "873FF361-F51F-4B66-9ACE-9D72E8D6F52B",
+            "name": "Rectangle 9 Copy 2",
+            "rect": {
+                "x": 265,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "E1F9C5AC-E687-4CC6-91FB-568360A77718",
+            "name": "Oval",
+            "rect": {
+                "x": 265,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "7FDA698E-492F-4D3B-8971-CEDB6EC07B72",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 265,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "660D09C0-8529-4648-8EB5-62E1AEFCACFE",
+            "name": "Fill 1",
+            "rect": {
+                "x": 373,
+                "y": 988,
+                "width": 112,
+                "height": 110
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6862745,
+                0.6862745,
+                0.6862745,
+                1
+            ]
+        },
+        {
+            "id": "8B789B25-1069-4022-81B1-4DAAE36AF9FF",
+            "name": "Fill 3",
+            "rect": {
+                "x": 373,
+                "y": 988,
+                "width": 112,
+                "height": 110
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6862745,
+                0.6862745,
+                0.6862745,
+                1
+            ]
+        },
+        {
+            "id": "C912A586-A864-4519-B441-D787D865AA89",
+            "name": "Fill 6",
+            "rect": {
+                "x": 373,
+                "y": 988,
+                "width": 112,
+                "height": 110
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6862745,
+                0.6862745,
+                0.6862745,
+                1
+            ]
+        },
+        {
+            "id": "6519592C-9692-4F47-8D02-571022C16C78",
+            "name": "Line 3",
+            "rect": {
+                "x": 463,
+                "y": 980,
+                "width": 2,
+                "height": 104
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "4FD56510-ABB2-4247-838C-3C72C20CE230",
+            "name": "Line 3 Copy",
+            "rect": {
+                "x": 461,
+                "y": 980,
+                "width": 2,
+                "height": 104
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "750663C5-1750-431E-85A6-804C44D74D0B",
+            "name": "提前收款卡",
+            "rect": {
+                "x": 284,
+                "y": 986,
+                "width": 119,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E16C7B59-9902-4615-B64C-CEFAD9731690",
+            "name": "(最高)",
+            "rect": {
+                "x": 385,
+                "y": 1052,
+                "width": 62,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AC30F65C-09B3-45C7-8073-71F7583C73EE",
+            "name": "1",
+            "rect": {
+                "x": 285,
+                "y": 1035,
+                "width": 15,
+                "height": 36
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DCA25DB5-E2AA-400E-88EA-0AC1E12B2D4E",
+            "name": "万元",
+            "rect": {
+                "x": 316,
+                "y": 1047,
+                "width": 62,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "173C8614-48FF-4E0D-B4B9-52939B8BA2A7",
+            "name": "Rectangle 9 Copy 2",
+            "rect": {
+                "x": 500,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "4F206F29-589E-4F85-879A-48F5B4ED14EA",
+            "name": "Oval",
+            "rect": {
+                "x": 500,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "9D64FA66-8539-463F-B2E7-9E5C74562AC9",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 500,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "D857AF3C-9637-4FE4-A37A-A2B61A287D6C",
+            "name": "Fill 1",
+            "rect": {
+                "x": 608,
+                "y": 988,
+                "width": 112,
+                "height": 110
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6862745,
+                0.6862745,
+                0.6862745,
+                1
+            ]
+        },
+        {
+            "id": "CED7249D-F4CA-42A4-B69D-EEA7F8B8F003",
+            "name": "Fill 3",
+            "rect": {
+                "x": 608,
+                "y": 988,
+                "width": 112,
+                "height": 110
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6862745,
+                0.6862745,
+                0.6862745,
+                1
+            ]
+        },
+        {
+            "id": "44693C2D-F9B0-482B-AF63-A9589230938B",
+            "name": "Fill 6",
+            "rect": {
+                "x": 608,
+                "y": 988,
+                "width": 112,
+                "height": 110
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6862745,
+                0.6862745,
+                0.6862745,
+                1
+            ]
+        },
+        {
+            "id": "CE82F2E2-1FBD-4A3B-A8E4-D2ECBFD9C9D2",
+            "name": "Line 3",
+            "rect": {
+                "x": 698,
+                "y": 980,
+                "width": 2,
+                "height": 104
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "72AE88A6-7FE6-41E0-ADA3-DBE3C151AA23",
+            "name": "Line 3 Copy",
+            "rect": {
+                "x": 696,
+                "y": 980,
+                "width": 2,
+                "height": 104
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "F10C4A30-6030-4AA6-9C63-460DF6495558",
+            "name": "利息红包",
+            "rect": {
+                "x": 518,
+                "y": 986,
+                "width": 95,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D1E6E3F0-C40A-45FB-B011-D72F4C97C578",
+            "name": "(最高) copy",
+            "rect": {
+                "x": 613,
+                "y": 1052,
+                "width": 62,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "222EB8AA-7414-4D1A-90D3-7EB5F7A484FC",
+            "name": "50",
+            "rect": {
+                "x": 520,
+                "y": 1035,
+                "width": 56,
+                "height": 37
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F023F61F-7706-4D6C-BB2F-9E1F3F53CB75",
+            "name": "元 copy",
+            "rect": {
+                "x": 578,
+                "y": 1047,
+                "width": 30,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

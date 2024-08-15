@@ -1,0 +1,764 @@
+{
+    "layers": [
+        {
+            "id": "E77476E3-62EB-4388-8210-354FB15B9BCE",
+            "name": "Path",
+            "rect": {
+                "x": 49,
+                "y": 233,
+                "width": 326,
+                "height": 125
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "491B29EC-AC4F-4A80-9E06-3162FF0C443C",
+            "name": "IMG_9474",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 1334
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "34D78C0A-C98C-41D0-98B4-FEF1B7E965D7",
+            "name": "Path",
+            "rect": {
+                "x": 513,
+                "y": 783,
+                "width": 61,
+                "height": 34
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "88FA53C2-AC46-4F11-A821-314925EF6415",
+            "name": "Path",
+            "rect": {
+                "x": 191,
+                "y": 1011,
+                "width": 95,
+                "height": 46
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CDBEA4B2-E264-4005-A766-54BEF748B180",
+            "name": "小区 copy",
+            "rect": {
+                "x": 193,
+                "y": 1023,
+                "width": 64,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0077AFA9-3102-4120-8555-DAF71731016B",
+            "name": "Path",
+            "rect": {
+                "x": 159,
+                "y": 1140,
+                "width": 95,
+                "height": 46
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E07568B2-0565-40BE-828F-7D9C0BAC31FE",
+            "name": "小区 copy",
+            "rect": {
+                "x": 161,
+                "y": 1152,
+                "width": 64,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AB15D360-AA91-42CC-B2AA-B8B703B2E7B1",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1263,
+                "width": 750,
+                "height": 71
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FD8046C3-AF50-4EAE-B501-18F847C5440A",
+            "name": "Path",
+            "rect": {
+                "x": 642,
+                "y": 611,
+                "width": 80,
+                "height": 77
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EED604DE-8A5F-4340-B3AA-C862FEF18BA0",
+            "name": "Path",
+            "rect": {
+                "x": 332,
+                "y": 61,
+                "width": 86,
+                "height": 47
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0AFE0321-210E-4F55-9D57-93FC7A97B2DF",
+            "name": "邻里圈",
+            "rect": {
+                "x": 324,
+                "y": 67,
+                "width": 105,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F9E5D4AD-37F6-4C4C-BB27-3002BE6DC8E5",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 868,
+                "width": 750,
+                "height": 466
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9AD3DB89-738D-4DF5-8940-799CD06ECBFB",
+            "name": "Path",
+            "rect": {
+                "x": 638,
+                "y": 62,
+                "width": 95,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F225DBEA-6781-49AC-A944-5CD960748CB1",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 62,
+                "width": 95,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F9C800F1-8ADC-4406-AAFA-EFAE24735E9A",
+            "name": "Path",
+            "rect": {
+                "x": 29,
+                "y": 68,
+                "width": 20,
+                "height": 34
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DA06BCA3-758F-4B03-A722-BF6F850E4AB8",
+            "name": "",
+            "rect": {
+                "x": 57,
+                "y": 71,
+                "width": 60,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E882CA0A-9B2D-4506-B9A6-73A45CA2DB4B",
+            "name": "加入",
+            "rect": {
+                "x": 657,
+                "y": 68,
+                "width": 62,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FE47FFEC-33E8-4F25-A6DE-79527A463BC7",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 129,
+                "width": 750,
+                "height": 779
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "30930784-40EF-414C-8C37-32ABC683F0A9",
+            "name": "IMG_9474",
+            "rect": {
+                "x": 0,
+                "y": 129,
+                "width": 750,
+                "height": 779
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E0CFAB31-EA1E-4C58-89D8-609419AA8EA4",
+            "name": "Path",
+            "rect": {
+                "x": 513,
+                "y": 696,
+                "width": 61,
+                "height": 34
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B4B93D52-75CE-40C3-9CE2-25CEBB81ABC4",
+            "name": "Path",
+            "rect": {
+                "x": 191,
+                "y": 924,
+                "width": 95,
+                "height": 46
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "12A23203-539E-448A-8780-738FD71F0475",
+            "name": "小区 copy",
+            "rect": {
+                "x": 192,
+                "y": 928,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DE9322E0-98C6-4BAB-8C7D-889B14666E5F",
+            "name": "Path",
+            "rect": {
+                "x": 159,
+                "y": 1053,
+                "width": 95,
+                "height": 46
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3A8CEE7B-4F09-4C2F-99F9-A8A0CE7DE7D8",
+            "name": "小区 copy",
+            "rect": {
+                "x": 160,
+                "y": 1057,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D5A004D2-B41D-4024-8163-A1AA8E030B4F",
+            "name": "小区",
+            "rect": {
+                "x": 513,
+                "y": 698,
+                "width": 64,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "82F789E9-3E33-4D2E-8DC0-A826D7624318",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1176,
+                "width": 750,
+                "height": 71
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A481E9A3-9881-4ED4-B989-17202309952D",
+            "name": "Path",
+            "rect": {
+                "x": 642,
+                "y": 524,
+                "width": 80,
+                "height": 77
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "930C2F39-835D-46C7-8FB6-2EB26E85E710",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 777,
+                "width": 720,
+                "height": 129
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "283CC503-0D4D-4BD5-ACD7-3C65D17C1EA7",
+            "name": "Path",
+            "rect": {
+                "x": 95,
+                "y": 827,
+                "width": 80,
+                "height": 34
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "991DA5E5-5C4B-416E-A2DC-A24C1634A3D5",
+            "name": "黄龙时代小区",
+            "rect": {
+                "x": 31,
+                "y": 826,
+                "width": 196,
+                "height": 32
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AF618DBC-0BA3-4F4C-82C8-825602BA8249",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 906,
+                "width": 34,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "010DA454-7BAD-4798-BDAD-B0AAB63D8E99",
+            "name": "Path",
+            "rect": {
+                "x": 296,
+                "y": 305,
+                "width": 125,
+                "height": 123
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6B315773-00AE-4FCF-B6EB-A7AF9DF2CA56",
+            "name": "IMG_9474",
+            "rect": {
+                "x": 296,
+                "y": 305,
+                "width": 125,
+                "height": 123
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7DC3C795-868F-4351-B5B2-CBB25C39B501",
+            "name": "Path",
+            "rect": {
+                "x": 395,
+                "y": 559,
+                "width": 61,
+                "height": 34
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "038955A0-EB0F-4DDD-A36C-8C607393610C",
+            "name": "Path",
+            "rect": {
+                "x": 73,
+                "y": 787,
+                "width": 95,
+                "height": 46
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6CC7B62A-0953-4897-A94E-4264E94E1284",
+            "name": "小区 copy",
+            "rect": {
+                "x": 74,
+                "y": 791,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "715BE61E-1318-41A7-B00F-24808031285F",
+            "name": "Path",
+            "rect": {
+                "x": 41,
+                "y": 916,
+                "width": 95,
+                "height": 46
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BAD21AE8-37B1-4E4E-B8AB-7BC620AD9E5D",
+            "name": "小区 copy",
+            "rect": {
+                "x": 42,
+                "y": 920,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FC28FA67-C5CA-4754-B6F2-34EFFF2A66A7",
+            "name": "小区",
+            "rect": {
+                "x": 394,
+                "y": 553,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E591734A-7616-402B-AD40-A123FC35ABFB",
+            "name": "Path",
+            "rect": {
+                "x": -118,
+                "y": 1039,
+                "width": 750,
+                "height": 71
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "79D77939-5F7C-40E9-AC3F-E55ED3DE8D83",
+            "name": "Path",
+            "rect": {
+                "x": 524,
+                "y": 387,
+                "width": 80,
+                "height": 77
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7B037349-4452-4230-9725-D9EED6542344",
+            "name": "Path",
+            "rect": {
+                "x": 236,
+                "y": 245,
+                "width": 278,
+                "height": 278
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,1718 @@
+{
+    "layers": [
+        {
+            "id": "86A3D3BB-C5EA-4E16-B9A2-9FE957DC76A2",
+            "name": "BG",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.17254902,
+                0.16078432,
+                0.22352941,
+                1
+            ]
+        },
+        {
+            "id": "9738FC81-8DE3-42AB-A77C-D37857636507",
+            "name": "Rectangle",
+            "rect": {
+                "x": 143,
+                "y": 736,
+                "width": 93,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                0.101960786
+            ]
+        },
+        {
+            "id": "13DE0AAF-E5DE-4645-9205-EF8F7ADE8F4C",
+            "name": "Path",
+            "rect": {
+                "x": 156,
+                "y": 747,
+                "width": 12,
+                "height": 8
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "34FA9D57-F117-44E7-9D4C-576B132C3BB0",
+            "name": "queue",
+            "rect": {
+                "x": 177,
+                "y": 744,
+                "width": 41,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "53230F84-EF39-487F-83EC-C704505E1123",
+            "name": "Mask",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 708
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "19154B41-E75A-4B90-A2D3-8C6DD27A5723",
+            "name": "Bitmap",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 609
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9B6C9C93-1B59-454D-BE41-FBEC45F9B76B",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 329,
+                "width": 375,
+                "height": 384
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.17254902,
+                0.16078432,
+                0.22352941,
+                1
+            ]
+        },
+        {
+            "id": "DEDB0854-0156-4C94-9D73-B68807529A3C",
+            "name": "Rectangle Copy",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 385
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.17254902,
+                0.16078432,
+                0.22352941,
+                1
+            ]
+        },
+        {
+            "id": "C05CC0CD-36F5-4D39-8054-417C424B7216",
+            "name": "MARTIN GARRIX SHOW",
+            "rect": {
+                "x": 29,
+                "y": 535,
+                "width": 192,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "8ADEA2B4-EF5D-492C-9AD2-9767667B4776",
+            "name": "EPISODE - 147",
+            "rect": {
+                "x": 29,
+                "y": 563,
+                "width": 94,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "5304B023-97F7-4B3D-8E0A-96D7C592FAB4",
+            "name": "Path",
+            "rect": {
+                "x": 326,
+                "y": 554,
+                "width": 19,
+                "height": 5
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "C204CFBA-2E1B-4747-8FEA-24259F8D0A5A",
+            "name": "Path",
+            "rect": {
+                "x": 326,
+                "y": 554,
+                "width": 19,
+                "height": 5
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "CD10ECE8-DDDD-4DDB-ADD8-25FF16967A97",
+            "name": "Path",
+            "rect": {
+                "x": 326,
+                "y": 554,
+                "width": 19,
+                "height": 5
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "010B98B5-5EE3-4D10-96CC-B7A17C28D756",
+            "name": "Line 2",
+            "rect": {
+                "x": 78,
+                "y": 600,
+                "width": 271,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.17254902,
+                0.16078432,
+                0.22352941,
+                1
+            ]
+        },
+        {
+            "id": "2AA06C1F-5AFC-4D84-B328-DF54358D0134",
+            "name": "1:02:52",
+            "rect": {
+                "x": 29,
+                "y": 612,
+                "width": 42,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F3760CC8-6FA6-42C9-ABDC-943A5C5882AA",
+            "name": "01:43:00",
+            "rect": {
+                "x": 305,
+                "y": 612,
+                "width": 43,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1C28067E-2BA0-4268-9AA1-9EE067E39891",
+            "name": "Line 2 Copy",
+            "rect": {
+                "x": 28,
+                "y": 600,
+                "width": 155,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7CDA6F52-F20A-4776-85AE-0747F9B89F59",
+            "name": "Oval",
+            "rect": {
+                "x": 171,
+                "y": 590,
+                "width": 22,
+                "height": 22
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.3137255,
+                0.8901961,
+                0.7607843,
+                1
+            ]
+        },
+        {
+            "id": "FEE1FA3A-8BC8-4B78-9F47-6C6C47448834",
+            "name": "Path",
+            "rect": {
+                "x": 255,
+                "y": 666,
+                "width": 28,
+                "height": 21
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2116D89A-9AFC-4347-9F6E-D79018F5265A",
+            "name": "Path",
+            "rect": {
+                "x": 255,
+                "y": 666,
+                "width": 28,
+                "height": 21
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9B2F43AF-7D00-428B-9BDE-2DBD8851E448",
+            "name": "Path",
+            "rect": {
+                "x": 91,
+                "y": 666,
+                "width": 28,
+                "height": 21
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2528103F-EE09-484B-B331-4C0A01090CE7",
+            "name": "Path",
+            "rect": {
+                "x": 91,
+                "y": 666,
+                "width": 28,
+                "height": 21
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DB55F984-446B-4FC6-84DE-4EAFEEC0B515",
+            "name": "Path",
+            "rect": {
+                "x": 316,
+                "y": 664,
+                "width": 20,
+                "height": 24
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AD4ABC77-880D-43BB-B55E-29D8C83039D7",
+            "name": "Path",
+            "rect": {
+                "x": 316,
+                "y": 664,
+                "width": 20,
+                "height": 24
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A43F2345-6B1B-465E-9E33-6DAB07D6D8C4",
+            "name": "Path",
+            "rect": {
+                "x": 316,
+                "y": 664,
+                "width": 20,
+                "height": 24
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "850F796B-90E2-4DBC-9E42-65010A03A902",
+            "name": "Path",
+            "rect": {
+                "x": 316,
+                "y": 664,
+                "width": 20,
+                "height": 24
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B0AB632B-D423-445F-BF95-5861CA837CC0",
+            "name": "Path",
+            "rect": {
+                "x": 40,
+                "y": 666,
+                "width": 19,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "49EE834E-CFA1-4FA5-8CBD-DCB50A652E30",
+            "name": "Path",
+            "rect": {
+                "x": 40,
+                "y": 666,
+                "width": 19,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "656D3D77-1FC1-432F-BC72-DF0B2B07769B",
+            "name": "Path",
+            "rect": {
+                "x": 40,
+                "y": 666,
+                "width": 19,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A65F3F98-F0E3-4243-AA34-D0AEE4BF348F",
+            "name": "Path",
+            "rect": {
+                "x": 40,
+                "y": 666,
+                "width": 19,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B6FBF206-0F93-4F88-81CD-430BD3CD4E22",
+            "name": "Path",
+            "rect": {
+                "x": 40,
+                "y": 666,
+                "width": 19,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6602F985-DF30-4413-8260-8528954404C7",
+            "name": "Oval",
+            "rect": {
+                "x": 152,
+                "y": 641,
+                "width": 70,
+                "height": 70
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0.3137255,
+                0.8901961,
+                0.7607843,
+                1
+            ]
+        },
+        {
+            "id": "CE358705-E229-4294-A316-7E9603BECC63",
+            "name": "Rectangle",
+            "rect": {
+                "x": 180,
+                "y": 667,
+                "width": 14,
+                "height": 18
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4303FD06-BD7C-468E-B27A-02E0D3090CC1",
+            "name": "Rectangle",
+            "rect": {
+                "x": 180,
+                "y": 667,
+                "width": 14,
+                "height": 18
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "74AE8BCB-3AA5-48B8-8B54-418357ABEBA8",
+            "name": "Path",
+            "rect": {
+                "x": 28,
+                "y": 50,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.3137255,
+                0.8901961,
+                0.7607843,
+                1
+            ]
+        },
+        {
+            "id": "F0B906B4-5C68-449E-9705-A8A58BD523DA",
+            "name": "Path",
+            "rect": {
+                "x": 28,
+                "y": 50,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.3137255,
+                0.8901961,
+                0.7607843,
+                1
+            ]
+        },
+        {
+            "id": "C6504580-A972-4CF6-8DB7-A669BD3D495A",
+            "name": "Path",
+            "rect": {
+                "x": 28,
+                "y": 50,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.3137255,
+                0.8901961,
+                0.7607843,
+                1
+            ]
+        },
+        {
+            "id": "F2750EBC-52F2-462F-A628-7094F172CAD5",
+            "name": "POD",
+            "rect": {
+                "x": 81,
+                "y": 54,
+                "width": 35,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9242D4AE-89EE-42FF-9D74-353068D14CDB",
+            "name": "CASTR",
+            "rect": {
+                "x": 79,
+                "y": 72,
+                "width": 46,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D46BEC90-1C39-42A7-907E-FBBE08C8CD5D",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 440,
+                "width": 133,
+                "height": 31
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.17254902,
+                0.16078432,
+                0.22352941,
+                0.5019608
+            ]
+        },
+        {
+            "id": "751FF8A5-10F5-4D1A-933E-4C7CD9BD625A",
+            "name": "NOW PLAYING",
+            "rect": {
+                "x": 36,
+                "y": 449,
+                "width": 50,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F9837696-8F95-44FE-AC05-E25B99BCEA77",
+            "name": "iPhone X/Home Indicator/Home Indicator - On Dark",
+            "rect": {
+                "x": 121,
+                "y": 798,
+                "width": 134,
+                "height": 5
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F42CBC9E-9399-46EF-9A98-BE87ACCBAE62",
+            "name": "Oval",
+            "rect": {
+                "x": 28,
+                "y": 487,
+                "width": 27,
+                "height": 27
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "24FAC176-17C9-4C4F-9B39-7EC5622DE122",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 28,
+                "y": 487,
+                "width": 27,
+                "height": 27
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "59A7DFB1-5303-411E-B6E7-0A15141509C2",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C1382212-44CF-42F6-82BC-3E4CF2365E4A",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7300CF9E-01B4-441A-AB7E-5DA24DAA6CAD",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A35D9FB0-F7D4-4D3F-8B5A-6BA51797A034",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E46406C0-6593-481C-AC3D-0E27538C29FD",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9D802338-1A52-48BF-B96F-8F7B670523DE",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8107268C-3168-4E21-8D63-8B32175C2908",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FC93220C-EB11-409E-9496-DC768919F79E",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1C46E021-7BDC-45CA-A06B-054324E29A04",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "403509A1-1C9E-4E8C-9C45-159BF1206DD4",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D325BD17-7B42-4066-809A-6B6FC8AFE107",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2010C1A9-6258-4350-B951-FBDA5D2E4F0D",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D3567CCA-3132-491E-AB6C-91EAC34FBCB1",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6012208A-669B-4C83-B747-D381264F4397",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "506FC525-BD92-4758-8203-ACDC189E81EF",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0F4978DE-97A8-4200-A74F-A4E3A336C281",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D270AD12-7658-4FB8-AF84-DCC16DA2CE34",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "485B48D3-C9D9-4B9B-A44F-4AB1A4FDF6BA",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "74185EEA-FB96-4883-8FBE-77D56CD35936",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C2A2559A-5C80-459B-AD79-364E42A23F76",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8015F39E-58B2-4709-9590-F043AEDEC213",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FD143466-D07C-46BE-940C-EA210576128D",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "40F4E6DF-792A-4FF9-A412-549AC9E2B551",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "828C1820-442B-414A-B6AE-F6E1CD68B9F7",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7F35AC5B-0A4E-4DAF-907A-E9EA50E7221E",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "50DCE58B-2B15-42E9-99E4-6A652BE53F72",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A66F25C4-88FB-433B-A483-3249709AE32B",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CD470598-BF7A-43E9-B640-CFD341EA7D4B",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3578320F-C6B8-4F6F-BEBE-0732BCADB17E",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0D7A4B9D-BDBF-45EF-BF4E-C8FA1EF2B361",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3ABB87AD-64B8-4AEC-B504-658F7B8AD9F6",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0122D4FF-FA0B-456D-8C3E-771B2726F813",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6AA5268E-C5A9-4F59-8B27-D4B327254A71",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C2CE28FB-08B5-4C90-A05C-5AF0CB827D6B",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1939677A-2C50-40C9-814C-4E2528904283",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "80E6A595-4D19-461D-88E7-658BAAB7FA5D",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6594EF88-D92D-4180-8A61-46B220594F24",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BDCC4525-5CA8-4FE1-8B46-399A8E2B36C0",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "435C4BFD-2417-4B1D-B502-F30EABE7AC7A",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8938993F-9A16-4C42-A50E-84D76BEC4A5A",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2EF47363-E67D-48EB-8884-3852CC64776B",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DA4555D6-D97F-4F8F-8718-A1B5DDB256B1",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "67C83EDE-D471-4CEF-AE7A-23CA373445A8",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F164606F-735A-4893-BA8B-4B4DDDF8C96B",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9532B9D5-C85F-4961-A34E-86FBAE13EC3B",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "79E5D089-C6B3-4595-A740-ACD2F412BEC9",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CA061E45-6F2F-42E6-AC2A-44D152D4AA44",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 493,
+                "width": 241,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C046608C-E925-44E2-B57D-FD083A5DEEAE",
+            "name": "Oval",
+            "rect": {
+                "x": 313,
+                "y": 480,
+                "width": 41,
+                "height": 41
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0.17254902,
+                0.16078432,
+                0.22352941,
+                0.8
+            ]
+        },
+        {
+            "id": "4B021979-6A51-41E6-85C1-C6EA2F27EC5C",
+            "name": "Path",
+            "rect": {
+                "x": 325,
+                "y": 492,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E4231F24-5FCA-4EEC-9FA6-D0DBD0309416",
+            "name": "Path",
+            "rect": {
+                "x": 325,
+                "y": 492,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "63A26EDB-54A6-4DC8-852B-895377E42B5A",
+            "name": "Path",
+            "rect": {
+                "x": 325,
+                "y": 492,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

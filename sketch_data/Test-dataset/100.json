@@ -1,0 +1,1070 @@
+{
+    "layers": [
+        {
+            "id": "1FF142E1-2AD3-489C-8259-09798D07F575",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 2316
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "B0695E4F-8B65-4551-8515-136F0E02349E",
+            "name": "base",
+            "rect": {
+                "x": 24,
+                "y": 2220,
+                "width": 148,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "C0AC004D-D1B3-4325-85C8-C0D7AE038FBC",
+            "name": "back",
+            "rect": {
+                "x": 44,
+                "y": 2235,
+                "width": 100,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "239ACAFF-E551-4E80-A8C3-6DD840AF91A8",
+            "name": "base",
+            "rect": {
+                "x": 203,
+                "y": 2220,
+                "width": 148,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "B6B12141-9548-49D4-B7DC-184CBF7821C4",
+            "name": "next",
+            "rect": {
+                "x": 223,
+                "y": 2235,
+                "width": 100,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "9457DF10-A60F-4B14-9CBB-04B7D5903BFF",
+            "name": "Relate Post",
+            "rect": {
+                "x": 24,
+                "y": 1837,
+                "width": 250,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "88CAE850-8193-46EF-B0F7-AADEF5915AC3",
+            "name": "avatar",
+            "rect": {
+                "x": 24,
+                "y": 2041,
+                "width": 96,
+                "height": 96
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "12E6894B-4B13-431E-9E0B-E3EE5A5B82AF",
+            "name": "Why Las Vegas Hotel",
+            "rect": {
+                "x": 136,
+                "y": 2041,
+                "width": 271,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "1E75268C-29E1-4DC7-BD5E-D83D1B42CA7F",
+            "name": "Path",
+            "rect": {
+                "x": 326,
+                "y": 2117.0000500014066,
+                "width": 10.000281257910387,
+                "height": 15.99994999859382
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1
+        },
+        {
+            "id": "A0BEC82F-1EB4-4432-92B4-5B20D71E2AB1",
+            "name": "Path",
+            "rect": {
+                "x": 327.00002812579106,
+                "y": 2118.00057814126,
+                "width": 8.000225006328293,
+                "height": 13.000365635283288
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2
+        },
+        {
+            "id": "C00E7F05-46DD-4350-A9DA-739DA66E2921",
+            "name": "Travel / Jul 09",
+            "rect": {
+                "x": 136,
+                "y": 2113,
+                "width": 192.40625,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "4AE8653C-2E5A-439D-9F62-3BEA4EE1DA44",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 2169,
+                "width": 351,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9294117647058824,
+                0.9294117647058824,
+                0.9294117647058824,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "A8CC999A-C534-4F15-8FC4-FF7A6EC18367",
+            "name": "avatar",
+            "rect": {
+                "x": 24,
+                "y": 1880,
+                "width": 96,
+                "height": 96
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "694B5C80-418E-45AE-BA53-73A51357F8DA",
+            "name": "Great Benefits Of Na",
+            "rect": {
+                "x": 136,
+                "y": 1880,
+                "width": 329,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "6B7848AB-FA53-41A2-BB8C-8B0056CFBF87",
+            "name": "Path",
+            "rect": {
+                "x": 326,
+                "y": 1956.0000500014066,
+                "width": 10.000281257910387,
+                "height": 15.99994999859382
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1
+        },
+        {
+            "id": "B705696C-CD6B-4005-857B-79747BD6AFB7",
+            "name": "Path",
+            "rect": {
+                "x": 327.00002812579106,
+                "y": 1957.0005781412601,
+                "width": 8.000225006328293,
+                "height": 13.000365635283288
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2
+        },
+        {
+            "id": "98EC5F78-5187-4C51-B9E0-71B557C58829",
+            "name": "Travel / Jul 09",
+            "rect": {
+                "x": 136,
+                "y": 1952,
+                "width": 192.40625,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "49784878-C68B-4EA3-9C84-8E16AADC2EDC",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 2008,
+                "width": 351,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9294117647058824,
+                0.9294117647058824,
+                0.9294117647058824,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "496951FD-D43B-4768-8FB2-B0609B0EEEEF",
+            "name": "img",
+            "rect": {
+                "x": 24,
+                "y": 1569,
+                "width": 144,
+                "height": 184
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6588235294117647,
+                0.6588235294117647,
+                0.6588235294117647,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "24C45482-DC08-495D-A6A4-7578FE7BCCC8",
+            "name": "Length Tent Dress",
+            "rect": {
+                "x": 24,
+                "y": 1761,
+                "width": 144,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "C67DD483-49C5-4B10-A3A8-33F103415DCA",
+            "name": "$99.69",
+            "rect": {
+                "x": 24,
+                "y": 1781,
+                "width": 80,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "B10D252D-DE2B-4739-B031-43E084CD0FD0",
+            "name": "img",
+            "rect": {
+                "x": 184,
+                "y": 1569,
+                "width": 144,
+                "height": 184
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6588235294117647,
+                0.6588235294117647,
+                0.6588235294117647,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "C21AAFF8-1CFA-4222-BE00-5A2E992E8CDD",
+            "name": "Full Length Dress",
+            "rect": {
+                "x": 184,
+                "y": 1761,
+                "width": 144,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "C871B0C2-450A-450F-8134-7195B0A3B7A4",
+            "name": "$99.69",
+            "rect": {
+                "x": 184,
+                "y": 1781,
+                "width": 80,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "90B37917-61CF-41E6-9208-85E8D10DF95B",
+            "name": "img",
+            "rect": {
+                "x": 344,
+                "y": 1569,
+                "width": 144,
+                "height": 184
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6588235294117647,
+                0.6588235294117647,
+                0.6588235294117647,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "463B5A58-B526-4E0C-BE2B-B3D5B0AB7446",
+            "name": "White Dressrosa",
+            "rect": {
+                "x": 344,
+                "y": 1761,
+                "width": 144,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "A8EA9A8F-590E-40BB-99A7-7C53A5457C5E",
+            "name": "$99.69",
+            "rect": {
+                "x": 344,
+                "y": 1781,
+                "width": 80,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "90B81AA8-8579-4B32-8008-E1C6087FD0EA",
+            "name": "Product on Post",
+            "rect": {
+                "x": 24,
+                "y": 1534,
+                "width": 161,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "CD7E8955-8B2D-4D6F-B56D-C7072A07FD67",
+            "name": "Tips For Choosing Th",
+            "rect": {
+                "x": 24,
+                "y": 492,
+                "width": 327,
+                "height": 72
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "650F9FBD-77B1-4F44-949E-CCCB98B50F22",
+            "name": "The most common allo",
+            "rect": {
+                "x": 24,
+                "y": 617,
+                "width": 327,
+                "height": 160
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "D808ED79-A305-4E84-89E6-1362152AA943",
+            "name": "Jul 09 Post by Luke",
+            "rect": {
+                "x": 24,
+                "y": 572,
+                "width": 327,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "69455618-8D9D-46C9-A32F-9C35572F7312",
+            "name": "Rectangle",
+            "rect": {
+                "x": 75.52090032154342,
+                "y": 582,
+                "width": 4.205787781350466,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5882352941176471,
+                0.5882352941176471,
+                0.5882352941176471,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "0ADE3E4A-5C69-4FF8-B652-492B10CE9170",
+            "name": "If you are an infreq",
+            "rect": {
+                "x": 24,
+                "y": 1005,
+                "width": 327,
+                "height": 160
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "D1CFF32B-3C29-4A25-B422-007DE05506C5",
+            "name": "fashion, collection,",
+            "rect": {
+                "x": 24,
+                "y": 1197,
+                "width": 327,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "99BA0586-672A-45EB-9DC7-507CC8318F06",
+            "name": "Share With",
+            "rect": {
+                "x": 24,
+                "y": 1278,
+                "width": 327,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "F2375159-5731-42B7-99A8-F786A2F5FA5E",
+            "name": "\uf231",
+            "rect": {
+                "x": 227,
+                "y": 1282,
+                "width": 6,
+                "height": 12
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1725490196078431,
+                0.1529411764705882,
+                0.1764705882352941,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "7B1209C6-2B42-4FB6-933A-439DCBBD1336",
+            "name": "Path",
+            "rect": {
+                "x": 259,
+                "y": 1282,
+                "width": 9,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1
+        },
+        {
+            "id": "5274E4CC-D91A-4315-B00B-7F03BEE7BC2D",
+            "name": "Path",
+            "rect": {
+                "x": 261.65625,
+                "y": 1283,
+                "width": 2.90625,
+                "height": 3.8125
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2
+        },
+        {
+            "id": "0BFC0BC3-F9FE-48AB-AD3F-4D09FF73B76C",
+            "name": "Path",
+            "rect": {
+                "x": 260.875,
+                "y": 1289.71875,
+                "width": 4.5625,
+                "height": 3.15625
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2
+        },
+        {
+            "id": "D3BEDE64-B07D-48A0-9E7D-EDEAAD4A60FD",
+            "name": "Path",
+            "rect": {
+                "x": 267,
+                "y": 1282,
+                "width": 6,
+                "height": 6.03125
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2
+        },
+        {
+            "id": "1E0A831E-C1FB-4FB9-89F3-29719696D84F",
+            "name": "\uf243",
+            "rect": {
+                "x": 299,
+                "y": 1282,
+                "width": 14.75,
+                "height": 12
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1725490196078431,
+                0.1529411764705882,
+                0.1764705882352941,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "8931DCF6-AEE8-4117-AFB0-C8BFECCC79B6",
+            "name": "Path",
+            "rect": {
+                "x": 342.5,
+                "y": 1285.5,
+                "width": 5,
+                "height": 5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1
+        },
+        {
+            "id": "6CFC6B8F-6F79-4CC8-9A54-BF6369A25271",
+            "name": "Path",
+            "rect": {
+                "x": 339,
+                "y": 1282,
+                "width": 12,
+                "height": 5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2
+        },
+        {
+            "id": "844AF26C-2ECC-4EBB-8E5F-B1EFF92EE044",
+            "name": "Path",
+            "rect": {
+                "x": 348,
+                "y": 1283,
+                "width": 2,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2
+        },
+        {
+            "id": "1B2E0A58-DFA6-4A88-98E4-FFE5523FD114",
+            "name": "Path",
+            "rect": {
+                "x": 339,
+                "y": 1288,
+                "width": 12,
+                "height": 6
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2
+        },
+        {
+            "id": "CFCF4B22-FD04-48C4-B84D-36F402BC0077",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 1253,
+                "width": 351,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "A29FF974-739C-4FD3-8E16-B1CACACD473B",
+            "name": "base",
+            "rect": {
+                "x": 20,
+                "y": 1374,
+                "width": 335,
+                "height": 120
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "C84E0C54-33A1-4309-8615-13818A7E39B2",
+            "name": "avatar",
+            "rect": {
+                "x": 148,
+                "y": 1334,
+                "width": 80,
+                "height": 80
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "F9B75A53-48C7-4D98-B49E-497B3F090D4A",
+            "name": "Gordon Rivera",
+            "rect": {
+                "x": 63,
+                "y": 1422,
+                "width": 250,
+                "height": 29
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "32D06ED0-646D-47E1-9C35-BB344F41155B",
+            "name": "Design at Moon",
+            "rect": {
+                "x": 98,
+                "y": 1459,
+                "width": 180,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "AEA1C2F5-601F-4FE9-B12C-8D5F62E892B7",
+            "name": "img",
+            "rect": {
+                "x": 24,
+                "y": 809,
+                "width": 164,
+                "height": 164
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "B4A33A72-27B6-4190-9B36-E51F4A0B58AD",
+            "name": "img",
+            "rect": {
+                "x": 212,
+                "y": 809,
+                "width": 164,
+                "height": 164
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "3A594ED3-4C63-4EEF-A108-8306C372E0DD",
+            "name": "img",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 468
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "A09404E8-38BB-4D1B-B4FA-307CECD0C553",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 116
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                0.8200000000000001
+            ],
+            "label": 0
+        },
+        {
+            "id": "909BE297-794E-422D-A3BA-ADED8DF77C02",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "D028354C-15B9-4025-B0B3-9F101A1A4EBF",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "C5B7821F-1579-455A-9643-D2088D3BD018",
+            "name": "back",
+            "rect": {
+                "x": 16,
+                "y": 38,
+                "width": 28,
+                "height": 21.94474471177591
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0
+        },
+        {
+            "id": "C0A85D2D-ED61-4EFB-AE2A-DFB694BA435C",
+            "name": "Path",
+            "rect": {
+                "x": 332.75038289625854,
+                "y": 36.74950770481041,
+                "width": 19.254211858844116,
+                "height": 19.255087050292218
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        },
+        {
+            "id": "5B726374-472D-4F81-B1AA-854AF805CED6",
+            "name": "Path",
+            "rect": {
+                "x": 331,
+                "y": 35,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0
+        }
+    ],
+    "width": 375,
+    "height": 2316,
+    "layer_width": 64,
+    "layer_height": 64
+}

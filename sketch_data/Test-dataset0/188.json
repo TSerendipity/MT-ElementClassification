@@ -1,0 +1,2024 @@
+{
+    "layers": [
+        {
+            "id": "939B5BF9-1984-4B08-8631-E8EF71BAFEBF",
+            "name": "Path",
+            "rect": {
+                "x": 29,
+                "y": 59,
+                "width": 21,
+                "height": 34
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "120153CF-9D82-445D-86DD-1D3F9C3E9DDB",
+            "name": "返回",
+            "rect": {
+                "x": 59,
+                "y": 61,
+                "width": 60,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "44D7F2C7-B22C-4441-8BA4-3D30F53A97F6",
+            "name": "Path",
+            "rect": {
+                "x": -1,
+                "y": 117,
+                "width": 754,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "464FFCE5-EA45-428C-A5DE-92B4973EF200",
+            "name": "Path",
+            "rect": {
+                "x": 238,
+                "y": 0,
+                "width": 274,
+                "height": 135
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FDF58929-F18D-4BD1-99C8-DD5124A1B484",
+            "name": "Path",
+            "rect": {
+                "x": 355,
+                "y": 0,
+                "width": 395,
+                "height": 272
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CC7F4A3E-35CD-49D0-AAB5-5622380E6081",
+            "name": "财富福利券",
+            "rect": {
+                "x": 296,
+                "y": 60,
+                "width": 158,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "548CF2D3-8177-4601-8032-B78D49AE7995",
+            "name": "Path",
+            "rect": {
+                "x": 139,
+                "y": 74,
+                "width": 474,
+                "height": 378
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A6F21C70-5EDA-473E-82AA-F9408CA18085",
+            "name": "Path",
+            "rect": {
+                "x": 146,
+                "y": 81,
+                "width": 460,
+                "height": 367
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FCF6ADC8-9502-43AC-8F51-7CA6B33AE960",
+            "name": "Path",
+            "rect": {
+                "x": 370,
+                "y": 62,
+                "width": 12,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0F5876D6-84AB-49AA-8692-F55593D01C55",
+            "name": "Path",
+            "rect": {
+                "x": 437,
+                "y": 72,
+                "width": 22,
+                "height": 33
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F74F2C6A-632F-43EC-B9CD-60A734634439",
+            "name": "Path",
+            "rect": {
+                "x": 499,
+                "y": 106,
+                "width": 28,
+                "height": 32
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C0471D3D-57DB-4A7F-9773-DC4A65733CA1",
+            "name": "Path",
+            "rect": {
+                "x": 548,
+                "y": 160,
+                "width": 32,
+                "height": 28
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2A6A1AB4-EEA7-4241-934F-1DD3EA9C2C30",
+            "name": "Path",
+            "rect": {
+                "x": 580,
+                "y": 228,
+                "width": 34,
+                "height": 22
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "58156D54-061A-4475-943A-B1DFE5943243",
+            "name": "Path",
+            "rect": {
+                "x": 593,
+                "y": 304,
+                "width": 30,
+                "height": 12
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7DBCABF5-6F4A-4D34-9090-592EE1D8601E",
+            "name": "Path",
+            "rect": {
+                "x": 580,
+                "y": 372,
+                "width": 33,
+                "height": 22
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6EC3F824-1E13-4D2C-8484-478EDDEBE465",
+            "name": "Path",
+            "rect": {
+                "x": 547,
+                "y": 434,
+                "width": 32,
+                "height": 28
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CA2C60DF-4268-482F-BE2B-5D7437E92F69",
+            "name": "Path",
+            "rect": {
+                "x": 293,
+                "y": 72,
+                "width": 22,
+                "height": 33
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6618A672-AB53-4A9B-845B-F355F08A37FB",
+            "name": "Path",
+            "rect": {
+                "x": 225,
+                "y": 105,
+                "width": 28,
+                "height": 32
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "39279122-D76F-4E86-979A-F7B571883F7C",
+            "name": "Path",
+            "rect": {
+                "x": 171,
+                "y": 158,
+                "width": 32,
+                "height": 28
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "041CDC39-1362-4E8C-83A5-3E2BE1759AFF",
+            "name": "Path",
+            "rect": {
+                "x": 137,
+                "y": 226,
+                "width": 33,
+                "height": 22
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8D7BAC71-DB40-4525-9786-54E47ED5DAA5",
+            "name": "Path",
+            "rect": {
+                "x": 126,
+                "y": 303,
+                "width": 31,
+                "height": 13
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9C18C650-3EBD-41E4-A903-1C12CBB36A28",
+            "name": "Path",
+            "rect": {
+                "x": 136,
+                "y": 370,
+                "width": 34,
+                "height": 22
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C4E8F47F-25B2-48DD-963B-76B4C76DDA19",
+            "name": "Path",
+            "rect": {
+                "x": 170,
+                "y": 432,
+                "width": 32,
+                "height": 28
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4160AAF0-B6E5-413C-AEC8-08E4389FA45E",
+            "name": "Mask",
+            "rect": {
+                "x": 26,
+                "y": 353,
+                "width": 698,
+                "height": 601
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5AC68375-FEBC-49E3-8E12-7CCC66E3F8F9",
+            "name": "Oval",
+            "rect": {
+                "x": 26,
+                "y": 353,
+                "width": 698,
+                "height": 601
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "426FF52D-85E4-43B3-A8B2-6B466D840EA7",
+            "name": "Oval",
+            "rect": {
+                "x": 26,
+                "y": 353,
+                "width": 698,
+                "height": 601
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0C30842E-ECA2-4D7B-BE50-1E7DBC845B76",
+            "name": "Path",
+            "rect": {
+                "x": 151,
+                "y": 229,
+                "width": 355,
+                "height": 224
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D66189D4-2310-4839-A770-57EEA1D2F0A6",
+            "name": "Path",
+            "rect": {
+                "x": 308,
+                "y": 248,
+                "width": 533,
+                "height": 342
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FB273BE5-6476-4473-86D3-B0B450FDA173",
+            "name": "Path",
+            "rect": {
+                "x": 60,
+                "y": 872,
+                "width": 631,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B21F5620-4426-4702-980E-C36B32FB40C0",
+            "name": "Path",
+            "rect": {
+                "x": 366,
+                "y": 904,
+                "width": 18,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1883C2D2-AF3E-434F-AA43-F5CB33CDDF22",
+            "name": "Path",
+            "rect": {
+                "x": 366,
+                "y": 911,
+                "width": 18,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7973DCC7-7F07-4D64-BD8A-7D0949773272",
+            "name": "该券还剩 2 天 23 小时 11 分",
+            "rect": {
+                "x": 198,
+                "y": 823,
+                "width": 355,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1FB196CC-A568-4F4A-BFD4-824575D95765",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1076,
+                "width": 750,
+                "height": 344
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EDA9577F-A7DC-41D0-896C-6E569435AF69",
+            "name": "Path",
+            "rect": {
+                "x": 516,
+                "y": 494,
+                "width": 27,
+                "height": 27
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "03D337A3-3EF1-4322-A041-1B551FCCACF6",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 964,
+                "width": 686,
+                "height": 78
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "22929398-9678-472C-9E1A-41F9F7D8ADF2",
+            "name": "ad-业务1",
+            "rect": {
+                "x": 42,
+                "y": 1384,
+                "width": 677,
+                "height": 109
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F0CD09DB-4EB6-4F85-BE19-488EB0E56804",
+            "name": "Status Bar/black/100%",
+            "rect": {
+                "x": 13,
+                "y": 11,
+                "width": 726,
+                "height": 25
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "161751EA-7852-4B7B-B0D4-4F41FA4AC6BA",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 32,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "ED57E156-1ED8-4FDE-A08D-0AD8684CF73A",
+            "name": "Path",
+            "rect": {
+                "x": 718,
+                "y": 0,
+                "width": 32,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "447CEA18-AE5D-40C7-A487-2EC4453A7997",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 0,
+                "width": 94,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A87E3DC4-70F7-4EA4-88FE-7EA54C6CBF19",
+            "name": "Path",
+            "rect": {
+                "x": 268,
+                "y": 0,
+                "width": 94,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "93D8B52D-A892-43AF-94A4-150461CA03CD",
+            "name": "Path",
+            "rect": {
+                "x": 505,
+                "y": 0,
+                "width": 95,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E83FDAEF-A558-4C3F-B9FF-7DC633656785",
+            "name": "Path",
+            "rect": {
+                "x": 150,
+                "y": 0,
+                "width": 94,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E34B2424-9633-441F-9850-6B4C332CCFA1",
+            "name": "Path",
+            "rect": {
+                "x": 387,
+                "y": 0,
+                "width": 94,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "367EBA72-0BB4-400D-85E6-27F2B34A9026",
+            "name": "Path",
+            "rect": {
+                "x": 624,
+                "y": 0,
+                "width": 94,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "35131DBA-98D1-4437-9055-92524F2A4F9E",
+            "name": "Path",
+            "rect": {
+                "x": 126,
+                "y": 0,
+                "width": 24,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "770A43F8-8842-47B0-AAFD-CB130376CEA8",
+            "name": "Path",
+            "rect": {
+                "x": 362,
+                "y": 0,
+                "width": 25,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6B086A8E-1683-4632-95BC-52DE6DAAC251",
+            "name": "Path",
+            "rect": {
+                "x": 600,
+                "y": 0,
+                "width": 24,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2F4F2813-1603-4C14-8F7A-7B46FB12DF68",
+            "name": "Path",
+            "rect": {
+                "x": 244,
+                "y": 0,
+                "width": 24,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "87E6CB3E-3283-423E-AD11-0CA113C75B60",
+            "name": "Path",
+            "rect": {
+                "x": 481,
+                "y": 0,
+                "width": 24,
+                "height": 1334
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A669AF34-84D1-4443-BEF3-AAC099659F28",
+            "name": "Path",
+            "rect": {
+                "x": 47,
+                "y": 1140,
+                "width": 62,
+                "height": 16
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "573DE234-9ACA-43B4-931B-F552CC7EA132",
+            "name": "Path",
+            "rect": {
+                "x": 47,
+                "y": 1202,
+                "width": 62,
+                "height": 16
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D3FE2011-61D7-40F9-9FD5-E2FC683DB5B8",
+            "name": "有资产就能享福利 福利越大，奖励越多！",
+            "rect": {
+                "x": 100,
+                "y": 139,
+                "width": 538,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0B563021-3E00-4143-A45E-54772761BDDE",
+            "name": "Path",
+            "rect": {
+                "x": 33,
+                "y": 193,
+                "width": 684,
+                "height": 144
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FBB4712A-A85E-4253-9307-330759383016",
+            "name": "Path",
+            "rect": {
+                "x": 675,
+                "y": 252,
+                "width": 16,
+                "height": 27
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "477B4DFD-1207-4FFB-B19E-C9B3036B4DA4",
+            "name": "3.88",
+            "rect": {
+                "x": 61,
+                "y": 274,
+                "width": 65,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BA10318B-39B2-4E40-94F2-BBD34AD8381B",
+            "name": "累计获得奖励(元):",
+            "rect": {
+                "x": 61,
+                "y": 228,
+                "width": 188,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "07BF502A-64A7-4166-B88B-D20B01F19D3C",
+            "name": "Path",
+            "rect": {
+                "x": 364,
+                "y": 890,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D06D569F-E433-4251-A775-8CDD3AC271AD",
+            "name": "参加活动加福利",
+            "rect": {
+                "x": 277,
+                "y": 1100,
+                "width": 196,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "75363FDF-3A17-47FF-8C2B-AD0C1F36291D",
+            "name": "规则",
+            "rect": {
+                "x": 653,
+                "y": 60,
+                "width": 61,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C9413FFF-0CB5-4101-9B5F-087BB242C292",
+            "name": "Path",
+            "rect": {
+                "x": 474,
+                "y": 407,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "536E3A33-E9FD-404B-8A96-D4FB663C0B3E",
+            "name": "Path",
+            "rect": {
+                "x": 482,
+                "y": 410,
+                "width": 4,
+                "height": 5
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "08ECB91A-93D1-4AC7-80BE-C8CAAAAD1E19",
+            "name": "Path",
+            "rect": {
+                "x": 482,
+                "y": 415,
+                "width": 6,
+                "height": 9
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E80DDEFD-8824-48A8-9258-428778BDB15B",
+            "name": "可用福利(年化)",
+            "rect": {
+                "x": 283,
+                "y": 402,
+                "width": 184,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AE3938BC-E909-4C20-9C80-ED1B9886FEA3",
+            "name": "Path",
+            "rect": {
+                "x": 617,
+                "y": 396,
+                "width": 101,
+                "height": 44
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "38EF82D9-2E39-44CA-92A9-83C32541D53E",
+            "name": "明细",
+            "rect": {
+                "x": 638,
+                "y": 405,
+                "width": 52,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E28DB956-D825-4581-AEC6-B4D995D4BD08",
+            "name": "Path",
+            "rect": {
+                "x": 700,
+                "y": 412,
+                "width": 7,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "54984244-1F79-4E2B-BB3D-21F727806618",
+            "name": "Oval 2",
+            "rect": {
+                "x": 59,
+                "y": 989,
+                "width": 18,
+                "height": 22
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "486FB16F-45E1-4854-B480-802E31525B7E",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 59,
+                "y": 989,
+                "width": 18,
+                "height": 22
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "50173C33-CC01-49F2-BC88-2ED7C9FA461F",
+            "name": "Path",
+            "rect": {
+                "x": 64,
+                "y": 1012,
+                "width": 8,
+                "height": 4
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2B58E5AF-409F-49A0-A570-32358EF04EAB",
+            "name": "温馨提示：当前可享福利资产: 2333.",
+            "rect": {
+                "x": 93,
+                "y": 991,
+                "width": 603,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5EF1DD85-3DC0-4202-8FB0-E939502C0E41",
+            "name": "8",
+            "rect": {
+                "x": 277,
+                "y": 475,
+                "width": 184,
+                "height": 69
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8A853C13-FCE2-4FE7-BF25-A9C27B1FA993",
+            "name": "%",
+            "rect": {
+                "x": 474,
+                "y": 508,
+                "width": 34,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B8C99B54-2D7C-4FDA-808A-22F68AF28F83",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 145,
+                "y": 579,
+                "width": 460,
+                "height": 87
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "638EF49A-73B6-4BF1-8E30-E782950D47E1",
+            "name": "Rectangle 9",
+            "rect": {
+                "x": 145,
+                "y": 579,
+                "width": 460,
+                "height": 87
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "030E3044-A147-43FF-880A-2EDE93CCA1CF",
+            "name": "使用福利后可拿奖励: 19.17 元",
+            "rect": {
+                "x": 178,
+                "y": 617,
+                "width": 393,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C1223109-FCA7-48F4-9316-5853B390A598",
+            "name": "Path",
+            "rect": {
+                "x": 83,
+                "y": 714,
+                "width": 584,
+                "height": 102
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "43113D8D-4326-44FB-992F-19F541D579E3",
+            "name": "去拿奖励",
+            "rect": {
+                "x": 304,
+                "y": 746,
+                "width": 141,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2D84D32D-35C8-407C-B77B-1A5B726C52AE",
+            "name": "Path",
+            "rect": {
+                "x": 295,
+                "y": 1265,
+                "width": 33,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DEF9FE1C-CFC7-4DC7-95C0-F712A25BD6FE",
+            "name": "Path",
+            "rect": {
+                "x": 300,
+                "y": 1259,
+                "width": 23,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CEBD7E42-1B18-4712-AFB6-D25894E396E8",
+            "name": "Combined Shape Copy 9",
+            "rect": {
+                "x": 367,
+                "y": 1262,
+                "width": 13,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D9969B8B-743C-4E87-A589-56E0168ABED1",
+            "name": "Combined Shape Copy 9",
+            "rect": {
+                "x": 367,
+                "y": 1262,
+                "width": 13,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A991F6DC-718A-4D8A-AFE7-F8BAE8FC8BB5",
+            "name": "Combined Shape Copy 9",
+            "rect": {
+                "x": 367,
+                "y": 1262,
+                "width": 13,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FF61954F-8A54-400C-A20B-9B41674ABA09",
+            "name": "Rectangle Copy 9",
+            "rect": {
+                "x": 367,
+                "y": 1262,
+                "width": 13,
+                "height": 29
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "25ED4000-3414-4F31-B452-8422E91B8849",
+            "name": "Rectangle Copy 14",
+            "rect": {
+                "x": 367,
+                "y": 1262,
+                "width": 13,
+                "height": 29
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3905165D-C6B0-408F-8C64-D099AF3CC5A4",
+            "name": "Path",
+            "rect": {
+                "x": 378,
+                "y": 1263,
+                "width": 17,
+                "height": 28
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B3F04317-A4C0-42F0-807B-247A96301E8D",
+            "name": "Path",
+            "rect": {
+                "x": 384,
+                "y": 1262,
+                "width": 5,
+                "height": 11
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "75EB71E7-21B3-4EB6-8B20-9FB88E4B3072",
+            "name": "Path",
+            "rect": {
+                "x": 427,
+                "y": 1264,
+                "width": 28,
+                "height": 8
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B2AEC920-45EA-4800-8F80-551C5D197B56",
+            "name": "Path",
+            "rect": {
+                "x": 439,
+                "y": 1262,
+                "width": 4,
+                "height": 5
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FD8622AB-D8F7-4C98-ADCC-5948E0372E8E",
+            "name": "Path",
+            "rect": {
+                "x": 431,
+                "y": 1268,
+                "width": 20,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5A8F1E07-3B29-4E56-A0D4-C76E8FB87FF1",
+            "name": "Rectangle 60",
+            "rect": {
+                "x": 431,
+                "y": 1271,
+                "width": 20,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "420063E9-306A-4E76-BB94-9FF458BC967B",
+            "name": "Rectangle 5",
+            "rect": {
+                "x": 431,
+                "y": 1271,
+                "width": 20,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "508CCA7B-D3AB-44F0-8AF4-99096DA9A4C7",
+            "name": "Combined Shape Copy 10",
+            "rect": {
+                "x": 429,
+                "y": 1279,
+                "width": 24,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F97E8E07-3D0F-4CB0-935E-4F02F1750C25",
+            "name": "Combined Shape Copy 10",
+            "rect": {
+                "x": 429,
+                "y": 1279,
+                "width": 24,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9C016A7F-47D7-40CC-B5D1-7BE6F838C8B7",
+            "name": "Combined Shape Copy 10",
+            "rect": {
+                "x": 429,
+                "y": 1279,
+                "width": 24,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "398A578D-2CA6-45D2-8045-1875539496AA",
+            "name": "Combined Shape Copy 10",
+            "rect": {
+                "x": 429,
+                "y": 1279,
+                "width": 24,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "363EB20D-F1DC-495D-B487-3F82750298C1",
+            "name": "Combined Shape Copy 10",
+            "rect": {
+                "x": 429,
+                "y": 1279,
+                "width": 24,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4DF54379-DDFB-4A30-9F52-3CE7F2C968D0",
+            "name": "Combined Shape Copy 8",
+            "rect": {
+                "x": 336,
+                "y": 1262,
+                "width": 14,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3FDCEAA9-1920-46A4-BEDA-0581EAFEBF61",
+            "name": "Combined Shape Copy 8",
+            "rect": {
+                "x": 336,
+                "y": 1262,
+                "width": 14,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1B46171F-F709-47F3-BACD-4CFE7F218647",
+            "name": "Combined Shape Copy 8",
+            "rect": {
+                "x": 336,
+                "y": 1262,
+                "width": 14,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E1A88B27-43FE-4182-830B-98A8D4B65107",
+            "name": "Rectangle Copy 8",
+            "rect": {
+                "x": 336,
+                "y": 1262,
+                "width": 14,
+                "height": 29
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B90CAE7A-3121-4E6B-9D75-21E1D33952E2",
+            "name": "Rectangle Copy 13",
+            "rect": {
+                "x": 336,
+                "y": 1262,
+                "width": 14,
+                "height": 29
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A296CFEA-2226-4C21-B47A-F0771F654386",
+            "name": "Path Copy 11",
+            "rect": {
+                "x": 348,
+                "y": 1263,
+                "width": 17,
+                "height": 28
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0C988E9F-CE4B-4286-B8BA-5D87783546A9",
+            "name": "Rectangle 4 Copy",
+            "rect": {
+                "x": 348,
+                "y": 1263,
+                "width": 17,
+                "height": 28
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0A99769A-3BEC-45D8-8A12-D06EC050A0BC",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 348,
+                "y": 1263,
+                "width": 17,
+                "height": 28
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B36E33FA-227C-4C65-86CB-87F502DCE7C0",
+            "name": "Path",
+            "rect": {
+                "x": 411,
+                "y": 1265,
+                "width": 14,
+                "height": 3
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1ACEEDCB-2CB8-4DDA-AB71-030745B6A389",
+            "name": "Path",
+            "rect": {
+                "x": 413,
+                "y": 1262,
+                "width": 10,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C816C239-5891-41C2-9AFB-D2D95C0FB754",
+            "name": "Path",
+            "rect": {
+                "x": 405,
+                "y": 1284,
+                "width": 6,
+                "height": 7
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1EDC5920-F880-47E8-A6CD-7882CB4D799A",
+            "name": "Path 2",
+            "rect": {
+                "x": 398,
+                "y": 1268,
+                "width": 7,
+                "height": 23
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6A75205F-FEA3-4395-ABE2-4E697364247B",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 398,
+                "y": 1268,
+                "width": 7,
+                "height": 23
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7C25B5B0-399E-407D-8992-87E3C4CE135F",
+            "name": "Path",
+            "rect": {
+                "x": 398,
+                "y": 1263,
+                "width": 12,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E3BEABA1-DAD9-4772-B898-7A6C6A2FDD09",
+            "name": "Path",
+            "rect": {
+                "x": 409,
+                "y": 1266,
+                "width": 14,
+                "height": 21
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

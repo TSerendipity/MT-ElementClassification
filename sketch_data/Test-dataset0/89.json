@@ -1,0 +1,656 @@
+{
+    "layers": [
+        {
+            "id": "4CF23E45-44F3-4750-A8AD-1982DCAF06A2",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 151,
+                "width": 750,
+                "height": 580
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "56240EFE-F83B-443A-AFD2-EBCADAB46220",
+            "name": "（100字以内）",
+            "rect": {
+                "x": 218,
+                "y": 243,
+                "width": 157,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "54BF112F-E5E4-4215-851C-7C9FC5B32C88",
+            "name": "···",
+            "rect": {
+                "x": 125,
+                "y": 253,
+                "width": 62,
+                "height": 5
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "90AFE30E-6F12-43A4-B016-9E5D6260950B",
+            "name": "请描述您的病情、症状、身体状态，能让医生",
+            "rect": {
+                "x": 32,
+                "y": 185,
+                "width": 670,
+                "height": 28
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1ECEF36C-1A3E-457C-AC25-D10467963E4F",
+            "name": "更准确",
+            "rect": {
+                "x": 31,
+                "y": 240,
+                "width": 81,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4A7AF64C-E456-40B2-980F-15F4D43A0DAB",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 551,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C354DDF6-00CE-4E81-988B-5B269C664964",
+            "name": "Path",
+            "rect": {
+                "x": 62,
+                "y": 581,
+                "width": 89,
+                "height": 89
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DEFD6BCC-2944-40A9-B196-854914A357CE",
+            "name": "Path",
+            "rect": {
+                "x": 62,
+                "y": 581,
+                "width": 89,
+                "height": 89
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0454AE12-D223-4479-85D1-1ADB5F6CE993",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1232,
+                "width": 750,
+                "height": 102
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E1FE4033-7264-4272-8E69-867F042F7961",
+            "name": "提  交",
+            "rect": {
+                "x": 335,
+                "y": 1267,
+                "width": 83,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2AAC8784-0AC6-4A47-8712-D9D8B8322BD0",
+            "name": "Path",
+            "rect": {
+                "x": 33,
+                "y": 172,
+                "width": 2,
+                "height": 50
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AA495E3B-521D-4CE1-A3D5-0B6FE5733537",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 127
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6A78DA91-A3EA-44DB-B1D3-12995869D83F",
+            "name": "Path",
+            "rect": {
+                "x": 448,
+                "y": 22,
+                "width": 50,
+                "height": 44
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6BB60A50-642F-476E-8DE4-1334286EBBD2",
+            "name": "Path",
+            "rect": {
+                "x": 511,
+                "y": 0,
+                "width": 30,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "16BD0A76-3F3B-437A-A5E5-7E6D154BDB37",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 61,
+                "width": 20,
+                "height": 36
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F9CE8B5B-237B-4385-99C1-2DDA9CF211CD",
+            "name": "病情描述",
+            "rect": {
+                "x": 327,
+                "y": 64,
+                "width": 95,
+                "height": 69
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DF7AC91E-AAA6-499A-B5A1-8AC3558261BB",
+            "name": "Path",
+            "rect": {
+                "x": 12,
+                "y": 11,
+                "width": 12,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5F45E71D-BD36-44E8-9489-CF0FC5E1A76B",
+            "name": "Path",
+            "rect": {
+                "x": 26,
+                "y": 11,
+                "width": 12,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "116EBCAB-C7DF-4809-8A31-A66B0A93FB3E",
+            "name": "Path",
+            "rect": {
+                "x": 39,
+                "y": 11,
+                "width": 13,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6B696DEF-E8DB-4450-B18C-BC05DFD481E8",
+            "name": "Path",
+            "rect": {
+                "x": 54,
+                "y": 11,
+                "width": 12,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BA9369D3-BE61-4333-ADEF-76860B14F7A1",
+            "name": "Path",
+            "rect": {
+                "x": 68,
+                "y": 11,
+                "width": 12,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "73C29C1C-8B21-4C63-A36C-6761979F4154",
+            "name": "VIRGIN",
+            "rect": {
+                "x": 88,
+                "y": 8,
+                "width": 71,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "944B651B-37A5-4681-B773-E3171FA95754",
+            "name": "Path",
+            "rect": {
+                "x": 177,
+                "y": 7,
+                "width": 24,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "448CA670-75CD-4D75-827F-BFC03B34C55A",
+            "name": "Shape",
+            "rect": {
+                "x": 177,
+                "y": 7,
+                "width": 24,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "845FAE21-341B-458E-BF48-B3F74A7A354A",
+            "name": "Shape",
+            "rect": {
+                "x": 177,
+                "y": 7,
+                "width": 24,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AB39AC2F-AFDB-4C6A-A900-BE6C7297DBB7",
+            "name": "Path",
+            "rect": {
+                "x": 602,
+                "y": 3,
+                "width": 16,
+                "height": 27
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A07120C9-A02A-4BC0-B441-EDB023313F8D",
+            "name": "Path",
+            "rect": {
+                "x": 602,
+                "y": 3,
+                "width": 16,
+                "height": 27
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "520A2095-CAFC-4A74-BB37-FDEF391ED6E1",
+            "name": "Path",
+            "rect": {
+                "x": 602,
+                "y": 3,
+                "width": 16,
+                "height": 27
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D5DCAE57-92CF-4421-8CE4-BEC5552351A4",
+            "name": "Path",
+            "rect": {
+                "x": 735,
+                "y": 13,
+                "width": 3,
+                "height": 7
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "190F0443-7D70-462A-B438-F7A614DDEFB9",
+            "name": "Path",
+            "rect": {
+                "x": 691,
+                "y": 9,
+                "width": 12,
+                "height": 15
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E3203313-DA00-4884-B9AB-4E3779F5C568",
+            "name": "Path",
+            "rect": {
+                "x": 689,
+                "y": 7,
+                "width": 45,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C4A02718-0A25-40CF-91C3-A2A1E6F63A3E",
+            "name": "22%",
+            "rect": {
+                "x": 632,
+                "y": 8,
+                "width": 45,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "137634D2-97FE-44D9-A8E7-3E2A21E94F0D",
+            "name": "4 21 PM",
+            "rect": {
+                "x": 325,
+                "y": 7,
+                "width": 88,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "60EA8FAB-0952-4536-997A-E13FA15E99E5",
+            "name": ":",
+            "rect": {
+                "x": 340,
+                "y": 11,
+                "width": 4,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C0C23F58-16D4-404A-BF50-723D14B3BF2C",
+            "name": "Keyboard",
+            "rect": {
+                "x": 0,
+                "y": 902,
+                "width": 750,
+                "height": 432
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8BB68FE9-CFFD-4EC3-A52B-134E037BADE9",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 127,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

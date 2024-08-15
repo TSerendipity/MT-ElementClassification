@@ -1,0 +1,872 @@
+{
+    "layers": [
+        {
+            "id": "E9E21ADF-54E3-4C4A-BAD3-3D97BBFC3508",
+            "name": "PokemonCell",
+            "rect": {
+                "x": 0,
+                "y": 144,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C5278FB5-C81E-4808-B918-6CB0478B47CF",
+            "name": "PokemonCell Copy 3",
+            "rect": {
+                "x": 0,
+                "y": 444,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "67DD1039-5049-4678-A0A1-0083B8BB7473",
+            "name": "PokemonCell Copy",
+            "rect": {
+                "x": 0,
+                "y": 294,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A67E25B8-AD25-4FFC-B487-FACFFBD40C02",
+            "name": "PokemonCell Copy 4",
+            "rect": {
+                "x": 0,
+                "y": 594,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D7F5E01E-71E9-402B-A53A-B7A02423BBBE",
+            "name": "PokemonCell Copy 7",
+            "rect": {
+                "x": 0,
+                "y": 744,
+                "width": 375,
+                "height": 68
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5FF7311B-1207-427A-8DC5-C3C194A9261C",
+            "name": "PokemonCell",
+            "rect": {
+                "x": 0,
+                "y": 219,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "151CDE46-BD72-4C03-97D4-E6355662CE6B",
+            "name": "PokemonCell Copy 5",
+            "rect": {
+                "x": 0,
+                "y": 519,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5169569E-C958-4817-95E4-9F66036D5E3A",
+            "name": "PokemonCell Copy 2",
+            "rect": {
+                "x": 0,
+                "y": 369,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4C1B4D38-F733-4FB2-BAF8-F6B06E1E9143",
+            "name": "PokemonCell Copy 6",
+            "rect": {
+                "x": 0,
+                "y": 669,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "47DFA353-0DDD-42E5-AF2E-F9BF4F72AC58",
+            "name": "Bar",
+            "rect": {
+                "x": 0,
+                "y": 713,
+                "width": 375,
+                "height": 97
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                0.8
+            ]
+        },
+        {
+            "id": "9582559D-1B94-4299-A264-F946A3E3FD30",
+            "name": "Bar",
+            "rect": {
+                "x": 0,
+                "y": 717,
+                "width": 375,
+                "height": 95
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                0.8
+            ]
+        },
+        {
+            "id": "E6C97A75-1BA9-42D7-A6D4-FD7A3984D304",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 144
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "5584A8AC-3BD9-4722-A112-911F19D02EE1",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 140
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                0.8
+            ]
+        },
+        {
+            "id": "EF54D7BC-E643-46E2-95D3-5C6E7C8BC7E0",
+            "name": "Search Field",
+            "rect": {
+                "x": 16,
+                "y": 89,
+                "width": 343,
+                "height": 36
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0.12156863
+            ]
+        },
+        {
+            "id": "CB1B61F6-89CB-41D9-88B6-7DBA4CC5CA7D",
+            "name": "Dictation-path",
+            "rect": {
+                "x": 333,
+                "y": 98,
+                "width": 12,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.30980393,
+                0.30980393,
+                0.30980393,
+                1
+            ]
+        },
+        {
+            "id": "69069295-5C1D-4B2A-8549-05A4FA707542",
+            "name": "Dictation-path",
+            "rect": {
+                "x": 333,
+                "y": 98,
+                "width": 12,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.30980393,
+                0.30980393,
+                0.30980393,
+                1
+            ]
+        },
+        {
+            "id": "FA05AC3C-5190-4811-95BF-2E0BEC8F61E3",
+            "name": "↳ Placeholder Label",
+            "rect": {
+                "x": 52,
+                "y": 100,
+                "width": 50,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8AB6EE88-0FB9-4F52-AE4B-F3BDA0D4C3DB",
+            "name": "Search-path",
+            "rect": {
+                "x": 31,
+                "y": 100,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.30980393,
+                0.30980393,
+                0.30980393,
+                1
+            ]
+        },
+        {
+            "id": "76632C9A-46A0-42CD-8940-F2CD9F4AB310",
+            "name": "Search-path",
+            "rect": {
+                "x": 31,
+                "y": 100,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.30980393,
+                0.30980393,
+                0.30980393,
+                1
+            ]
+        },
+        {
+            "id": "A32DD133-0DFA-45BD-A1D5-F73DA1EC39DA",
+            "name": "iPhone X/Home Indicator/Home Indicator - On Light",
+            "rect": {
+                "x": 0,
+                "y": 778,
+                "width": 375,
+                "height": 34
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DF981A5B-FCCC-4C6E-AFE8-56C46A5BFD26",
+            "name": "iPhone X/iPhone X Frame",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E2708E6C-EEB5-4B03-BB5D-C9D3AF670AC9",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "20534AAB-A98F-43AD-BDAA-BB8B4B481D24",
+            "name": "Border",
+            "rect": {
+                "x": 336,
+                "y": 17,
+                "width": 22,
+                "height": 12
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "ADFAEC73-4FFE-4F35-9077-8D20EEC05CD5",
+            "name": "Cap",
+            "rect": {
+                "x": 359,
+                "y": 21,
+                "width": 2,
+                "height": 4
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "419EDB5B-54CA-4BD3-864B-8DDD197C318C",
+            "name": "Capacity",
+            "rect": {
+                "x": 338,
+                "y": 19,
+                "width": 18,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "8667EF39-0929-4BB3-A028-459C04618AF8",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "E66062E0-72FC-4D56-A10F-0652DDE60628",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "E6F792E2-34F4-4DA0-AD68-10AA2589D7F7",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "29F54B38-6669-47B8-AA5F-7A25909BB6F7",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "0CD19063-E9FC-4E80-90D0-059C48BD0570",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "63B5FA1A-B6DF-4D9B-A62D-E4644C787FB8",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "42D1B9FB-2AB8-4EB0-ACCC-BEC38F557090",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "D8F82EE4-0F5D-49B1-8678-34F8B85D0442",
+            "name": "Time Style",
+            "rect": {
+                "x": 35,
+                "y": 19,
+                "width": 25,
+                "height": 12
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2834F1E9-2B90-404D-B301-BD91BB7B8739",
+            "name": "Pokemon",
+            "rect": {
+                "x": 146,
+                "y": 56,
+                "width": 83,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2A10A194-EFC9-46CA-AB35-7CE0355E4EA3",
+            "name": "Moves",
+            "rect": {
+                "x": 172,
+                "y": 767,
+                "width": 31,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7CFB3961-C910-4455-95FE-EA0A88F70FD6",
+            "name": "Oval 551",
+            "rect": {
+                "x": 175,
+                "y": 734,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "201E9811-0390-4D32-AA5E-3CC52A489B2E",
+            "name": "Path 838",
+            "rect": {
+                "x": 175,
+                "y": 734,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "9EEA3E98-85EF-4E8A-B4B8-601FE87C3E7B",
+            "name": "Path 839",
+            "rect": {
+                "x": 175,
+                "y": 734,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "F36F2C6C-7FE3-4D3D-AD81-3ADE9B8ED027",
+            "name": "Path 840",
+            "rect": {
+                "x": 175,
+                "y": 734,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "03217C77-82DC-454E-AC8C-DE074508CE0E",
+            "name": "Path 841",
+            "rect": {
+                "x": 175,
+                "y": 734,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "047D0638-EA1B-4448-8132-30FCA17A16BC",
+            "name": "Oval 552",
+            "rect": {
+                "x": 175,
+                "y": 734,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "AAA219F4-273B-4DE9-AF48-11665511AE58",
+            "name": "Oval 552",
+            "rect": {
+                "x": 175,
+                "y": 734,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "FE4CE6C4-FFE2-4C64-86C0-E9E22ADE865B",
+            "name": "Oval 552",
+            "rect": {
+                "x": 175,
+                "y": 734,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "CD527148-BAD4-4E1E-A1C4-5662802870C4",
+            "name": "Itens",
+            "rect": {
+                "x": 300,
+                "y": 767,
+                "width": 24,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8FC83605-DCC8-456E-8073-01B53012CAE9",
+            "name": "Path 762",
+            "rect": {
+                "x": 299,
+                "y": 733,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "EB677471-5F34-4390-A49C-7BBB6280FC08",
+            "name": "Path",
+            "rect": {
+                "x": 299,
+                "y": 733,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "E895B6A8-7B36-4DF2-BA8A-B55C91216972",
+            "name": "Pokemon",
+            "rect": {
+                "x": 41,
+                "y": 767,
+                "width": 44,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "209C1140-E8A3-4896-8507-3533767D029B",
+            "name": "Oval 566",
+            "rect": {
+                "x": 49,
+                "y": 733,
+                "width": 28,
+                "height": 29
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

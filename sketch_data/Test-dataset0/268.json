@@ -1,0 +1,2132 @@
+{
+    "layers": [
+        {
+            "id": "94A03459-06A6-40B7-A3C1-F6E4335D9097",
+            "name": "Path",
+            "rect": {
+                "x": 20,
+                "y": 20,
+                "width": 728,
+                "height": 368
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "52C86CE8-184E-4687-99C8-FBDDF2A41C4E",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 32,
+                "width": 704,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FE34CDC3-4C50-481F-82DE-928424BD8C86",
+            "name": "Path",
+            "rect": {
+                "x": 696,
+                "y": 42,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "25448B18-6936-456B-9FB9-9B3E4ADBD032",
+            "name": "Rectangle 17",
+            "rect": {
+                "x": 701,
+                "y": 47,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "47C3E081-50A2-4736-8F63-6971F02907B0",
+            "name": "Rectangle 17 Copy",
+            "rect": {
+                "x": 701,
+                "y": 47,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5DF169AE-06A2-4E80-A08E-56BC32F92790",
+            "name": "读信状态",
+            "rect": {
+                "x": 44,
+                "y": 45,
+                "width": 63,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7CB05A96-249F-4BF2-9921-6BE4D7ECF0D8",
+            "name": "收件人",
+            "rect": {
+                "x": 45,
+                "y": 91,
+                "width": 48,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B84E4139-811D-4B94-AFEA-638FC5B50F17",
+            "name": "赵磊(仲权) zhongquan.zl@",
+            "rect": {
+                "x": 44,
+                "y": 139,
+                "width": 248,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "69851D15-F29A-4CEE-B077-C0B6C3D7C9C3",
+            "name": "已投递,对方未读",
+            "rect": {
+                "x": 351,
+                "y": 140,
+                "width": 94,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0646A3D2-A6F4-4FCA-BDAC-038BF7CD11D7",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 140,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5B46FDA3-E030-4664-B71C-DFB989085234",
+            "name": "短信提醒",
+            "rect": {
+                "x": 644,
+                "y": 140,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1457899A-7BAF-48AB-8577-59BB5D345325",
+            "name": "张启东(元觉) yuanjue.zqd@",
+            "rect": {
+                "x": 44,
+                "y": 168,
+                "width": 253,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1E2AA5EE-85E4-47CA-B63F-CB3469FEAD13",
+            "name": "对方已读",
+            "rect": {
+                "x": 351,
+                "y": 169,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "29F4BD89-3839-4B61-9632-BC2ECC3DB1FC",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 169,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "04213EDD-DEEB-4A4B-A7EA-BD12D57F6467",
+            "name": "短信提醒",
+            "rect": {
+                "x": 644,
+                "y": 169,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C8C8553C-BC0C-4472-B5B6-363AD42CCEFD",
+            "name": "胡禅(査玉) zhayu.hc@alib",
+            "rect": {
+                "x": 45,
+                "y": 197,
+                "width": 222,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BE3C4B5F-16C5-43C2-AADE-CEBAF15AE829",
+            "name": "发送失败",
+            "rect": {
+                "x": 350,
+                "y": 198,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FAF6582F-19DB-468F-9D6D-13D9C77C70F4",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 198,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "72B4E64B-843F-43CC-8B27-0776B807578C",
+            "name": "短信提醒",
+            "rect": {
+                "x": 644,
+                "y": 198,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1B0BCC21-83D3-4ED7-AA0E-314F8B172541",
+            "name": "郭东升(石空) shikong.gds@",
+            "rect": {
+                "x": 45,
+                "y": 226,
+                "width": 252,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "080590F9-6F20-4528-B8E1-31A5110BABA8",
+            "name": "已投递,对方未读",
+            "rect": {
+                "x": 351,
+                "y": 227,
+                "width": 94,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3F2803F3-368F-48EC-9E7D-A359C77156C8",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 227,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A4F8C6A0-7F12-40C8-A6F0-2EF586BE8165",
+            "name": "短信提醒",
+            "rect": {
+                "x": 644,
+                "y": 227,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8BE82828-2538-4220-870A-4847BE7EB75C",
+            "name": "毕志卫(三通) santong@taob",
+            "rect": {
+                "x": 44,
+                "y": 255,
+                "width": 206,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0045ACEB-C53B-45BE-AFD5-2DA694FFF6C8",
+            "name": "对方已读",
+            "rect": {
+                "x": 351,
+                "y": 256,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FA0F51DA-0CD3-43FC-926B-C10288273B5F",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 256,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2FEDB7EB-75C3-4C0C-8C03-A6892003CC77",
+            "name": "短信提醒",
+            "rect": {
+                "x": 644,
+                "y": 256,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3F41AF5E-46F4-4553-BD23-0CD6CDCBBE08",
+            "name": "5.0项目组 mail50@alibab",
+            "rect": {
+                "x": 45,
+                "y": 284,
+                "width": 206,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "98D99CB2-97AF-47B4-9147-2FE18E1FFAC7",
+            "name": "基础体验组 mail50@alibaba",
+            "rect": {
+                "x": 45,
+                "y": 313,
+                "width": 211,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0E08495A-D171-4993-9BCE-3990645A93A6",
+            "name": "发送成功",
+            "rect": {
+                "x": 350,
+                "y": 285,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "42AE8736-7F22-445A-AC03-668CF6B98C30",
+            "name": "发送成功 copy",
+            "rect": {
+                "x": 350,
+                "y": 314,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2B7847A9-6032-448E-BE73-0FFE0E7595C6",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 285,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "286D2020-EAA2-48C7-9053-4A2BE42A6E01",
+            "name": "8月19日 14:59 copy",
+            "rect": {
+                "x": 510,
+                "y": 314,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C69DF559-944F-45DF-8989-9AD92EDC4E42",
+            "name": "查看详情",
+            "rect": {
+                "x": 407,
+                "y": 285,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E47D9D36-DA73-4532-895E-4EDF37823C2A",
+            "name": "查看详情",
+            "rect": {
+                "x": 407,
+                "y": 314,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D5F15E5D-7C9B-4EEF-8F86-CD76551787AB",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 124,
+                "width": 704,
+                "height": 9
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6E7455BA-879A-4018-A14C-29ED35B241E5",
+            "name": "发送状态",
+            "rect": {
+                "x": 351,
+                "y": 91,
+                "width": 62,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "00B11EE5-BAFF-4854-B5FD-521BF61D7C17",
+            "name": "刷新",
+            "rect": {
+                "x": 414,
+                "y": 93,
+                "width": 32,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D1535848-E747-4B3D-AE63-45AD2EA69799",
+            "name": "时间",
+            "rect": {
+                "x": 511,
+                "y": 91,
+                "width": 34,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E36F3AD2-5AED-4DE3-96BB-F00CF4396755",
+            "name": "Path",
+            "rect": {
+                "x": 772,
+                "y": 18,
+                "width": 599,
+                "height": 393
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C7133DFC-0C54-48CC-A224-4B04928C88FE",
+            "name": "Path",
+            "rect": {
+                "x": 784,
+                "y": 32,
+                "width": 575,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DD17C0C7-E869-4D06-B1E8-BD82AA0C5605",
+            "name": "Path",
+            "rect": {
+                "x": 1319,
+                "y": 42,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AADB1C70-83A8-4E2C-A69A-4280685FC663",
+            "name": "Rectangle 17",
+            "rect": {
+                "x": 1324,
+                "y": 47,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "32DD25D2-E11D-4CBF-9C5A-9587B5CDC1F4",
+            "name": "Rectangle 17 Copy",
+            "rect": {
+                "x": 1324,
+                "y": 47,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B1C4417B-7C71-40FD-9769-41AC5913A4C4",
+            "name": "读信状态",
+            "rect": {
+                "x": 796,
+                "y": 45,
+                "width": 63,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1DA4003C-AC96-48C1-81DF-ACA0AE9F677A",
+            "name": "收件人",
+            "rect": {
+                "x": 797,
+                "y": 91,
+                "width": 48,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E906618B-A2CF-4EEC-817B-D3820301BFB6",
+            "name": "赵磊(仲权) zhongquan.zl@",
+            "rect": {
+                "x": 796,
+                "y": 139,
+                "width": 248,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4A597825-A9C0-4E57-B1C0-E74B494DF4C9",
+            "name": "已投递,对方未读",
+            "rect": {
+                "x": 1103,
+                "y": 140,
+                "width": 94,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F9C455F4-33AD-45DA-B879-248FBC07B165",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 1262,
+                "y": 140,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "88348464-AA2A-4F71-B7EC-A795D23912FA",
+            "name": "张启东(元觉) yuanjue.zqd@",
+            "rect": {
+                "x": 796,
+                "y": 168,
+                "width": 253,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6408D0AE-41F7-4D1B-BA76-231FD1126247",
+            "name": "对方已读",
+            "rect": {
+                "x": 1103,
+                "y": 169,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B78766E7-4921-4257-B58C-D51BF038DBC4",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 1262,
+                "y": 169,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "38F496ED-3E9A-4BA2-AE92-15F4C1BFA5E8",
+            "name": "胡禅(査玉) zhayu.hc@alib",
+            "rect": {
+                "x": 797,
+                "y": 197,
+                "width": 222,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F40DEEC9-E3B1-4835-B8BE-A3552F016A1A",
+            "name": "发送失败",
+            "rect": {
+                "x": 1102,
+                "y": 198,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EE3EA7F7-9F2D-4F47-BE90-1ABAD8346E80",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 1262,
+                "y": 198,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B96EE890-6213-4FA0-946E-E0701EDCBE86",
+            "name": "郭东升(石空) shikong.gds@",
+            "rect": {
+                "x": 797,
+                "y": 226,
+                "width": 252,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3911B1E3-7D61-43F3-8A17-73233DCC3A5B",
+            "name": "已投递,对方未读",
+            "rect": {
+                "x": 1103,
+                "y": 227,
+                "width": 94,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "965DE537-2758-49A4-874A-EDC417AB1545",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 1262,
+                "y": 227,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "89B5BD96-11C4-46C7-A4C5-E9B739083032",
+            "name": "毕志卫(三通) santong@taob",
+            "rect": {
+                "x": 796,
+                "y": 255,
+                "width": 206,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9DDC489E-A0D4-4873-81DC-F86EAB7588BA",
+            "name": "对方已读",
+            "rect": {
+                "x": 1103,
+                "y": 256,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "ACCB66BC-3F28-4396-A070-93CC8FB6E7EA",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 1262,
+                "y": 256,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "08F966B4-DB48-472E-8C2A-F3C33C1BBB1E",
+            "name": "5.0项目组 mail50@alibab",
+            "rect": {
+                "x": 797,
+                "y": 284,
+                "width": 206,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6973AD18-5C3C-4AB4-A7A4-AC9E0FE01798",
+            "name": "基础体验组 mail50@alibaba",
+            "rect": {
+                "x": 797,
+                "y": 313,
+                "width": 211,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "96AADFF4-C809-4F0D-B1E6-46B78CF9A49A",
+            "name": "发送成功",
+            "rect": {
+                "x": 1102,
+                "y": 285,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5D938F5D-A067-4E11-B5C9-02510000D789",
+            "name": "发送成功 copy",
+            "rect": {
+                "x": 1102,
+                "y": 314,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4545E238-E410-40A8-98F0-F81D8368E9A7",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 1262,
+                "y": 285,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5679A514-C845-4264-88BA-669F3419FDF8",
+            "name": "8月19日 14:59 copy",
+            "rect": {
+                "x": 1262,
+                "y": 314,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A610D8CB-C539-4A1B-B5C9-CFDCCC4285FD",
+            "name": "查看详情",
+            "rect": {
+                "x": 1159,
+                "y": 285,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E6D67770-78DE-40A7-99FA-4E358F8BC65A",
+            "name": "查看详情",
+            "rect": {
+                "x": 1159,
+                "y": 314,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D277E33B-6FC7-4F22-8671-384D572B6664",
+            "name": "Path",
+            "rect": {
+                "x": 784,
+                "y": 124,
+                "width": 575,
+                "height": 9
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "93141431-8BB5-4847-94EB-CBD674333B9A",
+            "name": "Path",
+            "rect": {
+                "x": 784,
+                "y": 340,
+                "width": 575,
+                "height": 9
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "93A9B6B4-7EEA-48D1-923C-291DD06F9941",
+            "name": "Path",
+            "rect": {
+                "x": 995,
+                "y": 357,
+                "width": 152,
+                "height": 40
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6BDB2762-7C77-4831-BEB2-4E74B3C2DF86",
+            "name": "钉一下",
+            "rect": {
+                "x": 1057,
+                "y": 367,
+                "width": 48,
+                "height": 21
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "11AD33EB-4B9D-4A35-A87D-39BA89E8A4C8",
+            "name": "Path",
+            "rect": {
+                "x": 1033,
+                "y": 363,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "14E92174-DC2E-4013-B6A3-A30C4AF80B3B",
+            "name": "Rectangle 1",
+            "rect": {
+                "x": 1037,
+                "y": 367,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5D52B453-6EF5-4720-8C60-59277C968826",
+            "name": "Rectangle 1 Copy 3",
+            "rect": {
+                "x": 1037,
+                "y": 367,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8E8A818D-7902-41A5-9EAC-64095C6E49B1",
+            "name": "Rectangle 55",
+            "rect": {
+                "x": 1037,
+                "y": 367,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "01767D90-2912-44B0-82C0-2100ACE7979D",
+            "name": "Rectangle 55 Copy",
+            "rect": {
+                "x": 1037,
+                "y": 367,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D71F5537-F3F0-4886-8797-E7C16B772287",
+            "name": "Combined Shape",
+            "rect": {
+                "x": 1042,
+                "y": 367,
+                "width": 15,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0409F907-69CD-428D-B3B0-577DFD1C820B",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 1042,
+                "y": 367,
+                "width": 15,
+                "height": 15
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8FEB926B-DF31-4A63-B176-9458E2E761C0",
+            "name": "发送状态",
+            "rect": {
+                "x": 1103,
+                "y": 91,
+                "width": 62,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B7BFCD08-2E47-4490-AA0E-942747C5A482",
+            "name": "刷新",
+            "rect": {
+                "x": 1166,
+                "y": 93,
+                "width": 32,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6ED2B4EA-8654-48F9-A9CA-85CB20A63C70",
+            "name": "时间",
+            "rect": {
+                "x": 1263,
+                "y": 91,
+                "width": 34,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BADFA5B9-40F0-41CF-B7D0-BB858AD282A8",
+            "name": "Path",
+            "rect": {
+                "x": 20,
+                "y": 404,
+                "width": 728,
+                "height": 368
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0EBECC8D-56C9-4DB2-8BCC-A323B0AD9C38",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 416,
+                "width": 704,
+                "height": 48
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9DA373D8-2C2D-444B-9A12-AB3648E95B3F",
+            "name": "Path",
+            "rect": {
+                "x": 696,
+                "y": 426,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8BB5BC88-3330-4C0C-9C56-B13C9AD59EC0",
+            "name": "Rectangle 17",
+            "rect": {
+                "x": 701,
+                "y": 431,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AFBC22B7-128E-45E1-AA45-2F7019FA10B2",
+            "name": "Rectangle 17 Copy",
+            "rect": {
+                "x": 701,
+                "y": 431,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AE9A8FE2-5102-4F19-9003-3F70FD511B94",
+            "name": "读信状态",
+            "rect": {
+                "x": 44,
+                "y": 429,
+                "width": 63,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0F6225BA-3393-484C-96A2-10621BA1790F",
+            "name": "收件人 > 5.0项目组",
+            "rect": {
+                "x": 45,
+                "y": 474,
+                "width": 131,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A04E7505-2A20-421D-8CFC-0B7E07BFD8C1",
+            "name": "赵磊(仲权) zhongquan.zl@",
+            "rect": {
+                "x": 44,
+                "y": 523,
+                "width": 248,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5153B6D1-7AFD-4442-B49F-7770E375449E",
+            "name": "已投递,对方未读",
+            "rect": {
+                "x": 351,
+                "y": 524,
+                "width": 94,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "440A2E9F-02E9-44EC-B9AA-FCF988E36181",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 524,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "48F033F8-F272-4EEC-8477-F6A65075A188",
+            "name": "短信提醒",
+            "rect": {
+                "x": 644,
+                "y": 524,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F699F1D8-0D9C-4DD1-97D9-9302063D7309",
+            "name": "张启东(元觉) yuanjue.zqd@",
+            "rect": {
+                "x": 44,
+                "y": 552,
+                "width": 253,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BF6D8B63-ED53-4F15-A02D-467961772DB9",
+            "name": "对方已读",
+            "rect": {
+                "x": 351,
+                "y": 553,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3D15A8AB-EA18-4900-AA62-744F7D7AE251",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 553,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "36890D67-5733-48CE-8401-E39703FDDB36",
+            "name": "短信提醒",
+            "rect": {
+                "x": 644,
+                "y": 553,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "386EC116-6114-4844-9F41-3CFF3DC88F0B",
+            "name": "胡禅(査玉) zhayu.hc@alib",
+            "rect": {
+                "x": 45,
+                "y": 581,
+                "width": 222,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8CD21A0E-3DA6-42BC-BB75-071ED76EF9CF",
+            "name": "对方已读",
+            "rect": {
+                "x": 351,
+                "y": 582,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "51CB4B01-ECB3-40F2-9A8B-EB53F469B392",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 582,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B9FF4A63-FBE8-4A11-8EC0-AED5D8AD69E9",
+            "name": "短信提醒",
+            "rect": {
+                "x": 644,
+                "y": 582,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CE22FEA0-89C9-4834-A65E-0ECE13110E53",
+            "name": "郭东升(石空) shikong.gds@",
+            "rect": {
+                "x": 45,
+                "y": 610,
+                "width": 252,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3524ED1A-49D0-4581-B1F9-011A315FDA86",
+            "name": "周然 zhouran@alibaba-i",
+            "rect": {
+                "x": 45,
+                "y": 668,
+                "width": 182,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B9AEAD02-B779-4C32-8A98-1A6B4EDCB3B3",
+            "name": "已投递,对方未读",
+            "rect": {
+                "x": 351,
+                "y": 611,
+                "width": 94,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1CF73D8B-915B-40B5-8698-DAFEAD3E5722",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 611,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CF25AACF-61F8-4C1E-A5E9-F17ED986FDDD",
+            "name": "短信提醒",
+            "rect": {
+                "x": 644,
+                "y": 611,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "059E75CE-6777-4CB6-A1AE-8017BA9F391D",
+            "name": "短信提醒 copy",
+            "rect": {
+                "x": 644,
+                "y": 669,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A755FCD8-5575-4B3C-87DC-7F814243007B",
+            "name": "毕志卫(三通) santong@taob",
+            "rect": {
+                "x": 44,
+                "y": 639,
+                "width": 206,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0D36A160-7F06-4106-A502-9ACF403DC9C6",
+            "name": "对方已读",
+            "rect": {
+                "x": 351,
+                "y": 640,
+                "width": 55,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EB644C49-86F7-4BD0-B65A-A5BF8753CA55",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 640,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5A69DFE0-7B35-4549-A0F8-0B4F15C9B345",
+            "name": "短信提醒",
+            "rect": {
+                "x": 644,
+                "y": 640,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "61092985-F724-4D61-BE13-08CD3F21ABD6",
+            "name": "已投递,对方未读",
+            "rect": {
+                "x": 351,
+                "y": 669,
+                "width": 94,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "86B8B85E-5028-4851-AD2A-8A965CB9EAD7",
+            "name": "8月19日 14:59",
+            "rect": {
+                "x": 510,
+                "y": 669,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FF342EBA-B254-4C0E-AE43-D950F3F74E0A",
+            "name": "Path",
+            "rect": {
+                "x": 32,
+                "y": 508,
+                "width": 704,
+                "height": 9
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "952F0555-3769-48FC-9640-9C93ED9B89D6",
+            "name": "发送状态",
+            "rect": {
+                "x": 351,
+                "y": 475,
+                "width": 62,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "93E9E696-CB05-4332-932A-0621FF9D0DCE",
+            "name": "刷新",
+            "rect": {
+                "x": 414,
+                "y": 477,
+                "width": 32,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FF216EBB-FB26-432D-AC9D-921808D7580D",
+            "name": "时间",
+            "rect": {
+                "x": 511,
+                "y": 475,
+                "width": 34,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 1774,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

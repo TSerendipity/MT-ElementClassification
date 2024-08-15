@@ -1,0 +1,710 @@
+{
+    "layers": [
+        {
+            "id": "4A66DCF8-CAEC-4486-911F-979551D9F7F2",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.42352942,
+                0.7411765,
+                0.89411765,
+                1
+            ]
+        },
+        {
+            "id": "5AAC6EF6-6DB1-4350-810F-E297F2030E4D",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 88,
+                "width": 375,
+                "height": 724
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "39D2DB35-45D3-4C52-A202-A91EFE10B0EB",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 0,
+                "y": -27,
+                "width": 375,
+                "height": 115
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "6963760F-C4C7-46D0-B720-BC85BD7A2350",
+            "name": "Squirtle’s shell is",
+            "rect": {
+                "x": 20,
+                "y": -9,
+                "width": 352,
+                "height": 162
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D1FD5C46-2FF2-4386-9EBE-0C329EF425A2",
+            "name": "Squirtle",
+            "rect": {
+                "x": 20,
+                "y": -132,
+                "width": 335,
+                "height": 48
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "01F49F66-14F4-4441-8061-CF033954A3B3",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 0,
+                "y": 89,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "5084B2FD-1870-4D6F-B1AB-C1E7BF998D80",
+            "name": "STATS",
+            "rect": {
+                "x": 60,
+                "y": 121,
+                "width": 36,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6B550EFD-FC84-44D9-9782-CB69CB911642",
+            "name": "MOVES",
+            "rect": {
+                "x": 274,
+                "y": 120,
+                "width": 45,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B41A45D9-4168-4562-BE2D-657EEBD6A753",
+            "name": "EVOLUTIONS",
+            "rect": {
+                "x": 147,
+                "y": 120,
+                "width": 81,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4CC7CFEE-C5FD-457E-A0F2-F919898CD2F7",
+            "name": "Selected State",
+            "rect": {
+                "x": 123,
+                "y": 97,
+                "width": 129,
+                "height": 60
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "ED888189-F13C-4D0A-930F-521124C514F2",
+            "name": "STATS",
+            "rect": {
+                "x": 29,
+                "y": 118,
+                "width": 99,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4666075C-BB65-4BE6-AA08-017F4A93453B",
+            "name": "MOVES",
+            "rect": {
+                "x": 247,
+                "y": 117,
+                "width": 99,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "71E983FE-0FA7-472B-A9C4-A804BE193839",
+            "name": "EVOLUTIONS",
+            "rect": {
+                "x": 147,
+                "y": 120,
+                "width": 81,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "02C66783-D4FE-4204-A3CA-DC62256A64BA",
+            "name": "Rectangle 7",
+            "rect": {
+                "x": 0,
+                "y": -77,
+                "width": 375,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "F59C07EE-BA14-436E-9DFB-C4AC545C7F8E",
+            "name": "Rectangle",
+            "rect": {
+                "x": 120,
+                "y": -77,
+                "width": 130,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "1A5C8826-7B5B-4CF0-ADF8-F0A048E56B2C",
+            "name": "Water",
+            "rect": {
+                "x": 149,
+                "y": -60,
+                "width": 84,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "CF79AC57-88B4-484C-BDE7-2216F2C52441",
+            "name": "Oval 5",
+            "rect": {
+                "x": 144,
+                "y": -60,
+                "width": 10,
+                "height": 15
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "E667566D-4A9C-43F9-8EEC-ED3A78E2F2D9",
+            "name": "Path",
+            "rect": {
+                "x": 144,
+                "y": -60,
+                "width": 10,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "F96B03FB-3E61-4D1F-9AEB-A02CD26A5D48",
+            "name": "Line 2",
+            "rect": {
+                "x": 26,
+                "y": 830,
+                "width": 349,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "C4C14D5F-6E6B-4A57-A2C1-FD296CA3CEDF",
+            "name": "Name",
+            "rect": {
+                "x": 154,
+                "y": 56,
+                "width": 67,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "22259920-8B71-4CD4-AC3A-B30AE6BA9F58",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "ACECCCB6-A5C8-4A19-9B70-C8E0FA0DD2F3",
+            "name": "Border",
+            "rect": {
+                "x": 336,
+                "y": 17,
+                "width": 22,
+                "height": 12
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "293120AB-ADB8-4AE6-A4A3-3FEBAE2CCC5E",
+            "name": "Cap",
+            "rect": {
+                "x": 359,
+                "y": 21,
+                "width": 2,
+                "height": 4
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "A3D3C45C-E987-4B03-8819-0C53FEB8179E",
+            "name": "Capacity",
+            "rect": {
+                "x": 338,
+                "y": 19,
+                "width": 18,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "03D8F8A7-8DF1-4BB7-9510-1600144D2ECA",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "DD7D021A-1E19-4649-BBC3-C655958F1671",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "1B3680CA-86CC-442A-8FBE-23B396735339",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "A8793167-4EDD-45BC-93EA-56B36C8084CB",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "4202D3BC-13CB-44FF-9CF4-C058B7623B07",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "0212686C-F6E5-4A64-9E3B-4ADDFB91ED74",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "DEAF3D8E-BA2B-4343-9914-4821B8D144AC",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "9692A598-00A3-43B8-B0AF-4E0315F2FE15",
+            "name": "Time Style",
+            "rect": {
+                "x": 35,
+                "y": 19,
+                "width": 25,
+                "height": 12
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D9DB4211-BF9B-4B74-9FE5-76319A278834",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 0,
+                "y": 778,
+                "width": 375,
+                "height": 34
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "52F641A6-F6B8-4656-99F4-386732766265",
+            "name": "iPhone X/iPhone X Frame",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F5175248-8B3E-4F62-8C9C-AF7181D9EBAD",
+            "name": "iPhone X/Home Indicator/Home Indicator - On Light",
+            "rect": {
+                "x": 0,
+                "y": 778,
+                "width": 375,
+                "height": 34
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5C53E034-D59E-461D-A58E-D0B6520798A9",
+            "name": "PokemonEvolutionCell",
+            "rect": {
+                "x": 0,
+                "y": 164,
+                "width": 375,
+                "height": 150
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "43BA15F4-3C88-48B6-BF96-8311B63B562A",
+            "name": "PokemonEvolutionCell Copy",
+            "rect": {
+                "x": 0,
+                "y": 314,
+                "width": 375,
+                "height": 150
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A33C4837-AD9A-49AE-A4CF-E3C843776F64",
+            "name": "PokemonEvolutionCell Copy 2",
+            "rect": {
+                "x": 0,
+                "y": 464,
+                "width": 375,
+                "height": 150
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2CCCC518-9F1C-4329-863E-4C2241A6CFFF",
+            "name": "Path",
+            "rect": {
+                "x": 10,
+                "y": 60,
+                "width": 21,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

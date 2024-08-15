@@ -1,0 +1,1052 @@
+{
+    "layers": [
+        {
+            "id": "894AFA0D-803D-4DAA-A51F-AFDEB491F8E1",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.42352942,
+                0.7411765,
+                0.89411765,
+                1
+            ]
+        },
+        {
+            "id": "E68E1E49-4D19-4DA6-95D2-47D6F3F19A0C",
+            "name": "Path",
+            "rect": {
+                "x": 10,
+                "y": 60,
+                "width": 21,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "014EEF6C-18A2-42CC-96BA-4ED0CBF4E29C",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 222,
+                "width": 375,
+                "height": 590
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "F2E386D8-1C5D-4091-A495-5B94ECC3CB2E",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 0,
+                "y": 384,
+                "width": 375,
+                "height": 115
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "4DD0793A-7A09-44D4-A1BE-835D5401D4FC",
+            "name": "Squirtle’s shell is",
+            "rect": {
+                "x": 22,
+                "y": 405,
+                "width": 330,
+                "height": 77
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A628C4F7-6D78-4662-8829-CDC8A65A8567",
+            "name": "Squirtle",
+            "rect": {
+                "x": 121,
+                "y": 288,
+                "width": 133,
+                "height": 43
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "671A612F-3843-410C-8520-B33F11E27173",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 0,
+                "y": 499,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "0D5A1C6B-3302-4AF3-9144-E88411D4E07E",
+            "name": "STATS",
+            "rect": {
+                "x": 60,
+                "y": 531,
+                "width": 36,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8024C737-1E8D-4CEE-A47D-39B3E839FCF4",
+            "name": "MOVES",
+            "rect": {
+                "x": 274,
+                "y": 530,
+                "width": 45,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C2BE4C26-D055-4E2A-A0E8-29F0CD83F741",
+            "name": "EVOLUTIONS",
+            "rect": {
+                "x": 147,
+                "y": 530,
+                "width": 81,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1C3D5038-7470-4BD5-980E-533C7CFAE0A5",
+            "name": "Selected State",
+            "rect": {
+                "x": 14,
+                "y": 507,
+                "width": 129,
+                "height": 60
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "6A2E3150-2A61-44B2-B9FA-EE2C038EF759",
+            "name": "STATS",
+            "rect": {
+                "x": 60,
+                "y": 531,
+                "width": 36,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "13A0BB3C-E868-45B2-B2F5-A117C9A49397",
+            "name": "MOVES",
+            "rect": {
+                "x": 247,
+                "y": 527,
+                "width": 99,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5A9672F1-B625-4DDE-B5BD-A224A928D7A2",
+            "name": "EVOLUTIONS",
+            "rect": {
+                "x": 138,
+                "y": 527,
+                "width": 99,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5A1132C8-B4AE-4EC5-8DF8-5CD7D5D61407",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 0,
+                "y": 574,
+                "width": 375,
+                "height": 165
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "0A14F501-EBB5-4315-8326-52C47A2AA763",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 593,
+                "width": 240,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9411765,
+                0.9411765,
+                0.9411765,
+                1
+            ]
+        },
+        {
+            "id": "E4DFBE66-0243-4F81-9BC7-B910E2D60B41",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 593,
+                "width": 88,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "32CB9122-BB49-4B3F-8796-81F9135FF27D",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 617,
+                "width": 240,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9411765,
+                0.9411765,
+                0.9411765,
+                1
+            ]
+        },
+        {
+            "id": "B10CB98B-14F3-4439-986D-72B1A410F628",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 617,
+                "width": 33,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "2D242581-2780-4C1D-AEBD-EA57DA982BA0",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 641,
+                "width": 240,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9411765,
+                0.9411765,
+                0.9411765,
+                1
+            ]
+        },
+        {
+            "id": "4587451B-D1F1-434F-9429-753E65573E9E",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 641,
+                "width": 98,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "C0D6BDD3-E5C6-49B5-B7B9-7CE1CA7DC36D",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 665,
+                "width": 240,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9411765,
+                0.9411765,
+                0.9411765,
+                1
+            ]
+        },
+        {
+            "id": "A5FC00A4-E67F-4A43-A00B-63FA3F493D55",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 665,
+                "width": 178,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "9EAB6CD7-49DA-44B5-9AF9-C276DA7E50D3",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 688,
+                "width": 240,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9411765,
+                0.9411765,
+                0.9411765,
+                1
+            ]
+        },
+        {
+            "id": "89CD418B-8A0F-4802-BFFC-024CBC80AE0A",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 688,
+                "width": 59,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "17ACF4D1-49E3-4ADA-850C-5351D55E1B45",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 712,
+                "width": 240,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9411765,
+                0.9411765,
+                0.9411765,
+                1
+            ]
+        },
+        {
+            "id": "FFA1BFFC-EA84-4B28-BE82-E16B7F0D2322",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 102,
+                "y": 712,
+                "width": 123,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "FDC6EA27-ACE4-4E1F-B293-D878A931B5AA",
+            "name": "000",
+            "rect": {
+                "x": 71,
+                "y": 591,
+                "width": 23,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "9AF06E44-4DC0-4814-9A51-236047CB2CDA",
+            "name": "000",
+            "rect": {
+                "x": 71,
+                "y": 615,
+                "width": 23,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "743F57DB-5C43-4DFE-A366-C759F490D4FD",
+            "name": "000",
+            "rect": {
+                "x": 71,
+                "y": 638,
+                "width": 23,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "89372FC1-6B5F-45F4-BEE5-91EAC58DBDB8",
+            "name": "000",
+            "rect": {
+                "x": 71,
+                "y": 662,
+                "width": 23,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "64DB8A20-8DB7-44D5-98A9-A24FA4CB6ACC",
+            "name": "000",
+            "rect": {
+                "x": 71,
+                "y": 686,
+                "width": 23,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "0A296B95-8E42-4BF6-AC16-FA3310FB7DB2",
+            "name": "000",
+            "rect": {
+                "x": 71,
+                "y": 710,
+                "width": 23,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "404555F3-93EC-4DD7-8539-A794198BDB2E",
+            "name": "HP",
+            "rect": {
+                "x": 33,
+                "y": 591,
+                "width": 16,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "F162CD16-2DFF-4354-9BCF-2B54F4B2D050",
+            "name": "ATK",
+            "rect": {
+                "x": 33,
+                "y": 615,
+                "width": 23,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "4FF40CFA-4386-4FE7-A973-5F0D55C61EED",
+            "name": "DEF",
+            "rect": {
+                "x": 33,
+                "y": 639,
+                "width": 23,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "8375E97E-E23A-4B23-895A-14201C35DD2B",
+            "name": "SATK",
+            "rect": {
+                "x": 33,
+                "y": 662,
+                "width": 30,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "0889B0BF-FF3A-4B75-8A27-AFF5EC984D96",
+            "name": "SDEF",
+            "rect": {
+                "x": 33,
+                "y": 686,
+                "width": 30,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "242C9B36-5801-4751-8B60-2262E28D036C",
+            "name": "SPD",
+            "rect": {
+                "x": 33,
+                "y": 710,
+                "width": 23,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "39EF4B8A-E0ED-4B53-918D-2BE7967FCD71",
+            "name": "Rectangle 7",
+            "rect": {
+                "x": 0,
+                "y": 334,
+                "width": 375,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "ADB8D095-74DE-427C-B44D-AA056F5DC19E",
+            "name": "Tag/Water",
+            "rect": {
+                "x": 123,
+                "y": 334,
+                "width": 130,
+                "height": 50
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DFF7695A-33E5-43BC-81FE-D737A8CA6880",
+            "name": "Image",
+            "rect": {
+                "x": 105,
+                "y": 88,
+                "width": 165,
+                "height": 170
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "9DF7B0A3-C1F8-4AD3-8221-4360B8325843",
+            "name": "Name",
+            "rect": {
+                "x": 85,
+                "y": 52,
+                "width": 205,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D12FBE1D-F93D-4B70-9F15-76D8051E55D9",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A7883D95-6827-4069-A1E6-12748D648816",
+            "name": "Border",
+            "rect": {
+                "x": 336,
+                "y": 17,
+                "width": 22,
+                "height": 12
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4B55E5E9-54D7-4D89-8B4D-ECC2CDACA1E5",
+            "name": "Cap",
+            "rect": {
+                "x": 359,
+                "y": 21,
+                "width": 2,
+                "height": 4
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "A805729B-33E1-4E5C-98E8-88881A2C9668",
+            "name": "Capacity",
+            "rect": {
+                "x": 338,
+                "y": 19,
+                "width": 18,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "7A6F6BF3-19DA-4960-A4D7-8ED3E4E6F185",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "1006C24F-A1B6-45AD-9010-E1FC601B8B50",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "4FF6C8BE-05FA-4EE3-981B-587D813BFFBD",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315,
+                "y": 17,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "0E6E7EF3-A616-49DA-8E71-72716AD0A026",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "5A005608-1566-4C5B-9670-FD9E6CC6C02A",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "DBD30665-AF71-4E8E-94A8-68B8BDEA1032",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "A62D6A78-6047-40F4-B438-D8F4882D6253",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293,
+                "y": 17,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "390A3D91-11AB-4FEF-87B2-C82CDF643872",
+            "name": "Time Style",
+            "rect": {
+                "x": 35,
+                "y": 19,
+                "width": 25,
+                "height": 12
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6763FD5B-A60F-4CE7-B12B-A1E2E33E0374",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 0,
+                "y": 778,
+                "width": 375,
+                "height": 34
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "6C71D900-EB01-4493-B076-95D4DEAE7E88",
+            "name": "iPhone X/Home Indicator/Home Indicator - On Light",
+            "rect": {
+                "x": 0,
+                "y": 778,
+                "width": 375,
+                "height": 34
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "17BF87A2-735E-4140-B36B-E74C31AC1859",
+            "name": "iPhone X/iPhone X Frame",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

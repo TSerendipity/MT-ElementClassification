@@ -1,0 +1,602 @@
+{
+    "layers": [
+        {
+            "id": "D2C201E6-3BD9-4FD5-993B-047191BBFDC5",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.42352942,
+                0.7411765,
+                0.89411765,
+                1
+            ]
+        },
+        {
+            "id": "3FBD7A0D-5929-49FD-B6D8-1E89613E1F36",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 88,
+                "width": 375,
+                "height": 724
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "BA039688-98F3-47C7-954D-9E1C264C0F9A",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 0,
+                "y": -27,
+                "width": 375,
+                "height": 115
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "E6E2A604-7E7F-436C-AE27-9315CB7DFC6D",
+            "name": "Squirtle’s shell is",
+            "rect": {
+                "x": 20,
+                "y": -9,
+                "width": 352,
+                "height": 162
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "064914F0-37E1-44E7-BB1D-BFEE85D8A552",
+            "name": "Squirtle",
+            "rect": {
+                "x": 20,
+                "y": -132,
+                "width": 335,
+                "height": 48
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "42861E5D-926C-4F16-AAA9-4A6959C9604A",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 0,
+                "y": 89,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "2D2C4FD8-2298-4C2C-9638-94FCB4CCFAA1",
+            "name": "STATS",
+            "rect": {
+                "x": 60,
+                "y": 121,
+                "width": 36,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "32E097D2-E874-4238-8449-AEB285137C97",
+            "name": "MOVES",
+            "rect": {
+                "x": 274,
+                "y": 120,
+                "width": 45,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BF41671D-5BA8-4EBC-8D7B-B9B5147E1936",
+            "name": "EVOLUTIONS",
+            "rect": {
+                "x": 147,
+                "y": 120,
+                "width": 81,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C52B8508-0ACE-424B-BA4F-7134FCAAC499",
+            "name": "Selected State",
+            "rect": {
+                "x": 232,
+                "y": 97,
+                "width": 129,
+                "height": 60
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "8D5739F3-A747-4D3A-B43B-4FFC22BFFBB3",
+            "name": "STATS",
+            "rect": {
+                "x": 29,
+                "y": 118,
+                "width": 99,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C969772F-0F6D-4A32-BAF4-F779AF18865E",
+            "name": "MOVES",
+            "rect": {
+                "x": 274,
+                "y": 120,
+                "width": 45,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BC33082B-F535-4862-9CD8-9FA910F719A3",
+            "name": "EVOLUTIONS",
+            "rect": {
+                "x": 138,
+                "y": 117,
+                "width": 99,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1D45ED0A-7914-43D6-B769-4C35EAF0089F",
+            "name": "Rectangle 7",
+            "rect": {
+                "x": 0,
+                "y": -77,
+                "width": 375,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "8D158BDC-E447-4AB8-AEAE-80EC1BAC8611",
+            "name": "Rectangle",
+            "rect": {
+                "x": 120,
+                "y": -77,
+                "width": 130,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.33333334,
+                0.61960787,
+                0.8745098,
+                1
+            ]
+        },
+        {
+            "id": "B1D0777F-9F6C-42BB-8A12-CF9043D2D83E",
+            "name": "Water",
+            "rect": {
+                "x": 149,
+                "y": -60,
+                "width": 84,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "15605688-1E24-42DB-834E-5F4517C77A5D",
+            "name": "Oval 5",
+            "rect": {
+                "x": 144,
+                "y": -60,
+                "width": 10,
+                "height": 15
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "0931E021-2498-4AB8-BC13-DDD592F3A952",
+            "name": "Path",
+            "rect": {
+                "x": 144,
+                "y": -60,
+                "width": 10,
+                "height": 15
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "1122031F-FF75-42FD-89D1-AC00A086EC7B",
+            "name": "Line 2",
+            "rect": {
+                "x": 26,
+                "y": 830,
+                "width": 349,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "063DCE9B-AF39-4CC8-BA3B-52C593BF9D30",
+            "name": "Name",
+            "rect": {
+                "x": 154,
+                "y": 56,
+                "width": 67,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3258237B-9EEE-4D50-A437-2863BF271BA1",
+            "name": "iPhone X/Status Bars/Status Bar (White)",
+            "rect": {
+                "x": 35,
+                "y": 17,
+                "width": 326,
+                "height": 14
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AD30610E-26D4-43E9-9069-4F7BCF918CA8",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 0,
+                "y": 778,
+                "width": 375,
+                "height": 34
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "126AC0A5-F982-4989-A53E-BF4492540B39",
+            "name": "iPhone X/iPhone X Frame",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0994C466-BEA4-4E5A-85AB-856114DCFCCC",
+            "name": "iPhone X/Home Indicator/Home Indicator - On Light",
+            "rect": {
+                "x": 0,
+                "y": 778,
+                "width": 375,
+                "height": 34
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "20CDA77F-93D7-41BB-B06C-F79D47E9F114",
+            "name": "MoveCell",
+            "rect": {
+                "x": 0,
+                "y": 164,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C8C5832F-F68F-4968-8BC0-EBFEB212A6AE",
+            "name": "MoveCell Copy",
+            "rect": {
+                "x": 0,
+                "y": 239,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B09855A2-3247-43B3-B0DE-153FF9C4B588",
+            "name": "MoveCell Copy 2",
+            "rect": {
+                "x": 0,
+                "y": 314,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "42A8F51B-64A8-4545-9108-D8944E9E18C7",
+            "name": "MoveCell Copy 3",
+            "rect": {
+                "x": 0,
+                "y": 389,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "46FDE60C-7FC9-4646-B36C-1D2CFFF9A2E8",
+            "name": "MoveCell Copy 4",
+            "rect": {
+                "x": 0,
+                "y": 464,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CEAEB5B2-E3CF-4DA4-9836-C99ABA8EB5A6",
+            "name": "MoveCell Copy 5",
+            "rect": {
+                "x": 0,
+                "y": 539,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1E1E943C-5809-479C-8B50-EF43BFE072D6",
+            "name": "MoveCell Copy 6",
+            "rect": {
+                "x": 0,
+                "y": 614,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C12580E3-8B26-4969-A1BA-A76A1B605D42",
+            "name": "MoveCell Copy 7",
+            "rect": {
+                "x": 0,
+                "y": 689,
+                "width": 375,
+                "height": 75
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CE064A11-8D38-4196-8791-941CF2C851BA",
+            "name": "Path",
+            "rect": {
+                "x": 10,
+                "y": 60,
+                "width": 21,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

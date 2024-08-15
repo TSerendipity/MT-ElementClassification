@@ -1,0 +1,1016 @@
+{
+    "layers": [
+        {
+            "id": "304FEEB8-D490-4B13-82C1-DB1BB2D6C804",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 0,
+                "y": 847,
+                "width": 750,
+                "height": 382
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "7F020DCC-D42F-4C2F-9F06-3E58E722F133",
+            "name": "Rectangle 5 Copy 4",
+            "rect": {
+                "x": 24,
+                "y": 1051,
+                "width": 702,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.87058824,
+                0.87058824,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "73770D99-A8DE-4E3F-988C-ADA29CC12499",
+            "name": "icon/提示",
+            "rect": {
+                "x": 24,
+                "y": 1171,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EACA6E2E-0CC7-4CF2-9637-3F5D4CE25094",
+            "name": "rightjiantou_icon",
+            "rect": {
+                "x": 701,
+                "y": 1180,
+                "width": 23,
+                "height": 12
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "376B6F0C-3F62-4DD5-B95C-80FC2FE5A6DB",
+            "name": "取票地址：东城区东中街32号楼",
+            "rect": {
+                "x": 64,
+                "y": 1175,
+                "width": 339,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FF4BE9E3-A1C5-487C-B2C8-96455D2A857B",
+            "name": "姓 名",
+            "rect": {
+                "x": 25,
+                "y": 992,
+                "width": 85,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2563AD14-0329-4A67-8ACC-FFA05EDDE579",
+            "name": "请输入",
+            "rect": {
+                "x": 165,
+                "y": 992,
+                "width": 88,
+                "height": 28
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2CD63A79-D422-4C81-9223-C3A7DB178553",
+            "name": "接收二维码或换票码短信换票 务必准确",
+            "rect": {
+                "x": 168,
+                "y": 1083,
+                "width": 517,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1965083F-6E07-4514-B496-B88E47F4F3AB",
+            "name": "手机号",
+            "rect": {
+                "x": 25,
+                "y": 1083,
+                "width": 88,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0B1B26E3-E72F-433D-8D27-E2E7C1994D71",
+            "name": "Rectangle 5 Copy 4",
+            "rect": {
+                "x": 24,
+                "y": 1142,
+                "width": 702,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.87058824,
+                0.87058824,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "0F74D529-1F28-4936-82B4-2F0E4BAA6663",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 24,
+                "y": 881,
+                "width": 336,
+                "height": 70
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                0,
+                0,
+                0.019607844
+            ]
+        },
+        {
+            "id": "D9F329B6-8ACF-466C-82CD-F71B8271EC85",
+            "name": "取票码",
+            "rect": {
+                "x": 151,
+                "y": 904,
+                "width": 82,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1EA9A0DA-0CC0-47FF-959F-8C01D5A3AC5A",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 390,
+                "y": 881,
+                "width": 336,
+                "height": 70
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "C91A2296-1C91-49E7-8280-D28B2FEDEEE4",
+            "name": "身份证",
+            "rect": {
+                "x": 518,
+                "y": 902,
+                "width": 81,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BF870EBE-EEA9-4BEE-9206-D3334019F6D4",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 0,
+                "y": 289,
+                "width": 749,
+                "height": 210
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "7CF828FD-C290-4C0A-A6FF-E8800C307F88",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 0,
+                "y": 499,
+                "width": 750,
+                "height": 83
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.98039216,
+                0.98039216,
+                0.98039216,
+                1
+            ]
+        },
+        {
+            "id": "AF99F886-BAB2-4DE2-9FF5-F81154AF5DB3",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 0,
+                "y": 209,
+                "width": 750,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.95686275,
+                0.95686275,
+                0.95686275,
+                1
+            ]
+        },
+        {
+            "id": "B02D5818-D7E7-44BB-921E-5F9D78EBD822",
+            "name": "场次：2017.06.07 周六 19:",
+            "rect": {
+                "x": 65,
+                "y": 528,
+                "width": 349,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9DA3CB30-AF74-41A8-8B05-03FD7FE57852",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 39,
+                "y": 535,
+                "width": 7,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.70980394,
+                0.70980394,
+                0.70980394,
+                1
+            ]
+        },
+        {
+            "id": "D8120E9D-83A8-45DA-AF0E-2DD8EA181B4D",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 39,
+                "y": 535,
+                "width": 7,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.70980394,
+                0.70980394,
+                0.70980394,
+                1
+            ]
+        },
+        {
+            "id": "0C75D231-E57C-4CF8-9841-23EFB88DC47C",
+            "name": "Oval 2",
+            "rect": {
+                "x": 24,
+                "y": 526,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "7EE322DF-4F27-468F-9022-D6B749F5112B",
+            "name": "Mask",
+            "rect": {
+                "x": 23,
+                "y": 329,
+                "width": 100,
+                "height": 131
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "103AEDA0-8A26-4DB8-95ED-7430DDD00238",
+            "name": "Bitmap",
+            "rect": {
+                "x": 23,
+                "y": 329,
+                "width": 100,
+                "height": 131
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "70C932DF-A5A9-4032-BA0E-2CA2DF56AAB9",
+            "name": "周杰伦2017演唱会演唱会北京站北京北京",
+            "rect": {
+                "x": 144,
+                "y": 340,
+                "width": 572,
+                "height": 70
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C0AFC21B-26C7-48FC-9859-9A60BB78F8EF",
+            "name": "保利剧院",
+            "rect": {
+                "x": 143,
+                "y": 433,
+                "width": 96,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3C426B0B-9BDD-480B-9E5D-F37DB71500E4",
+            "name": "Rectangle Copy 4",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 128
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "2FD253EF-DE11-4302-9200-A7B90F08EDD5",
+            "name": "Bars/Status/Black",
+            "rect": {
+                "x": 15,
+                "y": 11,
+                "width": 726,
+                "height": 20
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "70C3F6EA-F822-4246-BE93-806F349DB39F",
+            "name": "订单确认",
+            "rect": {
+                "x": 313,
+                "y": 68,
+                "width": 134,
+                "height": 32
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "08A30D04-0C45-433C-A363-2F4492512127",
+            "name": "Rectangle 5 Copy 4",
+            "rect": {
+                "x": 0,
+                "y": 128,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9254902,
+                0.9254902,
+                0.9254902,
+                1
+            ]
+        },
+        {
+            "id": "1B17EA30-26DE-4172-AF1E-3E75CB6CABB0",
+            "name": "商品清单",
+            "rect": {
+                "x": 25,
+                "y": 240,
+                "width": 110,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "407D4EEA-7798-4EAB-9996-87182122A46F",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 0,
+                "y": 767,
+                "width": 750,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.95686275,
+                0.95686275,
+                0.95686275,
+                1
+            ]
+        },
+        {
+            "id": "150DCB83-D7DE-46A8-A6DB-40C2918BCC4C",
+            "name": "取票方式",
+            "rect": {
+                "x": 25,
+                "y": 799,
+                "width": 110,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5E43B903-84DE-4D18-9DE0-7566FE55A922",
+            "name": "Rectangle 2 Copy 2",
+            "rect": {
+                "x": 0,
+                "y": 1309,
+                "width": 750,
+                "height": 286
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "EAA0A101-A811-4E97-AC1A-3A8A3935908F",
+            "name": "支付宝",
+            "rect": {
+                "x": 109,
+                "y": 1349,
+                "width": 87,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F001A534-2B1A-492A-AABB-D1EF0AF16C81",
+            "name": "说明文字，没有就不显示",
+            "rect": {
+                "x": 109,
+                "y": 1386,
+                "width": 262,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D0FF7B1B-9C25-4FEA-8AC5-76BA4A29A6FD",
+            "name": "微信支付",
+            "rect": {
+                "x": 109,
+                "y": 1508,
+                "width": 118,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "425B9636-7FE3-4B5F-A4BF-76AB91E3183E",
+            "name": "支付宝",
+            "rect": {
+                "x": 35,
+                "y": 1352,
+                "width": 50,
+                "height": 51
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "88294FF3-D48E-426E-AC2C-51D769490F39",
+            "name": "微信",
+            "rect": {
+                "x": 34,
+                "y": 1501,
+                "width": 55,
+                "height": 48
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F6932264-27EA-4F82-B0A6-C88BB0DFA42A",
+            "name": "Rectangle 6 Copy",
+            "rect": {
+                "x": 0,
+                "y": 1229,
+                "width": 750,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.95686275,
+                0.95686275,
+                0.95686275,
+                1
+            ]
+        },
+        {
+            "id": "747DFD9F-8A9A-4FCC-ACF4-80B9E0B2B52B",
+            "name": "支付方式",
+            "rect": {
+                "x": 25,
+                "y": 1260,
+                "width": 110,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E03F528D-1734-438D-AF48-3E3652C224F1",
+            "name": "icon/单选 copy 2",
+            "rect": {
+                "x": 694,
+                "y": 1362,
+                "width": 32,
+                "height": 32
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EDE934BF-79EB-4564-84F8-5DA584BA1EA2",
+            "name": "Rectangle 5 Copy 5",
+            "rect": {
+                "x": 24,
+                "y": 1450,
+                "width": 702,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.87058824,
+                0.87058824,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "BCD4D2FB-022D-4716-A644-37281F9D5261",
+            "name": "icon/单选框-未选择 copy",
+            "rect": {
+                "x": 694,
+                "y": 1510,
+                "width": 32,
+                "height": 32
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "35AFF5F8-E26E-4C0C-B780-AE486E3AAA40",
+            "name": "返回icon",
+            "rect": {
+                "x": 34,
+                "y": 66,
+                "width": 20,
+                "height": 36
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AF13BE26-9A7B-401C-A7A9-A5D883666BDA",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 0,
+                "y": 583,
+                "width": 750,
+                "height": 92
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "416469F6-41FD-436A-90A7-72E3314B6B71",
+            "name": "3840元",
+            "rect": {
+                "x": 621,
+                "y": 616,
+                "width": 104,
+                "height": 28
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "232F3686-92D8-46BC-8DD5-263B594B397A",
+            "name": "票档名称 | 1280元x3张",
+            "rect": {
+                "x": 25,
+                "y": 616,
+                "width": 259,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0464A5FF-853F-4D70-A89D-55324A65C8FD",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 0,
+                "y": 675,
+                "width": 750,
+                "height": 92
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "BA118730-E214-42DB-8277-7256D344BFDE",
+            "name": "2940元",
+            "rect": {
+                "x": 622,
+                "y": 708,
+                "width": 103,
+                "height": 28
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FB9736F2-7798-4D90-8C48-B77102EEC46B",
+            "name": "Rectangle 5 Copy 4",
+            "rect": {
+                "x": 24,
+                "y": 674,
+                "width": 702,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.87058824,
+                0.87058824,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "8861B13E-4DFF-4074-8DA4-5DF166CAFF59",
+            "name": "票档名称 | 980元x3张",
+            "rect": {
+                "x": 25,
+                "y": 708,
+                "width": 249,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "04A74C70-A989-4498-8DB9-81C4ADAFCA31",
+            "name": "Rectangle 4 Copy 2",
+            "rect": {
+                "x": 0,
+                "y": 129,
+                "width": 750,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "C8CA09F0-EACE-4A77-8A9A-B4455A4BF8FE",
+            "name": "登录后可享受更多优惠",
+            "rect": {
+                "x": 25,
+                "y": 157,
+                "width": 258,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "656D6A11-1FF0-4F5F-BFA0-F77E524B405F",
+            "name": "订单确定结算",
+            "rect": {
+                "x": 0,
+                "y": 1615,
+                "width": 750,
+                "height": 98
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AADCF70A-B7DA-4401-85F8-2EDCF3E39F22",
+            "name": "White Background",
+            "rect": {
+                "x": 650,
+                "y": 149,
+                "width": 76,
+                "height": 41
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.8666667,
+                0.8666667,
+                0.8666667,
+                1
+            ]
+        },
+        {
+            "id": "D8CCC066-386E-46A9-B23C-D3C9534BC87E",
+            "name": "Knob",
+            "rect": {
+                "x": 648,
+                "y": 151,
+                "width": 44,
+                "height": 44
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1713,
+    "layer_width": 64,
+    "layer_height": 64
+}

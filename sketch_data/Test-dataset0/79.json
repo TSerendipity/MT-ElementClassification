@@ -1,0 +1,1250 @@
+{
+    "layers": [
+        {
+            "id": "2C12E9CD-70C9-4815-A6B1-953333D36CAE",
+            "name": "bg-2",
+            "rect": {
+                "x": 30,
+                "y": 491,
+                "width": 300,
+                "height": 243
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.20784314,
+                0.14901961,
+                0.25490198,
+                1
+            ]
+        },
+        {
+            "id": "1D465D90-BB01-49C5-BDB2-AA9B1CC50D2C",
+            "name": "Strength",
+            "rect": {
+                "x": 48,
+                "y": 523,
+                "width": 62,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "C193B6F6-A682-4116-933D-D9B50B995D61",
+            "name": "Ellipse_90",
+            "rect": {
+                "x": 298,
+                "y": 520,
+                "width": 14,
+                "height": 15
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.83137256,
+                0.49803922,
+                0.6509804,
+                1
+            ]
+        },
+        {
+            "id": "C2FD43AC-0649-4AF0-8B94-2629370A0AB7",
+            "name": "Ellipse_94",
+            "rect": {
+                "x": 280,
+                "y": 520,
+                "width": 14,
+                "height": 15
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.83137256,
+                0.49803922,
+                0.6509804,
+                1
+            ]
+        },
+        {
+            "id": "203F8FD4-5B2B-4A58-82E3-B39B674D4727",
+            "name": "Ellipse_95",
+            "rect": {
+                "x": 262,
+                "y": 520,
+                "width": 14,
+                "height": 15
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.83137256,
+                0.49803922,
+                0.6509804,
+                1
+            ]
+        },
+        {
+            "id": "F1D94E1B-3451-4127-80C4-DD6323D8FEF3",
+            "name": "Ellipse_96",
+            "rect": {
+                "x": 244,
+                "y": 520,
+                "width": 14,
+                "height": 15
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.83137256,
+                0.49803922,
+                0.6509804,
+                1
+            ]
+        },
+        {
+            "id": "902C4A08-AE99-4D39-BA71-E088D5BFBA0D",
+            "name": "Ellipse_97",
+            "rect": {
+                "x": 226,
+                "y": 520,
+                "width": 14,
+                "height": 15
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.83137256,
+                0.49803922,
+                0.6509804,
+                1
+            ]
+        },
+        {
+            "id": "330CA1F5-7B1D-488F-8C21-48E80AB33F3A",
+            "name": "Agility",
+            "rect": {
+                "x": 48,
+                "y": 633,
+                "width": 45,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "B89DB12E-1877-4C74-B15B-CE60E47DC440",
+            "name": "Ellipse_90-2",
+            "rect": {
+                "x": 298,
+                "y": 632,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.30980393,
+                0.5529412,
+                0.79607844,
+                1
+            ]
+        },
+        {
+            "id": "511A98C9-BCAD-4A73-ADA0-33BBBFF5B64C",
+            "name": "Ellipse_94-2",
+            "rect": {
+                "x": 280,
+                "y": 632,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.30980393,
+                0.5529412,
+                0.79607844,
+                1
+            ]
+        },
+        {
+            "id": "2D837175-CD9F-49EA-826D-61430420CFA3",
+            "name": "Ellipse_95-2",
+            "rect": {
+                "x": 262,
+                "y": 632,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.30980393,
+                0.5529412,
+                0.79607844,
+                1
+            ]
+        },
+        {
+            "id": "D7DB5993-C655-45EF-9A0A-045E226D3567",
+            "name": "Ellipse_96-2",
+            "rect": {
+                "x": 244,
+                "y": 632,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.30980393,
+                0.5529412,
+                0.79607844,
+                1
+            ]
+        },
+        {
+            "id": "95579AFE-94FF-4B12-B95A-6D6D7B4E9B78",
+            "name": "Ellipse_97-2",
+            "rect": {
+                "x": 226,
+                "y": 632,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.30980393,
+                0.5529412,
+                0.79607844,
+                1
+            ]
+        },
+        {
+            "id": "4B37FD3C-032E-4A5A-8059-7981D9B99AA4",
+            "name": "Connection",
+            "rect": {
+                "x": 49,
+                "y": 688,
+                "width": 82,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "97D2DCE4-9506-4C88-BFDF-B03DED9E4C58",
+            "name": "Ellipse_90-3",
+            "rect": {
+                "x": 298,
+                "y": 686,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.34509805,
+                0.69803923,
+                0.74509805,
+                1
+            ]
+        },
+        {
+            "id": "90317067-3E3C-4CE3-8E55-0CAC9C5A579D",
+            "name": "Ellipse_94-3",
+            "rect": {
+                "x": 280,
+                "y": 686,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.34509805,
+                0.69803923,
+                0.74509805,
+                1
+            ]
+        },
+        {
+            "id": "F1204A71-35F3-4E10-9134-F8E3CD4E3947",
+            "name": "Ellipse_95-3",
+            "rect": {
+                "x": 262,
+                "y": 686,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.34509805,
+                0.69803923,
+                0.74509805,
+                1
+            ]
+        },
+        {
+            "id": "C40309DE-AAB0-465B-9EAD-819F3DA609FF",
+            "name": "Ellipse_96-3",
+            "rect": {
+                "x": 244,
+                "y": 686,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.34509805,
+                0.69803923,
+                0.74509805,
+                1
+            ]
+        },
+        {
+            "id": "14583088-0613-4710-8855-8DD3289C59E6",
+            "name": "Ellipse_97-3",
+            "rect": {
+                "x": 226,
+                "y": 686,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.34509805,
+                0.69803923,
+                0.74509805,
+                1
+            ]
+        },
+        {
+            "id": "9285845F-945C-4621-BA37-E6AC8029CB8B",
+            "name": "Flexibility",
+            "rect": {
+                "x": 49,
+                "y": 578,
+                "width": 67,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "FB361BCF-EC56-4B4B-9A0E-2CC03F352E86",
+            "name": "Ellipse_90-4",
+            "rect": {
+                "x": 298,
+                "y": 576,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.5411765,
+                0.3372549,
+                0.6745098,
+                1
+            ]
+        },
+        {
+            "id": "1FCE8947-3A8F-48E6-924A-2C8EA8209139",
+            "name": "Ellipse_94-4",
+            "rect": {
+                "x": 280,
+                "y": 576,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.5411765,
+                0.3372549,
+                0.6745098,
+                1
+            ]
+        },
+        {
+            "id": "C9E9753C-B76F-4B8C-B006-F5C155323EA8",
+            "name": "Ellipse_95-4",
+            "rect": {
+                "x": 262,
+                "y": 576,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.5411765,
+                0.3372549,
+                0.6745098,
+                1
+            ]
+        },
+        {
+            "id": "9A01603D-326D-4CDC-909E-FD24AA987263",
+            "name": "Ellipse_96-4",
+            "rect": {
+                "x": 244,
+                "y": 576,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.5411765,
+                0.3372549,
+                0.6745098,
+                1
+            ]
+        },
+        {
+            "id": "F0A89C61-EDF9-4FAE-A4FD-32F119A9AC3D",
+            "name": "Ellipse_97-4",
+            "rect": {
+                "x": 226,
+                "y": 576,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.5411765,
+                0.3372549,
+                0.6745098,
+                1
+            ]
+        },
+        {
+            "id": "83862851-E26C-48CC-8148-C76817534594",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 360,
+                "height": 175
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "BCE2E0B4-E8A4-4783-BB22-19CDD5E09C2D",
+            "name": "Shape",
+            "rect": {
+                "x": 305,
+                "y": 21,
+                "width": 22,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "07CBADAE-5489-4CBF-B5C0-1C96D81E8C25",
+            "name": "Fill",
+            "rect": {
+                "x": 305,
+                "y": 21,
+                "width": 22,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A68902BE-5669-4032-876E-BFEE0C24365D",
+            "name": "Shape-2",
+            "rect": {
+                "x": 328,
+                "y": 25,
+                "width": 2,
+                "height": 4
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4C5B3392-1C20-4010-AAA4-9667C5C6C8CE",
+            "name": "Fill-2",
+            "rect": {
+                "x": 328,
+                "y": 25,
+                "width": 2,
+                "height": 4
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0.4
+            ]
+        },
+        {
+            "id": "762827EC-B23D-40EA-865A-3850A37F6DE2",
+            "name": "Shape-3",
+            "rect": {
+                "x": 307,
+                "y": 23,
+                "width": 18,
+                "height": 8
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "26445E89-9109-4D20-AB53-C4CBBCE3EC99",
+            "name": "Fill-3",
+            "rect": {
+                "x": 307,
+                "y": 23,
+                "width": 18,
+                "height": 8
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "5C8FEC62-6DEA-4F91-BA91-DA52551BC934",
+            "name": "Shape-4-path",
+            "rect": {
+                "x": 284,
+                "y": 21,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8AF47D5F-6A8E-48E3-AAED-4201487341E7",
+            "name": "Shape-4-path",
+            "rect": {
+                "x": 284,
+                "y": 21,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "05282635-34EB-4257-86C1-BC9549C6AD97",
+            "name": "Shape-4-path",
+            "rect": {
+                "x": 284,
+                "y": 21,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A9A7AB44-323F-451C-B5A5-1FD4A4D5938E",
+            "name": "Fill-4",
+            "rect": {
+                "x": 284,
+                "y": 21,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "5DC2EFF1-BDDE-4860-B0A8-BA219C8DB8DC",
+            "name": "Shape-5-path",
+            "rect": {
+                "x": 262,
+                "y": 21,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3BD5AF39-C47D-48A4-A1E8-E877C018A706",
+            "name": "Shape-5-path",
+            "rect": {
+                "x": 262,
+                "y": 21,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C9E07434-83AE-4A7D-860F-B353EA29C2FA",
+            "name": "Shape-5-path",
+            "rect": {
+                "x": 262,
+                "y": 21,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A2A180AC-9902-4CE5-A839-F46D2FB8497E",
+            "name": "Shape-5-path",
+            "rect": {
+                "x": 262,
+                "y": 21,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AF3E4533-502B-48AA-BB5C-11D2A54617D8",
+            "name": "Fill-5",
+            "rect": {
+                "x": 262,
+                "y": 21,
+                "width": 18,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "A50E5439-BEAA-4350-8E13-2E01E08CE63B",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0A33E7D4-826C-4878-B9D9-064A754DD53C",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2C8B284F-5F38-4FCA-AA65-86F800082DEE",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6EA9BAF4-82A9-4F95-927A-4E47A0BC9774",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3CFA996A-80F4-4D63-9E57-46D43675B824",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "51E6AD1B-5B8D-458C-9D11-1B9B569B7E8A",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5DA77E6A-D563-405E-9232-98E03920DB63",
+            "name": "_Time-path",
+            "rect": {
+                "x": 30,
+                "y": 21,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5E8B9898-1ECF-4B6C-BEE9-B011CF09A1C3",
+            "name": "Ellipse_52",
+            "rect": {
+                "x": 317,
+                "y": 62,
+                "width": 8,
+                "height": 8
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "673E8BB0-9BC6-4F34-B734-888E128BF8BF",
+            "name": "Path_199",
+            "rect": {
+                "x": 311,
+                "y": 56,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F40BBB7E-D051-4739-BCA3-651ACED76D6F",
+            "name": "Line_36",
+            "rect": {
+                "x": 30,
+                "y": 64,
+                "width": 16,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C36E6FF4-D778-4E96-A25F-952603FACAB1",
+            "name": "Path_12",
+            "rect": {
+                "x": 30,
+                "y": 57,
+                "width": 9,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "127A4AA0-FBB6-4FCA-BC97-2C30618EE61F",
+            "name": "Yoga and Meditation for Beginners",
+            "rect": {
+                "x": 48,
+                "y": 141,
+                "width": 196,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.2509804,
+                0.19607843,
+                0.28627452,
+                1
+            ]
+        },
+        {
+            "id": "45C91AF4-22D0-4E82-B3C8-B35BAF379981",
+            "name": "Yoga poses",
+            "rect": {
+                "x": 48,
+                "y": 108,
+                "width": 131,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "8476D0F5-7A2E-43E0-9736-5E911DD95817",
+            "name": "photo-7",
+            "rect": {
+                "x": 48,
+                "y": 193,
+                "width": 264,
+                "height": 280
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "87759A58-DB0A-46C2-8609-4772EAF5CC56",
+            "name": "Bitmap",
+            "rect": {
+                "x": 103,
+                "y": 229,
+                "width": 176,
+                "height": 210
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "713735A5-E5B8-4185-A14C-3FEA79CAFB2E",
+            "name": "photo-8",
+            "rect": {
+                "x": 48,
+                "y": 381,
+                "width": 264,
+                "height": 92
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.28627452,
+                0.28627452,
+                0.28627452,
+                1
+            ]
+        },
+        {
+            "id": "4BB81B02-3B0E-43D7-9F03-4B4EFA090DCF",
+            "name": "Baddha Konasana",
+            "rect": {
+                "x": 73,
+                "y": 410,
+                "width": 185,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "6DAA234F-FED0-4873-8D6C-5719BC79CD5B",
+            "name": "The bound angle pose",
+            "rect": {
+                "x": 72,
+                "y": 437,
+                "width": 161,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "C91EBB18-29CC-4CFD-984C-E4323C985647",
+            "name": "photo-7",
+            "rect": {
+                "x": 330,
+                "y": 193,
+                "width": 30,
+                "height": 280
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "B810E751-3ADC-4290-916A-D9CA3AF7B20E",
+            "name": "Bitmap",
+            "rect": {
+                "x": 383,
+                "y": 229,
+                "width": 179,
+                "height": 210
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C61129BA-0288-4C0C-B27D-A159DBCE965A",
+            "name": "photo-8",
+            "rect": {
+                "x": 330,
+                "y": 381,
+                "width": 30,
+                "height": 92
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.28627452,
+                0.28627452,
+                0.28627452,
+                1
+            ]
+        },
+        {
+            "id": "85D99C44-51E3-44D2-AAAC-C8C07732A907",
+            "name": "Baddha Konasana",
+            "rect": {
+                "x": 355,
+                "y": 411,
+                "width": 5,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "AC4E6E95-D49F-4B9F-A807-CA84F97E241D",
+            "name": "The bound angle pose",
+            "rect": {
+                "x": 354,
+                "y": 438,
+                "width": 6,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "1C714E71-DA69-410D-87C0-D83809AF7ADF",
+            "name": "photo-7",
+            "rect": {
+                "x": 0,
+                "y": 193,
+                "width": 30,
+                "height": 280
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "3F953DE7-55CA-4E17-9F3A-CA331147D3CF",
+            "name": "Bitmap",
+            "rect": {
+                "x": -181,
+                "y": 229,
+                "width": 179,
+                "height": 210
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "70347E47-79DF-40B5-9786-7DF692589637",
+            "name": "photo-8",
+            "rect": {
+                "x": 0,
+                "y": 381,
+                "width": 30,
+                "height": 92
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.28627452,
+                0.28627452,
+                0.28627452,
+                1
+            ]
+        },
+        {
+            "id": "C470905F-D713-4553-A612-2D90012D02AB",
+            "name": "Baddha Konasana",
+            "rect": {
+                "x": -210,
+                "y": 405,
+                "width": 205,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "7E15AD63-1FF8-4A84-926E-DF5409AC426D",
+            "name": "The bound angle pose",
+            "rect": {
+                "x": -210,
+                "y": 435,
+                "width": 169,
+                "height": 19
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    ],
+    "width": 360,
+    "height": 760,
+    "layer_width": 64,
+    "layer_height": 64
+}

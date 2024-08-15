@@ -1,0 +1,2816 @@
+{
+    "layers": [
+        {
+            "id": "CE9A84A0-428B-42C0-B700-F17E3EC77C0C",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 128
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "015640CE-0928-43D6-8282-0F9E78ED0F47",
+            "name": "Background Copy",
+            "rect": {
+                "x": 0,
+                "y": 127,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.7764706,
+                0.78431374,
+                0.7882353,
+                1
+            ]
+        },
+        {
+            "id": "62FF1071-E6FB-4052-B097-68D148064569",
+            "name": "完成",
+            "rect": {
+                "x": 657,
+                "y": 69,
+                "width": 62,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0ED5020F-39FB-4E70-A513-75B7710D0F87",
+            "name": "确认账户",
+            "rect": {
+                "x": 303,
+                "y": 59,
+                "width": 145,
+                "height": 44
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "793E3E03-F695-4029-9883-B5439D250981",
+            "name": "iconfont-fanhui",
+            "rect": {
+                "x": 28,
+                "y": 67,
+                "width": 20,
+                "height": 34
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.0627451,
+                0.5568628,
+                0.9137255,
+                1
+            ]
+        },
+        {
+            "id": "802CF619-AE6C-42B2-ABF7-5F43412C4CEF",
+            "name": "",
+            "rect": {
+                "x": 55,
+                "y": 61,
+                "width": 64,
+                "height": 39
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F2B4AA3E-3313-449F-8D0E-0801525E0554",
+            "name": "Oval 1",
+            "rect": {
+                "x": 11,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "73D4D28B-A9F0-4D41-BBB7-68E4675F67FE",
+            "name": "Oval 1 copy",
+            "rect": {
+                "x": 25,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "A064C095-8C49-48E4-AC37-7630EA4BE153",
+            "name": "Oval 1 copy 2",
+            "rect": {
+                "x": 39,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "2180D168-E74E-4114-9C31-8120AFFE6527",
+            "name": "Path",
+            "rect": {
+                "x": 53,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "685A1D58-E8FC-4299-A3FF-4BF1FF6CD691",
+            "name": "Path",
+            "rect": {
+                "x": 53,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "B4BDABBE-FA1B-43FB-8CA2-27AF3AA1AAAE",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "226206AE-B81B-4025-A89D-4CA371BF4FC4",
+            "name": "Path",
+            "rect": {
+                "x": 67,
+                "y": 14,
+                "width": 12,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "DDB439A6-B233-4860-BE18-E835AF02B016",
+            "name": "Path",
+            "rect": {
+                "x": 88,
+                "y": 10,
+                "width": 24,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "80552A35-94C8-4964-BAFE-FBD9BA90C13B",
+            "name": "Shape",
+            "rect": {
+                "x": 88,
+                "y": 10,
+                "width": 24,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "C9FFBB24-6263-48E5-A0F4-BED01B60EDC7",
+            "name": "Shape",
+            "rect": {
+                "x": 88,
+                "y": 10,
+                "width": 24,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.047058824,
+                0.047058824,
+                0.047058824,
+                1
+            ]
+        },
+        {
+            "id": "1099095A-7036-4756-AC0D-05AA02EB4D80",
+            "name": "9:41",
+            "rect": {
+                "x": 334,
+                "y": 12,
+                "width": 82,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "5F8BACE3-9BC0-4E87-9FF6-C8AC02E784F0",
+            "name": "Path",
+            "rect": {
+                "x": 690,
+                "y": 10,
+                "width": 46,
+                "height": 21
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "0D560A76-1784-426C-8D07-365879FEA247",
+            "name": "Path",
+            "rect": {
+                "x": 690,
+                "y": 10,
+                "width": 46,
+                "height": 21
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "E3136295-3E24-4AE2-85A3-6ECDC4F1E865",
+            "name": "Path",
+            "rect": {
+                "x": 692,
+                "y": 12,
+                "width": 48,
+                "height": 17
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "F3AE303C-6D0B-4E1A-9926-D0A7985EB05D",
+            "name": "Path",
+            "rect": {
+                "x": 692,
+                "y": 12,
+                "width": 48,
+                "height": 17
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "B155EF3E-C122-4CBD-9B98-98917AD67925",
+            "name": "42%",
+            "rect": {
+                "x": 637,
+                "y": 12,
+                "width": 43,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "057D0D41-947C-4048-9E02-E803600C8205",
+            "name": "Path",
+            "rect": {
+                "x": 608,
+                "y": 6,
+                "width": 17,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "5E7B7347-241D-411B-A606-143F2242E713",
+            "name": "Path",
+            "rect": {
+                "x": 608,
+                "y": 6,
+                "width": 17,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "04F05284-B97E-4C40-8889-B4282C78E408",
+            "name": "Path",
+            "rect": {
+                "x": 608,
+                "y": 6,
+                "width": 17,
+                "height": 29
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.02745098,
+                0.02745098,
+                0.02745098,
+                1
+            ]
+        },
+        {
+            "id": "28F8AB4A-B4A7-4C5E-B831-FE5A421D6DF1",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 128,
+                "width": 750,
+                "height": 520
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "59127E7D-F397-47DE-945F-B9A08B2B55F7",
+            "name": "提交成功",
+            "rect": {
+                "x": 302,
+                "y": 389,
+                "width": 144,
+                "height": 113
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "45443742-1556-4200-A692-9B53E9324894",
+            "name": "预计3分钟到账，我们会以短信通知你",
+            "rect": {
+                "x": 102,
+                "y": 477,
+                "width": 545,
+                "height": 33
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6D865FA6-E337-4102-B887-BF071BEF584B",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 648,
+                "width": 750,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "44D0D6E1-6014-4650-8CE2-875DD254E77A",
+            "name": "bg copy",
+            "rect": {
+                "x": 0,
+                "y": 748,
+                "width": 750,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "FBE5D279-1088-4AB9-872A-0CF866D23602",
+            "name": "Line",
+            "rect": {
+                "x": 29,
+                "y": 747,
+                "width": 692,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "B961C182-B0DF-460E-85A5-051BDF9A8DF2",
+            "name": "贷款金额",
+            "rect": {
+                "x": 31,
+                "y": 683,
+                "width": 129,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0312218A-D191-4069-89C1-3DAA2CE4FD58",
+            "name": "收款账户",
+            "rect": {
+                "x": 32,
+                "y": 783,
+                "width": 125,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4B7EBFDE-77B7-43C1-8D47-49FD2F983CBD",
+            "name": "20,000.00",
+            "rect": {
+                "x": 569,
+                "y": 686,
+                "width": 150,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "945DAE0E-DDD6-441E-9EAB-77CDC6553259",
+            "name": "keo***@gmail.com",
+            "rect": {
+                "x": 462,
+                "y": 786,
+                "width": 257,
+                "height": 69
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F338535B-FCDD-44C8-9B69-7978648F9B80",
+            "name": "Rectangle 21 Copy",
+            "rect": {
+                "x": 372,
+                "y": 778,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                0.0627451,
+                0.5568628,
+                0.9137255,
+                1
+            ]
+        },
+        {
+            "id": "E1CE23FC-9EF8-4EA2-9DC9-E5D218CB2953",
+            "name": "Path",
+            "rect": {
+                "x": 377,
+                "y": 785,
+                "width": 35,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "0BFD5EFB-C6EF-472C-BE42-7D715C1096ED",
+            "name": "Path",
+            "rect": {
+                "x": 377,
+                "y": 785,
+                "width": 35,
+                "height": 26
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "E2D0E7B4-1557-4EFD-A1F9-0FE11ACED69D",
+            "name": "Oval 3",
+            "rect": {
+                "x": 305,
+                "y": 198,
+                "width": 140,
+                "height": 140
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0,
+                0.63529414,
+                0.6745098,
+                1
+            ]
+        },
+        {
+            "id": "E894F929-2445-4D00-88C1-5769FB57F8C2",
+            "name": "Rectangle",
+            "rect": {
+                "x": 333,
+                "y": 268,
+                "width": 33,
+                "height": 32
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "93AE82D9-3A89-4B42-A665-A795C6116A4B",
+            "name": "Rectangle Copy",
+            "rect": {
+                "x": 357,
+                "y": 242,
+                "width": 58,
+                "height": 58
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "6C48E0CF-CB3F-4B8A-9790-3DA196E2BC64",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 0,
+                "y": 888,
+                "width": 750,
+                "height": 320
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "CAE3C73F-30E1-403F-8817-01263AA364EC",
+            "name": "本次支用获得抽奖机会一次",
+            "rect": {
+                "x": 196,
+                "y": 917,
+                "width": 358,
+                "height": 28
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7BD90BB5-6FBA-4D78-98A6-293123E0C93D",
+            "name": "Rectangle 9 Copy 5",
+            "rect": {
+                "x": 245,
+                "y": 1128,
+                "width": 260,
+                "height": 60
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9254902,
+                0.9254902,
+                0.9254902,
+                1
+            ]
+        },
+        {
+            "id": "66C2E997-113F-49D9-9CF2-2DD16F31DA18",
+            "name": "开始抽奖",
+            "rect": {
+                "x": 320,
+                "y": 1145,
+                "width": 110,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BC09E014-896F-403E-A3E3-E13583F47125",
+            "name": "Rectangle 9 Copy 2",
+            "rect": {
+                "x": 30,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "7A7435BF-7DC5-453B-AA60-7E2BC6B9FA0A",
+            "name": "Oval",
+            "rect": {
+                "x": 30,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "85B02BF3-6CE3-4815-A127-514E62C131DC",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 30,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "B10B4651-6910-4953-BD48-A4031DF0BE6E",
+            "name": "Fill 1",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "CC4E7747-75CF-43DB-B47F-75E34278F0B6",
+            "name": "Fill 3",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "AC6BD3AF-CC6D-43AD-9AEE-36CDA2F4066D",
+            "name": "Fill 5",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "478AD3E8-D6FA-4A87-BF30-523F5F0A5F8F",
+            "name": "Fill 7",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "70FD86B9-E6AA-4040-A7A9-199FDF08B388",
+            "name": "Fill 10",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "2D04263F-FB3C-4692-94E2-6B3D1CBEE6DB",
+            "name": "Fill 12",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "35014C67-3D35-4A97-A4F6-04C6E6A37A39",
+            "name": "Fill 14",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "B3C59385-02FA-48C1-9726-93CF0960143E",
+            "name": "Fill 16",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "5F5D3FFE-9927-4376-9BD2-7D866BBE663A",
+            "name": "Fill 18",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "58FE3E31-4094-4F5D-87B1-298157655813",
+            "name": "Fill 20",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "2BB38D39-EA8E-4F9F-BD9B-90892DAB9476",
+            "name": "Fill 22",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "6E143535-622C-4F9B-A11D-74B52DEC4E9A",
+            "name": "Fill 24",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "421BB86D-5F1D-4045-9D01-0D7837546DBC",
+            "name": "Fill 26",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "1CF74F14-8E43-4AB0-9784-DE37EE5D9F68",
+            "name": "Fill 28",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "385B5B19-97D5-44E4-BEEC-E79B269C4E1F",
+            "name": "Fill 30",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "AB28E339-9A7F-46DD-BCFC-DCAEE755A18A",
+            "name": "Fill 32",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "0B50231E-2652-4BD4-AFEC-6F3AAC7591B5",
+            "name": "Fill 34",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "E444DF5E-041E-4FBD-9C83-2D39ECFB1894",
+            "name": "Fill 37",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "41AA7FB2-758A-48D9-A0B6-DD9BBF687C4A",
+            "name": "Fill 39",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "2FB8AA32-C7FA-425E-8202-CE7A9E43E72B",
+            "name": "Fill 41",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "F9E6FA06-0B76-43FD-8921-D5DC46D3F3C7",
+            "name": "Fill 43",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "5A5EC600-5BB6-4338-AD02-E8476905BC93",
+            "name": "Fill 45",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "3F78AA69-0477-4164-9608-24E7D631EE83",
+            "name": "Fill 47",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "8DC7A223-F33A-4B6C-B283-9557638474BB",
+            "name": "Fill 49",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "7337AD95-3A62-4FEC-B896-FAFC5F63EEA8",
+            "name": "Fill 51",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "976812D8-9864-4B39-A281-33171AD1DD56",
+            "name": "Fill 53",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "264AC667-46DF-4847-BE0B-74F777DBBEB6",
+            "name": "Fill 55",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "A699E5E3-CB8D-4872-AA4C-18763CCE74B8",
+            "name": "Fill 57",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "9A913A5D-65B2-46F2-95F5-D7ED65DA6F9B",
+            "name": "Fill 59",
+            "rect": {
+                "x": 38,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "6086DE57-ACDD-4C05-94CE-0BF3148074EA",
+            "name": "Fill 1",
+            "rect": {
+                "x": 95,
+                "y": 1010,
+                "width": 60,
+                "height": 43
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6,
+                0.8352941,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "1B2349AD-4484-47EC-83F7-598B87C4A07E",
+            "name": "Fill 3",
+            "rect": {
+                "x": 95,
+                "y": 1010,
+                "width": 60,
+                "height": 43
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6,
+                0.8352941,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "4F2951E1-136F-4200-9C9D-555A96431D38",
+            "name": "Fill 6",
+            "rect": {
+                "x": 95,
+                "y": 1010,
+                "width": 60,
+                "height": 43
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6,
+                0.8352941,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "347E44FD-A89A-4DB2-AE0F-A198B52B0549",
+            "name": "Line 3",
+            "rect": {
+                "x": 228,
+                "y": 984,
+                "width": 2,
+                "height": 95
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "E1CB9FF8-55D1-4152-862E-F982422D6C75",
+            "name": "Line 3 Copy",
+            "rect": {
+                "x": 226,
+                "y": 984,
+                "width": 2,
+                "height": 95
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "0A6683BB-5A6F-462B-848B-C603FF8CEECB",
+            "name": "Rectangle 9 Copy 2",
+            "rect": {
+                "x": 265,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "403668F5-7582-43A7-BA16-01D04283CC65",
+            "name": "Oval",
+            "rect": {
+                "x": 265,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "0E28DE96-2AA4-47F8-BB6C-ACBFB1926B76",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 265,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "7C7F83C7-105C-4772-925A-ABB109E75B94",
+            "name": "Fill 1",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "ABCD1241-151A-4B7A-817C-73DE83F9F1A1",
+            "name": "Fill 3",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "01809E90-80B3-4923-B5D3-B20F245073FD",
+            "name": "Fill 5",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "8714E7B5-21BE-43E6-857B-AF5752DD40E4",
+            "name": "Fill 7",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "D5220074-7E96-4A7A-9AE6-B25D166AC7CA",
+            "name": "Fill 10",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "54135501-DDDA-4D22-BBE8-9828D00568E9",
+            "name": "Fill 12",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "C3B15B0B-A191-4AD2-873C-D0E2EF35BBC7",
+            "name": "Fill 14",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "E4CED06A-C1F0-41AF-BB2A-4FA4258C8573",
+            "name": "Fill 16",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "F62B95F0-79B1-40DB-899C-A18479177159",
+            "name": "Fill 18",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "8B0BC923-BC9B-4C06-8734-B2A42F4A6FBA",
+            "name": "Fill 20",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "34DC1017-31C1-498E-86D0-4E7BCD10E555",
+            "name": "Fill 22",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "2B0E6287-3A4E-4D00-933A-26F6ECD9EE6F",
+            "name": "Fill 24",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "799AF5C7-648B-42BB-A451-BE39C3CC65CD",
+            "name": "Fill 26",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "6C2CEE6D-ADA5-40F8-B0B5-5E2863C03522",
+            "name": "Fill 28",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "9F8D8154-3AC2-4ED4-9B99-1208336C0EA9",
+            "name": "Fill 30",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "03A29A46-F305-43E8-9779-68DE54726DE8",
+            "name": "Fill 32",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "8864E65E-02F8-4287-9968-B5F466D09D58",
+            "name": "Fill 34",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "D19423BE-B084-4E3A-A077-F138BD88C0E5",
+            "name": "Fill 37",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "3B189AAD-70CF-4991-B86E-CB0FDF5B1F94",
+            "name": "Fill 39",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "DDDAA8D7-0F6A-4A20-A70A-BD36C733D54F",
+            "name": "Fill 41",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "D595E8C7-814F-4D52-8C63-D148545A342E",
+            "name": "Fill 43",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "D7DD1A74-A932-457E-A56A-FC8852377786",
+            "name": "Fill 45",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "22D12BF1-1D57-4FD8-954E-6E04B0A9D395",
+            "name": "Fill 47",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "269838E5-EC8B-457E-A3AF-35645D2F0DE0",
+            "name": "Fill 49",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "E35D6406-1F17-4823-AD1E-067AE75A077C",
+            "name": "Fill 51",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "8E253232-108A-49F7-B0F7-2F07C7F1647F",
+            "name": "Fill 53",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "EA39E133-0B0D-41FD-AFDC-557BB4F17771",
+            "name": "Fill 55",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "7C8C60B0-90B3-4109-A583-8832DA4EE21B",
+            "name": "Fill 57",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "7968BA61-09A0-40F0-95A0-A08D80BA9FAC",
+            "name": "Fill 59",
+            "rect": {
+                "x": 273,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "AD5941DE-E691-400A-8D58-212CB4647449",
+            "name": "Fill 1",
+            "rect": {
+                "x": 330,
+                "y": 1010,
+                "width": 60,
+                "height": 43
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6,
+                0.8352941,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "C2C1BE17-DBD7-4290-BC9F-66BE2288B75B",
+            "name": "Fill 3",
+            "rect": {
+                "x": 330,
+                "y": 1010,
+                "width": 60,
+                "height": 43
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6,
+                0.8352941,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "A4927468-18BB-4744-9A10-88EE0BA0C6DD",
+            "name": "Fill 6",
+            "rect": {
+                "x": 330,
+                "y": 1010,
+                "width": 60,
+                "height": 43
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.6,
+                0.8352941,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "16C05251-73F2-4F58-BC1C-2D71917B5BD0",
+            "name": "Line 3",
+            "rect": {
+                "x": 463,
+                "y": 984,
+                "width": 2,
+                "height": 95
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "C6BB4901-A88F-442C-8B9C-5C46D8FC5465",
+            "name": "Line 3 Copy",
+            "rect": {
+                "x": 461,
+                "y": 984,
+                "width": 2,
+                "height": 95
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "AB1F3F04-0D09-4FCD-8826-4E5C862C25E2",
+            "name": "Rectangle 9 Copy 2",
+            "rect": {
+                "x": 500,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "106B8DB0-282B-4B55-AE0C-7BD76E4EEEA4",
+            "name": "Oval",
+            "rect": {
+                "x": 500,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "F5E77895-940C-4602-9383-E73D0ADA6587",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 500,
+                "y": 966,
+                "width": 220,
+                "height": 132
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                1,
+                0.9764706,
+                0.8,
+                1
+            ]
+        },
+        {
+            "id": "A6329E41-42B5-4EE5-B518-35857701877C",
+            "name": "Fill 1",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "FFB374A9-12AE-4855-8A83-7FC3D291B429",
+            "name": "Fill 3",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "33CA8B50-A38A-4320-8F87-F3076145A601",
+            "name": "Fill 5",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "0B69F242-92AC-44BF-9997-517B90B17B5A",
+            "name": "Fill 7",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "3EE60360-0F8E-4A1A-A6F4-63BD5AA08171",
+            "name": "Fill 10",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "336E18A8-2ACA-46FA-88F6-1F0F45FC7682",
+            "name": "Fill 12",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "FCDC3C75-5D2C-478F-B95A-A7122777366B",
+            "name": "Fill 14",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "6E55B94C-1BF5-4425-B662-14503ECE4597",
+            "name": "Fill 16",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "F7DFC20A-6C6A-4DB5-8502-FC8A60BD76F5",
+            "name": "Fill 18",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "5373B343-8F05-4809-89D9-02C1F6CA152F",
+            "name": "Fill 20",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "DE2E90A1-32A3-4097-A588-9C4E19DEF6F9",
+            "name": "Fill 22",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "B031A671-D7A0-46A4-B20F-212DE2606784",
+            "name": "Fill 24",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "1AFFD34F-257C-41AE-9A89-6EB56AB2C746",
+            "name": "Fill 26",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "E409D8D1-3AE4-4E1C-84BE-F45CA56743B5",
+            "name": "Fill 28",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "B01F3E52-083B-4072-AC36-7BEAEA6B7ADC",
+            "name": "Fill 30",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "7C35A773-C887-4C1A-B9EF-54FB7621370D",
+            "name": "Fill 32",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "2FF3BB11-7B99-4D11-B008-F2F147524D5E",
+            "name": "Fill 34",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "014356CA-A55C-48ED-B64E-191D17BCD759",
+            "name": "Fill 37",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "F9B6FDD9-8141-4D39-BC7B-89C460530F0B",
+            "name": "Fill 39",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "B77E921D-3204-4A12-9E16-E628FEEE62C3",
+            "name": "Fill 41",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "3F180636-9327-4F4B-88F5-36070A762A98",
+            "name": "Fill 43",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "1EE36A82-2A23-4942-94EB-54F57330F341",
+            "name": "Fill 45",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "5C7DA37E-4073-45FB-BF97-A8377BAF81B1",
+            "name": "Fill 47",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "21CEF63F-D5A7-448D-A540-41611CC5BACC",
+            "name": "Fill 49",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "79746B59-D802-4410-9036-39160718E554",
+            "name": "Fill 51",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "E83E7559-791F-4878-8CED-30ED9AE93748",
+            "name": "Fill 53",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "08FAF077-8061-4B58-A9E4-8EB2F5C906D6",
+            "name": "Fill 55",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "FFA996F7-2326-4396-A652-CFB5F335C108",
+            "name": "Fill 57",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "09B3A0D9-B608-47F0-A0E4-C5521E6ABCC5",
+            "name": "Fill 59",
+            "rect": {
+                "x": 508,
+                "y": 975,
+                "width": 180,
+                "height": 114
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.65882355,
+                0.8862745,
+                0.9019608,
+                1
+            ]
+        },
+        {
+            "id": "BFFEEA25-2205-4A9D-A36C-60A967C1985A",
+            "name": "Fill 1",
+            "rect": {
+                "x": 565,
+                "y": 1010,
+                "width": 60,
+                "height": 43
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.6,
+                0.8352941,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "E513A0D5-ACC6-493E-AADA-6220191D811F",
+            "name": "Fill 3",
+            "rect": {
+                "x": 565,
+                "y": 1010,
+                "width": 60,
+                "height": 43
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.6,
+                0.8352941,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "86249C54-4079-4371-AB4E-42A9C583690C",
+            "name": "Fill 6",
+            "rect": {
+                "x": 565,
+                "y": 1010,
+                "width": 60,
+                "height": 43
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.6,
+                0.8352941,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "29D56B68-795D-475A-B503-7CE463B7FE1D",
+            "name": "Line 3",
+            "rect": {
+                "x": 698,
+                "y": 984,
+                "width": 2,
+                "height": 95
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "1F08BB4A-388E-4A01-820C-4146BA24824D",
+            "name": "Line 3 Copy",
+            "rect": {
+                "x": 696,
+                "y": 984,
+                "width": 2,
+                "height": 95
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

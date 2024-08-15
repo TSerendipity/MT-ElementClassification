@@ -1,0 +1,548 @@
+{
+    "layers": [
+        {
+            "id": "C8837A99-2958-40A4-ACAF-77E4F570F69C",
+            "name": "Rectangle 11 Copy 2",
+            "rect": {
+                "x": 0,
+                "y": 128,
+                "width": 750,
+                "height": 257
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "1354D9E4-E5CD-4154-9AC8-C30D0935D611",
+            "name": "支付失败",
+            "rect": {
+                "x": 320,
+                "y": 291,
+                "width": 110,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6FFF0FE4-D854-4098-B941-DAF4F740DEBF",
+            "name": "Oval",
+            "rect": {
+                "x": 328,
+                "y": 170,
+                "width": 94,
+                "height": 94
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                1,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "8BD585E8-AD9C-4061-9CCD-6B0AEC40DC5E",
+            "name": "Rectangle 9",
+            "rect": {
+                "x": 372,
+                "y": 187,
+                "width": 7,
+                "height": 39
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "037E175F-EE8B-4714-8CE5-5FFA1BA2D57C",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 371,
+                "y": 232,
+                "width": 9,
+                "height": 9
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "1600495F-B90E-4005-8AE1-1B849A8CF69F",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 128
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "A8BDDF84-D296-4697-9907-0E01DB0A2DBC",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 0,
+                "y": 127,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.8666667,
+                0.8666667,
+                0.8666667,
+                1
+            ]
+        },
+        {
+            "id": "3BE84026-3217-4045-9F3D-8C06023BF85A",
+            "name": "Bars/Status/Black",
+            "rect": {
+                "x": 16,
+                "y": 11,
+                "width": 726,
+                "height": 20
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7869A20D-E62B-4FE5-AC6E-13179B755107",
+            "name": "支付失败",
+            "rect": {
+                "x": 308,
+                "y": 67,
+                "width": 134,
+                "height": 33
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "05888C0D-6920-4AB2-9A90-BE54A8279CEF",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 0,
+                "y": 1238,
+                "width": 750,
+                "height": 96
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                0.27450982,
+                0,
+                1
+            ]
+        },
+        {
+            "id": "E86CBAA5-D5D6-4FEF-BBB1-1FD0B1E42800",
+            "name": "继续支付",
+            "rect": {
+                "x": 316,
+                "y": 1272,
+                "width": 118,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9F091654-C5C0-4BA7-B50A-E749FC7CFD10",
+            "name": "Rectangle 16",
+            "rect": {
+                "x": 0,
+                "y": 126,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9254902,
+                0.9254902,
+                0.9254902,
+                1
+            ]
+        },
+        {
+            "id": "04C13E7E-6FB7-4576-A410-F999F2B986A4",
+            "name": "Clip 2",
+            "rect": {
+                "x": 357,
+                "y": 1242,
+                "width": 36,
+                "height": 41
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E2CFD78D-070D-4293-921B-513C48C3592A",
+            "name": "返回icon",
+            "rect": {
+                "x": 34,
+                "y": 66,
+                "width": 20,
+                "height": 36
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "05381BF2-86E1-4D24-82C2-9AB948E74CAE",
+            "name": "Rectangle 2 Copy 2",
+            "rect": {
+                "x": 0,
+                "y": 716,
+                "width": 750,
+                "height": 286
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "D73809CB-A146-44DF-BB07-39423CBD843D",
+            "name": "支付宝",
+            "rect": {
+                "x": 109,
+                "y": 756,
+                "width": 87,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E1BDFA06-A730-4532-A657-AF7F7415D18A",
+            "name": "说明文字，没有就不显示",
+            "rect": {
+                "x": 109,
+                "y": 793,
+                "width": 262,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "619B27DD-8C3D-4515-930D-C0FF851CC4CB",
+            "name": "微信支付",
+            "rect": {
+                "x": 109,
+                "y": 915,
+                "width": 118,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "98A88E9E-CB98-4BAB-AB48-F6FBB8F66867",
+            "name": "支付宝",
+            "rect": {
+                "x": 35,
+                "y": 759,
+                "width": 50,
+                "height": 51
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9198F58C-F464-4D45-8553-41AF48F34602",
+            "name": "微信",
+            "rect": {
+                "x": 34,
+                "y": 908,
+                "width": 55,
+                "height": 48
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8B98D48A-97AB-404B-B256-10911D151A93",
+            "name": "Rectangle 6 Copy",
+            "rect": {
+                "x": 0,
+                "y": 636,
+                "width": 750,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.95686275,
+                0.95686275,
+                0.95686275,
+                1
+            ]
+        },
+        {
+            "id": "6D2E4466-2DB8-4A16-9933-97B158C37F1A",
+            "name": "支付方式",
+            "rect": {
+                "x": 25,
+                "y": 667,
+                "width": 110,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3B05DA71-4C95-43B2-901B-90957479D96F",
+            "name": "icon/单选 copy 2",
+            "rect": {
+                "x": 694,
+                "y": 769,
+                "width": 32,
+                "height": 32
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0F1DEA6F-B891-4799-93F6-2A45E0D1EBEC",
+            "name": "Rectangle 5 Copy 5",
+            "rect": {
+                "x": 24,
+                "y": 857,
+                "width": 702,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.87058824,
+                0.87058824,
+                0.87058824,
+                1
+            ]
+        },
+        {
+            "id": "67D2266F-022F-468F-BF8F-5861EE4E7369",
+            "name": "icon/单选框-未选择 copy",
+            "rect": {
+                "x": 694,
+                "y": 917,
+                "width": 32,
+                "height": 32
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2A747424-EDCE-4AE3-A4BE-F012F5D26F5F",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 0,
+                "y": 387,
+                "width": 750,
+                "height": 249
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "8C86D700-3691-44D9-A3AA-86BE9698A218",
+            "name": "场次：2017.06.07 周六 19:",
+            "rect": {
+                "x": 31,
+                "y": 495,
+                "width": 349,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "42F66443-984B-4D2C-A156-92D259F51FF9",
+            "name": "应付：",
+            "rect": {
+                "x": 31,
+                "y": 562,
+                "width": 60,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F5BE473D-E10C-4568-AAE0-F060F1D233E7",
+            "name": "6780.00元",
+            "rect": {
+                "x": 109,
+                "y": 560,
+                "width": 157,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B69BC578-9A10-43A4-B064-E12E536D2663",
+            "name": "周杰伦2017演唱会演唱会北京站北京北京",
+            "rect": {
+                "x": 31,
+                "y": 424,
+                "width": 662,
+                "height": 29
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

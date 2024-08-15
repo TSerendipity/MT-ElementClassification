@@ -1,0 +1,1214 @@
+{
+    "layers": [
+        {
+            "id": "81A34D1A-6604-4B45-AC23-68725E6EEE13",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 240,
+                "width": 750,
+                "height": 126
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4A876A60-60FB-4646-A6D4-42251EC1F270",
+            "name": "按症寻药",
+            "rect": {
+                "x": 304,
+                "y": 289,
+                "width": 141,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2713B876-F007-47ED-A2DC-D28993AB850E",
+            "name": "Path",
+            "rect": {
+                "x": 449,
+                "y": 285,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CB2B40BC-9C04-4596-9CCE-4FFDDE8CB0AC",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 366,
+                "width": 750,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "88A02F54-8D94-49D9-9CAA-FBD99C28BE67",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 465,
+                "width": 720,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B7E466D8-B8C1-44BA-B5FE-C750EF742EE1",
+            "name": "成人常见病",
+            "rect": {
+                "x": 31,
+                "y": 401,
+                "width": 157,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0A38FB01-7905-457B-8C1D-FF67D54164FD",
+            "name": "过敏 红斑 鼻炎",
+            "rect": {
+                "x": 526,
+                "y": 402,
+                "width": 157,
+                "height": 55
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EF42DD23-4262-4078-9727-14BC466A0AB7",
+            "name": "Path",
+            "rect": {
+                "x": 696,
+                "y": 409,
+                "width": 25,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1156E25B-EDC0-430F-A9EB-D761D4252E77",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 466,
+                "width": 750,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EB2E24F5-FFB3-40D5-A8FF-3CB87790E54D",
+            "name": "过敏 红斑 鼻炎",
+            "rect": {
+                "x": 526,
+                "y": 502,
+                "width": 157,
+                "height": 55
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9D336839-D42D-4532-A6E5-C132C01CA826",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 565,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DC947FAB-7B19-4E0B-991D-9847FC98178C",
+            "name": "儿童常见病",
+            "rect": {
+                "x": 31,
+                "y": 501,
+                "width": 157,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CEB88D13-DCB4-404F-8AC3-29AF3A8EC09B",
+            "name": "Path",
+            "rect": {
+                "x": 696,
+                "y": 509,
+                "width": 25,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "13ABF422-196D-4318-B06C-2A0082949983",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 566,
+                "width": 187,
+                "height": 96
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D95AAD53-9FC0-40AE-A723-5B6D605C76C7",
+            "name": "Path",
+            "rect": {
+                "x": 187,
+                "y": 566,
+                "width": 188,
+                "height": 96
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "536CEC7A-3BF9-4D08-816A-CA37DAAD0517",
+            "name": "Path",
+            "rect": {
+                "x": 375,
+                "y": 566,
+                "width": 188,
+                "height": 96
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DF4A2D09-552E-4C9B-AF96-DEE7583BE235",
+            "name": "Path",
+            "rect": {
+                "x": 563,
+                "y": 566,
+                "width": 187,
+                "height": 96
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A302EE3B-DBFC-4D33-BBB5-0E8DBBDD8B28",
+            "name": "感冒",
+            "rect": {
+                "x": 67,
+                "y": 601,
+                "width": 52,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E7C8DA1F-D423-44BF-8954-19697163F0B1",
+            "name": "恶心呕吐",
+            "rect": {
+                "x": 226,
+                "y": 601,
+                "width": 110,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "37E5EBF1-C641-49EE-BC5A-889A54D765AE",
+            "name": "咳嗽",
+            "rect": {
+                "x": 443,
+                "y": 600,
+                "width": 53,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "16C22989-A83E-4579-A8AB-88BFFECCC696",
+            "name": "大便干结",
+            "rect": {
+                "x": 602,
+                "y": 601,
+                "width": 110,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "58F3B2B6-00D3-4E9F-B102-4E6B108F7150",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 662,
+                "width": 187,
+                "height": 96
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "71DF1B05-8FDF-4AE5-9470-AE3A4FC2AB59",
+            "name": "Path",
+            "rect": {
+                "x": 187,
+                "y": 662,
+                "width": 188,
+                "height": 96
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "72EA0EAA-ACC0-42A0-BCDF-416AB40264A9",
+            "name": "Path",
+            "rect": {
+                "x": 375,
+                "y": 662,
+                "width": 188,
+                "height": 96
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A52CC828-0E35-4E5C-B939-5B30890B96D6",
+            "name": "Path",
+            "rect": {
+                "x": 563,
+                "y": 662,
+                "width": 187,
+                "height": 96
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "133C197D-85D2-4493-AA2E-D71D14E32A10",
+            "name": "发烧",
+            "rect": {
+                "x": 67,
+                "y": 696,
+                "width": 54,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E1A685A3-CFF6-497D-A918-CF9501FCD8DC",
+            "name": "胃口不好",
+            "rect": {
+                "x": 228,
+                "y": 696,
+                "width": 108,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6BD22657-ECE3-4D57-9F3B-6EEA302BFDBD",
+            "name": "胸闷气短",
+            "rect": {
+                "x": 414,
+                "y": 696,
+                "width": 110,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "53FE312A-C6C4-4191-B331-18B820AE95CF",
+            "name": "皮肤红肿",
+            "rect": {
+                "x": 602,
+                "y": 697,
+                "width": 109,
+                "height": 26
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "30FB1230-0F60-43D8-807D-F10DCBE6A676",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 758,
+                "width": 750,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5357EB88-3CDC-4FCD-B204-171ED621A74C",
+            "name": "过敏 红斑 鼻炎",
+            "rect": {
+                "x": 526,
+                "y": 794,
+                "width": 157,
+                "height": 55
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9474F052-ABE8-49F4-9757-9DD63C7E3FC7",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 857,
+                "width": 720,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CB68863F-3F8E-4537-BBAF-19F32514C7BA",
+            "name": "皮肤症状",
+            "rect": {
+                "x": 31,
+                "y": 793,
+                "width": 126,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A982A6EB-5284-4C60-99F3-32C68CF088F6",
+            "name": "Path",
+            "rect": {
+                "x": 696,
+                "y": 801,
+                "width": 25,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "85F20772-CE36-44C7-954C-B670C410ED76",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 858,
+                "width": 750,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B77E5604-920D-4652-BB1C-F0085301C8B7",
+            "name": "过敏 红斑 鼻炎",
+            "rect": {
+                "x": 526,
+                "y": 894,
+                "width": 157,
+                "height": 55
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5D468DE2-9321-48A2-81DC-2DE0300CE841",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 957,
+                "width": 720,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3F203792-5E37-487F-98FE-176AA2147D4D",
+            "name": "头部五官",
+            "rect": {
+                "x": 32,
+                "y": 893,
+                "width": 124,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "553B4D62-E866-473E-B87A-EC44A298BA49",
+            "name": "Path",
+            "rect": {
+                "x": 696,
+                "y": 901,
+                "width": 25,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "91BA539B-4B6D-412A-B545-7A8100D8063F",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 958,
+                "width": 750,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F40AE41F-10F8-4860-B214-86CF3C229EF0",
+            "name": "过敏 红斑 鼻炎",
+            "rect": {
+                "x": 526,
+                "y": 994,
+                "width": 157,
+                "height": 55
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "93BC7779-15F6-4225-B439-AD2F9F910BE0",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 1057,
+                "width": 720,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F59AFA12-644C-4E8E-B583-083249796A16",
+            "name": "心脑血管",
+            "rect": {
+                "x": 31,
+                "y": 993,
+                "width": 126,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "27BD3B61-A66C-4569-9FC8-366187EA0966",
+            "name": "Path",
+            "rect": {
+                "x": 696,
+                "y": 1001,
+                "width": 25,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3F0A1E62-C6DA-478A-930B-43C45C29DE9B",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1058,
+                "width": 750,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "40DCBBDC-F00E-41D3-AEC2-826A3DCF7579",
+            "name": "过敏 红斑 鼻炎",
+            "rect": {
+                "x": 526,
+                "y": 1094,
+                "width": 157,
+                "height": 55
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CB3308F6-5A7C-4633-BBF5-1808D5B8ACB1",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 1157,
+                "width": 720,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "11211BCD-2E5B-4A2E-A263-608C84636E0C",
+            "name": "口腔健康",
+            "rect": {
+                "x": 34,
+                "y": 1093,
+                "width": 123,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C3A0886C-AF7B-4695-888D-707EF83842F9",
+            "name": "Path",
+            "rect": {
+                "x": 696,
+                "y": 1101,
+                "width": 25,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C3C6CF0A-5A8A-47D9-AC3A-5642DDC76104",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 1158,
+                "width": 750,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "97E4D8F2-DCFD-44FB-B251-6B2871449738",
+            "name": "过敏 红斑 鼻炎",
+            "rect": {
+                "x": 526,
+                "y": 1194,
+                "width": 157,
+                "height": 55
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3E9C0EF5-CA1A-439F-B5EA-8C422DB737A4",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 1257,
+                "width": 720,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0E3EB387-140D-4FD8-8E98-7F21250B9F19",
+            "name": "心理健康",
+            "rect": {
+                "x": 31,
+                "y": 1193,
+                "width": 126,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "855469FC-C05A-4758-9AE1-0051BB091D55",
+            "name": "Path",
+            "rect": {
+                "x": 696,
+                "y": 1201,
+                "width": 25,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B8BE2E2C-D9C4-4360-A478-72E0034DED52",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 252
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A776988F-E4DC-48DB-8F93-ABAB4BD7CC3E",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 128
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A9D9E2DD-9BE8-4923-A552-9C3C8B2FEDCD",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 59,
+                "width": 20,
+                "height": 36
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A4C65A9F-6A2F-448B-A9F1-E54E7AD55AEF",
+            "name": "Oval",
+            "rect": {
+                "x": 688,
+                "y": 74,
+                "width": 32,
+                "height": 6
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A3644DCF-CE66-4062-ADAE-328EDD99CCA4",
+            "name": "Oval",
+            "rect": {
+                "x": 688,
+                "y": 74,
+                "width": 32,
+                "height": 6
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D1F19679-8AB3-4963-A02D-92C9DD22C7A7",
+            "name": "Oval",
+            "rect": {
+                "x": 688,
+                "y": 74,
+                "width": 32,
+                "height": 6
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "84FCB873-15C0-4846-A3F9-4C493CCEDE83",
+            "name": "Path",
+            "rect": {
+                "x": 704,
+                "y": 44,
+                "width": 34,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0F1CC84F-6CAF-408B-93CC-0A4628F00324",
+            "name": "20",
+            "rect": {
+                "x": 712,
+                "y": 48,
+                "width": 20,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2C3C84EE-68B0-4E21-997D-25314FDA9A3E",
+            "name": "查药品",
+            "rect": {
+                "x": 322,
+                "y": 60,
+                "width": 104,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "34BFE377-1A6C-4566-9CD1-43BE1F06C0C5",
+            "name": "Status Bar white",
+            "rect": {
+                "x": 12,
+                "y": 8,
+                "width": 726,
+                "height": 19
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "662DB814-4B42-4B82-93A7-DD9E67E56F93",
+            "name": "Path",
+            "rect": {
+                "x": 30,
+                "y": 128,
+                "width": 690,
+                "height": 78
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D2A023FD-71BE-4EFD-AB9C-421D096FB666",
+            "name": "输入药品名称或症状",
+            "rect": {
+                "x": 256,
+                "y": 152,
+                "width": 286,
+                "height": 31
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C2BD91BC-8646-4BCF-9F6E-7017F770AC7A",
+            "name": "Fill 1",
+            "rect": {
+                "x": 207,
+                "y": 149,
+                "width": 36,
+                "height": 36
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

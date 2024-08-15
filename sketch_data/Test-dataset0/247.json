@@ -1,0 +1,566 @@
+{
+    "layers": [
+        {
+            "id": "66064D6C-C21A-4B2E-A644-10E36C931683",
+            "name": "跑马灯 copy 6",
+            "rect": {
+                "x": 1627,
+                "y": 351,
+                "width": 650,
+                "height": 140
+            },
+            "_class": "slice",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D254527B-C2A3-4862-837B-1C37C48C4F8D",
+            "name": "跑马灯 copy",
+            "rect": {
+                "x": 60,
+                "y": 351,
+                "width": 650,
+                "height": 140
+            },
+            "_class": "slice",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F3296A6D-E414-4CAB-84A6-7440E8F971A0",
+            "name": "跑马灯 copy 3",
+            "rect": {
+                "x": 837,
+                "y": 136,
+                "width": 650,
+                "height": 140
+            },
+            "_class": "slice",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0DB296C9-16BF-4F23-91C9-B3F911524EE8",
+            "name": "Path",
+            "rect": {
+                "x": 1206,
+                "y": 1506,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4C830E54-463B-4495-B53D-03DEA293F199",
+            "name": "Path",
+            "rect": {
+                "x": 1261,
+                "y": 1506,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "65058F4D-9A25-4394-B233-F9B961377546",
+            "name": "Path",
+            "rect": {
+                "x": 1233,
+                "y": 1506,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6D8246BC-4F41-4B7A-831A-8DA6D47A10A5",
+            "name": "Path",
+            "rect": {
+                "x": 1288,
+                "y": 1506,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6132BBF4-50A4-4235-8D63-9E392C20B2D4",
+            "name": "预售会场_跑马灯_556-135_蓝色_",
+            "rect": {
+                "x": 111,
+                "y": 840,
+                "width": 864,
+                "height": 36
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "817AFA5B-421F-4D0C-9860-CDC31FD0604E",
+            "name": "跑马灯导出文件命名",
+            "rect": {
+                "x": 160,
+                "y": 708,
+                "width": 320,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E138BCCF-94E1-42DB-839F-218ECEC6E65C",
+            "name": "需求方需要提供的内容",
+            "rect": {
+                "x": 161,
+                "y": 1276,
+                "width": 359,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "645617B7-ABB3-493E-86E6-D62C8550EB02",
+            "name": "会场名称",
+            "rect": {
+                "x": 121,
+                "y": 1010,
+                "width": 142,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "64F9EF27-3E98-420C-B40B-3E41017BD134",
+            "name": "颜色",
+            "rect": {
+                "x": 561,
+                "y": 1010,
+                "width": 69,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0737707C-D609-4798-BF19-03128D051558",
+            "name": "时间",
+            "rect": {
+                "x": 691,
+                "y": 1010,
+                "width": 67,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F252E036-5141-431E-AB77-23AF7EB62332",
+            "name": "对应跑马灯的文案",
+            "rect": {
+                "x": 835,
+                "y": 1010,
+                "width": 286,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EA2C2211-F86B-45D6-BAC1-39308F63ED1D",
+            "name": "尺寸",
+            "rect": {
+                "x": 422,
+                "y": 1010,
+                "width": 69,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "67CC1DE0-DF30-459C-949C-50A23D9A9A59",
+            "name": "Path",
+            "rect": {
+                "x": 113,
+                "y": 700,
+                "width": 17,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "15469293-DDC0-4B94-B32F-CF6BB1084536",
+            "name": "Path",
+            "rect": {
+                "x": 113,
+                "y": 1268,
+                "width": 17,
+                "height": 50
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F2787E60-E11C-48B0-B81E-18AA9738C3A0",
+            "name": "Path",
+            "rect": {
+                "x": 188,
+                "y": 887,
+                "width": 2,
+                "height": 93
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E901C3CB-68CA-4872-B47D-97E9A0E7D162",
+            "name": "Path",
+            "rect": {
+                "x": 594,
+                "y": 887,
+                "width": 2,
+                "height": 93
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "114F856C-E7DD-4727-AC28-F58C01AF4137",
+            "name": "Path",
+            "rect": {
+                "x": 723,
+                "y": 887,
+                "width": 2,
+                "height": 93
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1A90A5C3-5DD5-4155-9D42-2DABD008E7F5",
+            "name": "Path",
+            "rect": {
+                "x": 880,
+                "y": 887,
+                "width": 2,
+                "height": 93
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "965235C4-C476-4F65-A1AE-6508C2E3193A",
+            "name": "Path",
+            "rect": {
+                "x": 455,
+                "y": 887,
+                "width": 2,
+                "height": 93
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4018622E-E41C-4255-A5F2-FCDA8696BB6B",
+            "name": "百度信息流_手机_3",
+            "rect": {
+                "x": 1057,
+                "y": 1380,
+                "width": 370,
+                "height": 245
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DE22DCC0-98BB-4E99-A7A8-148D6DD8FB2A",
+            "name": "百度信息流_手机_2",
+            "rect": {
+                "x": 682,
+                "y": 1380,
+                "width": 370,
+                "height": 245
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C983BFDC-0C87-4211-BF09-F8D7226C96EE",
+            "name": "百度信息流_手机_1",
+            "rect": {
+                "x": 306,
+                "y": 1380,
+                "width": 370,
+                "height": 245
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8DABE792-72CA-436D-BF29-F064404279A9",
+            "name": "百度信息流_手机卡产品3",
+            "rect": {
+                "x": 1057,
+                "y": 1647,
+                "width": 370,
+                "height": 245
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "160EC3AF-1004-4C34-AA85-462853564132",
+            "name": "百度信息流_手机卡产品2",
+            "rect": {
+                "x": 682,
+                "y": 1647,
+                "width": 370,
+                "height": 245
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1663A597-80BB-4681-B5D8-7385BEC67FF2",
+            "name": "百度信息流_手机卡产品1",
+            "rect": {
+                "x": 305,
+                "y": 1647,
+                "width": 370,
+                "height": 245
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B38EE5B1-8E5C-4C56-9FD6-CBBE78665435",
+            "name": "百度信息流_宽带产品1",
+            "rect": {
+                "x": 305,
+                "y": 1914,
+                "width": 370,
+                "height": 245
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "910B51D1-8980-47C5-A8D9-B41119D13706",
+            "name": "百度信息流_宽带产品2",
+            "rect": {
+                "x": 682,
+                "y": 1914,
+                "width": 370,
+                "height": 245
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F06FBC68-C735-4454-8F29-109C885F03F9",
+            "name": "百度信息流_宽带产品3",
+            "rect": {
+                "x": 1057,
+                "y": 1914,
+                "width": 370,
+                "height": 245
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 1799,
+    "height": 2245,
+    "layer_width": 64,
+    "layer_height": 64
+}

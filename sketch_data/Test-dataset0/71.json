@@ -1,0 +1,692 @@
+{
+    "layers": [
+        {
+            "id": "CBB3475E-1C92-45BD-84D8-C56D559A4E92",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 667
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "63B8257E-9EB6-476B-B007-742EEEA70622",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 65
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0D4FDF80-4E13-4975-8719-3A753D9B4D61",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7D8CB849-3921-41E7-8936-3EF24FECC3EE",
+            "name": "1",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D5ED6591-2AEA-41C0-893E-068D467B069C",
+            "name": "2",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "531B107A-F574-4594-B515-DC2F87DD6C3B",
+            "name": "3",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "37E806AD-1572-41D2-9990-FB65E6D7127E",
+            "name": "4",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E40E0A59-BE3B-45AB-A093-369B318B5950",
+            "name": "4 Subtraction",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "14E716F0-AEF9-4C05-B60C-0C488D6FF353",
+            "name": "5",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "07A0534D-8F53-4466-AAF6-0BEC026441C0",
+            "name": "5 Subtraction",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DB65AE3E-3D83-443C-B1EC-2ABF3100D660",
+            "name": "Bottom",
+            "rect": {
+                "x": 94,
+                "y": 6,
+                "width": 15,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "51E6AC74-FD08-48C5-9F77-D735024AE075",
+            "name": "Middle",
+            "rect": {
+                "x": 94,
+                "y": 6,
+                "width": 15,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F99E3660-1994-4FC2-BA0A-3A76A03B4CBA",
+            "name": "Top",
+            "rect": {
+                "x": 94,
+                "y": 6,
+                "width": 15,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3502A9D6-B870-4DBC-9C6D-014354017170",
+            "name": "9:41 AM",
+            "rect": {
+                "x": 164,
+                "y": 8,
+                "width": 47,
+                "height": 10
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9364301B-9C79-443B-A8CD-57B6C162B42A",
+            "name": "Alibaba",
+            "rect": {
+                "x": 48,
+                "y": 6,
+                "width": 41,
+                "height": 10
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "91C63F3F-E5CA-4827-BED6-BF75BB0C5DDC",
+            "name": "100%",
+            "rect": {
+                "x": 304,
+                "y": 5,
+                "width": 33,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "53586B33-3551-49A9-9E3E-84CE3D857748",
+            "name": "Border",
+            "rect": {
+                "x": 343,
+                "y": 5,
+                "width": 27,
+                "height": 11
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "10071445-383E-4653-B4B3-5E22051F7258",
+            "name": "Cap",
+            "rect": {
+                "x": 343,
+                "y": 5,
+                "width": 27,
+                "height": 11
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D48318FC-7DD4-4426-80DA-89E776F0BD99",
+            "name": "Border Subtraction",
+            "rect": {
+                "x": 343,
+                "y": 5,
+                "width": 27,
+                "height": 11
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F0E75DF5-6A5D-483A-BEBE-0E984B06F347",
+            "name": "Battery Level",
+            "rect": {
+                "x": 343,
+                "y": 5,
+                "width": 27,
+                "height": 11
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1A8B78A8-9E8C-41B9-B239-6FF1AFCF45DE",
+            "name": "一达通订单",
+            "rect": {
+                "x": 146,
+                "y": 34,
+                "width": 85,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B4BAB78B-3D8E-4E4A-A924-3C5C398F04BD",
+            "name": "Path",
+            "rect": {
+                "x": 235,
+                "y": 38,
+                "width": 14,
+                "height": 9
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F159082E-8F26-43B1-AD74-516A3C04D6E2",
+            "name": "Path",
+            "rect": {
+                "x": 12,
+                "y": 27,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "21C3CB33-0950-4B04-A6F9-3B16F0AF0991",
+            "name": "Path",
+            "rect": {
+                "x": 17,
+                "y": 33,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4693911F-71DE-4881-9BAF-52852F789C2B",
+            "name": "Path",
+            "rect": {
+                "x": 17,
+                "y": 33,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F4F6D09C-0951-4673-B0BD-5F1DB74F170E",
+            "name": "Path",
+            "rect": {
+                "x": 21,
+                "y": 32,
+                "width": 11,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4808FC57-73FA-4DF6-B691-946CFCFABBEB",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 100,
+                "width": 375,
+                "height": 218
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D4115CB0-18B5-4D60-AD87-636156BE1C52",
+            "name": "产品及开票人信息",
+            "rect": {
+                "x": 12,
+                "y": 84,
+                "width": 96,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C1FDDE34-5880-42CF-9DD7-98CFF521BF5F",
+            "name": "币种",
+            "rect": {
+                "x": 16,
+                "y": 119,
+                "width": 84,
+                "height": 182
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "016E1CF9-47B8-493D-A070-123FEC25FA4C",
+            "name": "义乌市隆多饰品厂",
+            "rect": {
+                "x": 112,
+                "y": 118,
+                "width": 133,
+                "height": 85
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "59F82B2D-C44A-4F29-A5DB-B9DA3CAD76F5",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 356,
+                "width": 375,
+                "height": 218
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EACE51BA-D18F-4374-9102-A813F30E088F",
+            "name": "产品及开票人信息",
+            "rect": {
+                "x": 12,
+                "y": 340,
+                "width": 96,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "71CD10CD-8925-454D-8A60-C9C36C9D6FB2",
+            "name": "币种",
+            "rect": {
+                "x": 16,
+                "y": 375,
+                "width": 84,
+                "height": 182
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "384CD3C1-B926-4BE5-92AA-683843C273DE",
+            "name": "义乌市隆多饰品厂",
+            "rect": {
+                "x": 112,
+                "y": 374,
+                "width": 133,
+                "height": 85
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2C57BC25-B2CF-48DE-B1C9-CC4860EE2F20",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 612,
+                "width": 375,
+                "height": 170
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B31284D6-F24E-4BC4-9D7E-BD2F14C8B83C",
+            "name": "产品及开票人信息",
+            "rect": {
+                "x": 12,
+                "y": 596,
+                "width": 96,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "822796FD-C81F-4478-9BDD-8086EFBCAD6C",
+            "name": "币种",
+            "rect": {
+                "x": 16,
+                "y": 631,
+                "width": 84,
+                "height": 151
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3582862B-1749-4543-989F-8C3EE5663A98",
+            "name": "义乌市隆多饰品厂",
+            "rect": {
+                "x": 112,
+                "y": 630,
+                "width": 133,
+                "height": 85
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 782,
+    "layer_width": 64,
+    "layer_height": 64
+}

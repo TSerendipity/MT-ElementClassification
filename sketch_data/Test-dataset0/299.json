@@ -1,0 +1,782 @@
+{
+    "layers": [
+        {
+            "id": "D5A53A7A-AE50-40E1-8BBF-A9018535FA3F",
+            "name": "背景",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1125,
+                "height": 2463
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5CB18BA4-C234-4D8B-84E8-0FFF485D95C7",
+            "name": "借呗世界杯奖品公布",
+            "rect": {
+                "x": 0,
+                "y": 13,
+                "width": 1125,
+                "height": 2436
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B8B60415-A995-48EE-B88D-ACC835B1ADDB",
+            "name": "表情",
+            "rect": {
+                "x": 276,
+                "y": 1076,
+                "width": 580,
+                "height": 580
+            },
+            "_class": "bitmap",
+            "label": 1,
+            "color": [
+                0.14509805,
+                0.8901961,
+                0.92156863,
+                1
+            ]
+        },
+        {
+            "id": "EA306DCF-562F-48CE-9803-2536A69051C9",
+            "name": "表情",
+            "rect": {
+                "x": 342,
+                "y": 1125,
+                "width": 440,
+                "height": 440
+            },
+            "_class": "bitmap",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FE264E24-429D-47BB-9376-8A4F0D33E83D",
+            "name": "小遗憾",
+            "rect": {
+                "x": 462,
+                "y": 776,
+                "width": 188,
+                "height": 60
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B94F0BF1-BBD5-457C-95BB-794D2533BCA3",
+            "name": "您未能挤进前100万名",
+            "rect": {
+                "x": 337,
+                "y": 901,
+                "width": 453,
+                "height": 45
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AF70E1D1-A3A1-42D9-9E24-A5140E7E983D",
+            "name": "Path",
+            "rect": {
+                "x": 221,
+                "y": 1719,
+                "width": 682,
+                "height": 170
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "26BFC347-D1EF-4C51-B54C-10C95793FB66",
+            "name": "返回借呗首页",
+            "rect": {
+                "x": 414,
+                "y": 1762,
+                "width": 296,
+                "height": 48
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1E4B46F7-169C-4110-9FB2-6AB8BB3BB0EA",
+            "name": "状态栏",
+            "rect": {
+                "x": 30,
+                "y": 40,
+                "width": 1038,
+                "height": 173
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "738C3EA3-9292-46FF-8D53-F73A2A5B65EB",
+            "name": "Oval 3",
+            "rect": {
+                "x": 471,
+                "y": 183,
+                "width": 184,
+                "height": 195
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6D8023D7-C15D-43D9-9B09-99E36AE72217",
+            "name": "Triangle",
+            "rect": {
+                "x": 471,
+                "y": 183,
+                "width": 184,
+                "height": 195
+            },
+            "_class": "triangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CBCFF6FF-6FB9-44D7-8E21-7FDBCB15BB7D",
+            "name": "Path",
+            "rect": {
+                "x": 477,
+                "y": 189,
+                "width": 171,
+                "height": 171
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "ADAF55A3-3629-4BBE-B6A5-894CCA5A3E22",
+            "name": "头像框",
+            "rect": {
+                "x": 477,
+                "y": 189,
+                "width": 171,
+                "height": 171
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A179E50B-FD62-4B3A-8ED0-D82AE23BA2E6",
+            "name": "Path",
+            "rect": {
+                "x": 184,
+                "y": 390,
+                "width": 758,
+                "height": 94
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CCCE2047-8598-47F5-8919-A32902CED553",
+            "name": "我的幸运数字：500003129",
+            "rect": {
+                "x": 303,
+                "y": 411,
+                "width": 606,
+                "height": 48
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "02D35352-DA53-4E2F-BA5C-18B2894068F4",
+            "name": "Rectangle 9",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "847E742A-2F9E-42B1-9958-4B7478AB8F60",
+            "name": "Oval",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D8723FF4-8154-43B9-9D67-AD2D6C2CFFA1",
+            "name": "Oval",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AE45DDFE-DE6E-41AA-917B-34CCF712C0BD",
+            "name": "Oval",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BB542300-E720-4609-BFBD-75BF3873D6F4",
+            "name": "Oval",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "10285841-77CA-4BE1-B744-43AB590F1401",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E67B72C6-25BE-4650-84A8-E9E3133C1412",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "17017960-9449-4A5D-A84F-E9D9C4B09153",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2055EC78-6264-4036-9500-FB11ADF1BB8E",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "06A07113-4F5F-4DA3-A63B-BAD9A7706900",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BE5C658C-8389-47FB-869A-07DF65E78797",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B910AE7F-A86A-48B5-A6BE-65626EF6AB24",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D3065DE1-5AD9-424A-9D3C-CD9FE5607D8B",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 417,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "02C0A6A9-595D-444F-A5CF-E5D401ECB13A",
+            "name": "Rectangle 9",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C90DB984-209A-4EA0-B1E3-6EDD94FBE33B",
+            "name": "Oval",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "09B6AF7A-EEB5-4283-9159-3169F7A2060A",
+            "name": "Oval",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "844876FF-DB90-43D2-9BE1-2F0149656A90",
+            "name": "Oval",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E430B525-9EE3-4AEA-8BFB-75B4173C8FE6",
+            "name": "Oval",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9125C5B1-4342-4C1E-B52B-893F4EA86E84",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1D8D2C4F-EEC3-4A5C-BB0F-3CF8D8F49932",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "26F5EC24-6DAE-4A66-AE26-27C579545E4F",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "146DF747-B3FF-4936-96C6-C0B5BCD7D66D",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1461A0C0-4B2E-430E-BEE8-9E4EC5212A5C",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "83CD7D89-AE07-4373-BC8D-522A753A9F51",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "421BBAB3-8635-4B0D-9A3F-181A51C3A21A",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DFF2E4BF-FDD9-4FD6-8F98-6CC227A5125F",
+            "name": "Oval 2",
+            "rect": {
+                "x": 222,
+                "y": 415,
+                "width": 66,
+                "height": 40
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9105C462-C078-49E8-87A9-869C57757059",
+            "name": "Path",
+            "rect": {
+                "x": 229,
+                "y": 421,
+                "width": 52,
+                "height": 29
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7E4941F2-315A-4F14-AC8D-39193010F5DD",
+            "name": "Path",
+            "rect": {
+                "x": 243,
+                "y": 424,
+                "width": 23,
+                "height": 22
+            },
+            "_class": "star",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 1125,
+    "height": 2463,
+    "layer_width": 64,
+    "layer_height": 64
+}

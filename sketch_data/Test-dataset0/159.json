@@ -1,0 +1,548 @@
+{
+    "layers": [
+        {
+            "id": "433BD3BA-94F2-4E0F-82C8-D3E14848007E",
+            "name": "溯 源 码",
+            "rect": {
+                "x": 22,
+                "y": 526,
+                "width": 12,
+                "height": 43
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6114F6CC-BC02-4DF6-93B7-8508622BA7BA",
+            "name": "Mask",
+            "rect": {
+                "x": 37,
+                "y": 527,
+                "width": 42,
+                "height": 42
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "7CDE1579-1908-4A51-AA48-408EF7D6F662",
+            "name": "粘贴图片",
+            "rect": {
+                "x": 37,
+                "y": 527,
+                "width": 42,
+                "height": 42
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "52734C24-995D-485E-A5D2-35C28E55FA26",
+            "name": "监督电话:4008288477",
+            "rect": {
+                "x": 85,
+                "y": 525,
+                "width": 102,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "99480A71-61FC-42C8-BE09-DD92870BB93D",
+            "name": "举报电话:12358",
+            "rect": {
+                "x": 85,
+                "y": 536,
+                "width": 71,
+                "height": 10
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "633CE0C2-765D-46E3-AA3F-FC1C0D220ECE",
+            "name": "编码:020100101930 3/4/",
+            "rect": {
+                "x": 85,
+                "y": 548,
+                "width": 130,
+                "height": 10
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "71BEEAEF-5FDB-4F86-8695-093A2CEC6352",
+            "name": "支持生鲜盒包",
+            "rect": {
+                "x": 85,
+                "y": 559,
+                "width": 60,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DAD98600-B51D-4199-ACA0-3B6FD99A555A",
+            "name": "Bitmap",
+            "rect": {
+                "x": 256,
+                "y": 528,
+                "width": 118,
+                "height": 42
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "326D83A2-3795-462C-8E37-F2D8E7970636",
+            "name": "6925257420248",
+            "rect": {
+                "x": 288,
+                "y": 573,
+                "width": 85,
+                "height": 10
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "51300DE1-2766-4253-B575-74DE19269625",
+            "name": "扫码领取盒马X权益",
+            "rect": {
+                "x": 278,
+                "y": 513,
+                "width": 95,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2A1FC055-252C-4D39-836A-7F24E4C56923",
+            "name": "1100.",
+            "rect": {
+                "x": 28,
+                "y": 183,
+                "width": 233,
+                "height": 78
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E0BF6306-1B06-43C7-AE69-DF957AACE70E",
+            "name": "¥",
+            "rect": {
+                "x": 23,
+                "y": 176,
+                "width": 25,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "80AF05B5-D33A-495D-BD25-A4903DA0677D",
+            "name": "/只",
+            "rect": {
+                "x": 271,
+                "y": 241,
+                "width": 34,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9B8C4F4A-5548-4D57-8088-76C558A0CB32",
+            "name": "00",
+            "rect": {
+                "x": 268,
+                "y": 183,
+                "width": 67,
+                "height": 43
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5E3ACF72-9CC8-412B-B54B-CC648660AB14",
+            "name": "规格:1500克",
+            "rect": {
+                "x": 89,
+                "y": 77,
+                "width": 60,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "ED6F08D1-A881-4573-A5C0-33FBB7F60FC5",
+            "name": "等级:合格",
+            "rect": {
+                "x": 23,
+                "y": 77,
+                "width": 47,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "87D1EF4B-5DED-4BBF-A5C3-BD37EAAA95CD",
+            "name": "产地:澳大利亚",
+            "rect": {
+                "x": 164,
+                "y": 77,
+                "width": 69,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6E55B040-E464-4874-AA44-E80E16068E01",
+            "name": "澳洲深海帝王蟹澳洲",
+            "rect": {
+                "x": 24,
+                "y": 22,
+                "width": 321,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "07CDE533-425A-47D4-A287-937DD0A400DB",
+            "name": "热带水果_海南树熟木瓜约600g个(1)",
+            "rect": {
+                "x": 180,
+                "y": 338,
+                "width": 160,
+                "height": 116
+            },
+            "_class": "bitmap",
+            "label": 0,
+            "color": [
+                1,
+                0.011764706,
+                0.011764706,
+                0.078431375
+            ]
+        },
+        {
+            "id": "A581AE1C-9910-49BB-9AC4-47169FA4FD83",
+            "name": "APP下单24小时配送",
+            "rect": {
+                "x": 270,
+                "y": 482,
+                "width": 101,
+                "height": 12
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "192B4A82-FED9-4182-9176-B14D87A8521E",
+            "name": "Path",
+            "rect": {
+                "x": 254,
+                "y": 482,
+                "width": 13,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "ADC2E4A8-34F3-42EA-A891-AE2972342351",
+            "name": "Path",
+            "rect": {
+                "x": 254,
+                "y": 482,
+                "width": 13,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "D9320860-04AD-4AE6-8750-7135E4FCF551",
+            "name": "Rectangle",
+            "rect": {
+                "x": 23,
+                "y": 348,
+                "width": 109,
+                "height": 27
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84313726,
+                0.84313726,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "8AE13292-9A1A-471B-828D-56FB08EB26CE",
+            "name": "Rectangle Copy",
+            "rect": {
+                "x": 23,
+                "y": 392,
+                "width": 109,
+                "height": 27
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84313726,
+                0.84313726,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "45CCCD25-7DE5-4A6C-93E8-6B911197C0E2",
+            "name": "商品卖点1",
+            "rect": {
+                "x": 39,
+                "y": 353,
+                "width": 77,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "37F40F27-DF00-458F-B3C6-223D692A4A4A",
+            "name": "商品卖点1 copy",
+            "rect": {
+                "x": 39,
+                "y": 397,
+                "width": 77,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "40842C43-EE11-4D0B-8A04-F6E44F199087",
+            "name": "Rectangle Copy 2",
+            "rect": {
+                "x": 23,
+                "y": 436,
+                "width": 109,
+                "height": 27
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84313726,
+                0.84313726,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "E91D53AD-4D96-424E-816A-A04D92B0A014",
+            "name": "商品卖点1 copy 2",
+            "rect": {
+                "x": 39,
+                "y": 441,
+                "width": 77,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AE11EC46-ED90-4809-AD93-36B42AFA0D88",
+            "name": "Rectangle Copy 3",
+            "rect": {
+                "x": 23,
+                "y": 480,
+                "width": 109,
+                "height": 27
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84313726,
+                0.84313726,
+                0.84313726,
+                1
+            ]
+        },
+        {
+            "id": "4186EF7F-5995-47E0-A69C-01B492D5AA26",
+            "name": "商品卖点1 copy 3",
+            "rect": {
+                "x": 39,
+                "y": 485,
+                "width": 77,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 384,
+    "height": 588,
+    "layer_width": 64,
+    "layer_height": 64
+}

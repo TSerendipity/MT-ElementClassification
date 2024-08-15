@@ -1,0 +1,782 @@
+{
+    "layers": [
+        {
+            "id": "C38F64B9-1079-4928-A72C-49C0BEA6EF2C",
+            "name": "红包编号：201620610643434",
+            "rect": {
+                "x": 115,
+                "y": 1289,
+                "width": 520,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "461435BB-AC44-4CEA-BCD5-14247BED7F09",
+            "name": "Rectangle 12",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 507
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "2BEDB4C7-D02B-4C48-A6AF-9F29AC44B298",
+            "name": "Divider Bottom",
+            "rect": {
+                "x": 0,
+                "y": 572,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9411765,
+                0.92941177,
+                0.9098039,
+                1
+            ]
+        },
+        {
+            "id": "56C53751-700A-4F7C-814D-E4E6E43F7E2B",
+            "name": "10毫克黄金红包正在确认中",
+            "rect": {
+                "x": 31,
+                "y": 525,
+                "width": 333,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "40198E9C-188F-4C76-A436-B2B472BBEF8A",
+            "name": "Rectangle 157",
+            "rect": {
+                "x": 0,
+                "y": 506,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.9411765,
+                0.92941177,
+                0.9098039,
+                1
+            ]
+        },
+        {
+            "id": "DE66BB37-82F6-4471-856E-CF8D55778BE3",
+            "name": "恭喜发财，日进斗金",
+            "rect": {
+                "x": 259,
+                "y": 398,
+                "width": 232,
+                "height": 27
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B897DB93-A6FB-4F28-A40C-DA5BE1D2819E",
+            "name": "铭兮",
+            "rect": {
+                "x": 342,
+                "y": 348,
+                "width": 66,
+                "height": 32
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1C935E80-59B6-4B8E-B843-5BBF76B1975F",
+            "name": "Oval 89 Copy 2",
+            "rect": {
+                "x": 30,
+                "y": 1433,
+                "width": 80,
+                "height": 80
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "822AE269-16A4-43B3-B617-B4E8568FB11A",
+            "name": "Combined Shape",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 270
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.87058824,
+                0.74509805,
+                0.41568628,
+                1
+            ]
+        },
+        {
+            "id": "97072710-EB5A-4C84-B899-3B1BCC4426D6",
+            "name": "Oval 147 Copy",
+            "rect": {
+                "x": 300,
+                "y": 170,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "A743DAE6-540B-4C78-8659-37EF8FEA6EAF",
+            "name": "Rectangle 5 Copy",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 128
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.8666667,
+                0.34901962,
+                0.3019608,
+                1
+            ]
+        },
+        {
+            "id": "908706AA-FB0A-4955-A1B6-A23A235B88E6",
+            "name": "Oval 152",
+            "rect": {
+                "x": 16,
+                "y": 15,
+                "width": 10,
+                "height": 11
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "4D8C60B2-50C6-4322-81F3-D55DEC5AB838",
+            "name": "Oval 152 Copy",
+            "rect": {
+                "x": 30,
+                "y": 15,
+                "width": 10,
+                "height": 11
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "C54377D6-11C9-47B0-82C8-CAAC8941FC71",
+            "name": "Oval 152 Copy 2",
+            "rect": {
+                "x": 44,
+                "y": 15,
+                "width": 11,
+                "height": 11
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "1C04F463-F751-4B72-BA33-7253D529DDA8",
+            "name": "Oval 152 Copy 3",
+            "rect": {
+                "x": 58,
+                "y": 15,
+                "width": 11,
+                "height": 11
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "447B5A90-D48D-4EA2-A3E5-EEF5CAC10878",
+            "name": "Oval 152 Copy 4",
+            "rect": {
+                "x": 72,
+                "y": 15,
+                "width": 11,
+                "height": 11
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "54E28EF3-319F-44A1-92B4-CCF9595FE032",
+            "name": "中国移动",
+            "rect": {
+                "x": 93,
+                "y": 10,
+                "width": 88,
+                "height": 22
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D2973A71-0374-405B-9189-897D805BEE37",
+            "name": "6:00 ",
+            "rect": {
+                "x": 360,
+                "y": 11,
+                "width": 47,
+                "height": 18
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D0536A0E-9BAF-41C6-AAFF-D05537205F91",
+            "name": "100%",
+            "rect": {
+                "x": 647,
+                "y": 12,
+                "width": 35,
+                "height": 50
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5ECA60D0-7DAC-40A0-8965-3222F92FE5F0",
+            "name": "Path",
+            "rect": {
+                "x": 206,
+                "y": 23,
+                "width": 9,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "5FC80006-B0DD-4D8E-9EB9-87CE92ABFB88",
+            "name": "Path 914 Copy",
+            "rect": {
+                "x": 206,
+                "y": 23,
+                "width": 9,
+                "height": 7
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "5B22B952-739C-453F-862A-24258636BC28",
+            "name": "Path",
+            "rect": {
+                "x": 202,
+                "y": 16,
+                "width": 17,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "63548C87-D4BE-4656-81AE-704A177DD427",
+            "name": "Oval 157 Copy 2",
+            "rect": {
+                "x": 202,
+                "y": 16,
+                "width": 17,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "96B25E8A-8CE6-48D8-B8EA-7FB7B5247949",
+            "name": "Path 914",
+            "rect": {
+                "x": 202,
+                "y": 16,
+                "width": 17,
+                "height": 7
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "47E4693B-1418-4FA1-8B7F-D1F1BAC27B22",
+            "name": "Path",
+            "rect": {
+                "x": 198,
+                "y": 11,
+                "width": 24,
+                "height": 8
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "138BF1D8-308F-4DB8-84FE-5718E62BB74F",
+            "name": "Path Copy 2",
+            "rect": {
+                "x": 198,
+                "y": 11,
+                "width": 24,
+                "height": 8
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "1A52B6BA-CA24-4706-A572-737E6D96446B",
+            "name": "Path 914",
+            "rect": {
+                "x": 198,
+                "y": 11,
+                "width": 24,
+                "height": 8
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "B634BDAE-E8D9-4EB0-A2B5-C89B8295EA43",
+            "name": "Rectangle 499",
+            "rect": {
+                "x": 694,
+                "y": 11,
+                "width": 41,
+                "height": 18
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        },
+        {
+            "id": "2B40D646-90A9-4FDF-BCD6-A21A78474CC3",
+            "name": "Rectangle 499 Copy",
+            "rect": {
+                "x": 696,
+                "y": 13,
+                "width": 37,
+                "height": 14
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "F9B969CD-CB37-4BA0-B483-3869F516C695",
+            "name": "Oval 162",
+            "rect": {
+                "x": 736,
+                "y": 16,
+                "width": 3,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "3A8A5F62-736B-4BE3-A410-BD6747672B05",
+            "name": "黄金红包",
+            "rect": {
+                "x": 304,
+                "y": 66,
+                "width": 141,
+                "height": 34
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8EBD97C0-7550-430D-8A6C-BEBA8E6D2585",
+            "name": "Oval 155",
+            "rect": {
+                "x": 672,
+                "y": 80,
+                "width": 8,
+                "height": 8
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "682A306C-23EC-4BC9-BEC2-84A23B796215",
+            "name": "Oval 155",
+            "rect": {
+                "x": 692,
+                "y": 80,
+                "width": 8,
+                "height": 8
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "907ED9F5-B3D3-4637-8F46-82D2F02988AE",
+            "name": "Oval 155",
+            "rect": {
+                "x": 712,
+                "y": 80,
+                "width": 8,
+                "height": 8
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "ADB0570E-F1CB-489B-985F-A4E6A0D161DE",
+            "name": "bg",
+            "rect": {
+                "x": 674,
+                "y": 62,
+                "width": 44,
+                "height": 44
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0.6666667,
+                0.93333334,
+                0
+            ]
+        },
+        {
+            "id": "92DD2D37-1EBC-45EE-B9F7-4BB823CAD929",
+            "name": "Path",
+            "rect": {
+                "x": 676,
+                "y": 64,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "35A22478-5554-4C6E-B8A2-A9661A7E4230",
+            "name": "Path",
+            "rect": {
+                "x": 676,
+                "y": 64,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "32555C6A-D9F5-4138-8353-3A5EFD1F4684",
+            "name": "Fill 3",
+            "rect": {
+                "x": 694,
+                "y": 92,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "0310D27A-76A2-47D7-952A-AE11E37D507F",
+            "name": "Fill 2",
+            "rect": {
+                "x": 689,
+                "y": 72,
+                "width": 14,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "517A508D-A248-4177-B435-06B27BE902CD",
+            "name": "规则",
+            "rect": {
+                "x": 656,
+                "y": 62,
+                "width": 64,
+                "height": 42
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1795476B-DD4A-4A6D-8651-018C4B606359",
+            "name": "返回",
+            "rect": {
+                "x": 57,
+                "y": 69,
+                "width": 60,
+                "height": 30
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FBFDEF90-23D2-4F8F-B41C-FEEDA601065C",
+            "name": "完成",
+            "rect": {
+                "x": 656,
+                "y": 62,
+                "width": 64,
+                "height": 39
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "71552CAB-550A-4CFA-BCD0-578512CA5A0C",
+            "name": "Path 10",
+            "rect": {
+                "x": 28,
+                "y": 67,
+                "width": 20,
+                "height": 34
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0.84705883,
+                0.84705883,
+                0.84705883,
+                1
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

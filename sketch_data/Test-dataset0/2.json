@@ -1,0 +1,710 @@
+{
+    "layers": [
+        {
+            "id": "98F23D4B-42D8-4C7B-8B65-EF888C88F695",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 168
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "646C4708-CF1A-4B58-A724-28B1A4B50D07",
+            "name": "Weekend Plan",
+            "rect": {
+                "x": 8,
+                "y": 451,
+                "width": 367,
+                "height": 66
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6FEC884A-3523-4441-99A6-1E2134AB475D",
+            "name": "Miles Thompson",
+            "rect": {
+                "x": 8,
+                "y": 299,
+                "width": 367,
+                "height": 67
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C9DB5ACE-66FB-4D0E-B1DB-1B13BB17C458",
+            "name": "Amanda James",
+            "rect": {
+                "x": 8,
+                "y": 375,
+                "width": 367,
+                "height": 67
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AE48B8EA-1C4E-4B66-8DF1-851D5F48989E",
+            "name": "Steve Rodriguez",
+            "rect": {
+                "x": 8,
+                "y": 223,
+                "width": 367,
+                "height": 67
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0B015980-27BF-46EB-9F21-8571199C6955",
+            "name": "Grace Teresa",
+            "rect": {
+                "x": 8,
+                "y": 527,
+                "width": 367,
+                "height": 67
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A1503F93-0F29-4568-84E1-D8E8933F6329",
+            "name": "Holly Bethford",
+            "rect": {
+                "x": 8,
+                "y": 603,
+                "width": 352,
+                "height": 56
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "77789FC4-7116-4A4C-98AC-16F2CE13030F",
+            "name": "Broadcast Lists",
+            "rect": {
+                "x": 10,
+                "y": 183,
+                "width": 108,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BB9B0C06-828B-4F7B-843A-A58DE6B24965",
+            "name": "New Group",
+            "rect": {
+                "x": 281,
+                "y": 182,
+                "width": 79,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "17AEC00C-7455-47B5-AB69-7C6A5D0BC239",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 167,
+                "width": 375,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9D104113-2F9A-4A49-B99E-7519E3A14D64",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 212,
+                "width": 375,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A29D47F1-6185-4F7F-88D3-9D1E7E1A6C2F",
+            "name": "Bars/Search/Search Bar",
+            "rect": {
+                "x": 17,
+                "y": 117,
+                "width": 343,
+                "height": 36
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "20DDDA0E-8C06-471B-B9C3-830DFB917D62",
+            "name": "Chats",
+            "rect": {
+                "x": 17,
+                "y": 78,
+                "width": 78,
+                "height": 24
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "71287484-C6A4-4758-BABA-8AD6CE75CD55",
+            "name": "Path",
+            "rect": {
+                "x": 336,
+                "y": 32,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "10937106-E2EC-4E99-BC07-5565F3E32747",
+            "name": "Rectangle 44",
+            "rect": {
+                "x": 336,
+                "y": 32,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3C77D0B4-878D-4428-9FE9-BA130375591C",
+            "name": "Rectangle 46",
+            "rect": {
+                "x": 336,
+                "y": 32,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DFE5B21B-7F21-4252-9098-6A404C951A73",
+            "name": "Path",
+            "rect": {
+                "x": 344,
+                "y": 30,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C882DF58-3030-4D7E-B26D-6793C42BFA2E",
+            "name": "Rectangle 47",
+            "rect": {
+                "x": 344,
+                "y": 30,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4B3A66FD-3CE8-4BB5-B7F6-DA0094EF075B",
+            "name": "Path",
+            "rect": {
+                "x": 355,
+                "y": 28,
+                "width": 5,
+                "height": 5
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7577DF2F-D629-441E-8CAB-ABB54B3AD046",
+            "name": "Edit",
+            "rect": {
+                "x": 17,
+                "y": 35,
+                "width": 26,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FC5D6FE7-43EF-44C7-B8DA-132351CDEEDA",
+            "name": "Path",
+            "rect": {
+                "x": 345,
+                "y": 5,
+                "width": 22,
+                "height": 11
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2DE2A0B0-0975-40AF-9791-520ADB8E6FFA",
+            "name": "Oval 2",
+            "rect": {
+                "x": 368,
+                "y": 8,
+                "width": 2,
+                "height": 5
+            },
+            "_class": "oval",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "93DF31AF-3A45-48D3-8817-EB36DE8F1D72",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 368,
+                "y": 8,
+                "width": 2,
+                "height": 5
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2AE283C4-9EC8-424B-8C05-C148AA919B5D",
+            "name": "Path",
+            "rect": {
+                "x": 347,
+                "y": 7,
+                "width": 18,
+                "height": 7
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F08D2C2D-CD51-405B-BC55-E85997EFB425",
+            "name": "100%",
+            "rect": {
+                "x": 310,
+                "y": 6,
+                "width": 31,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4D0553FD-729B-4579-902B-FF58360FDA07",
+            "name": "Path",
+            "rect": {
+                "x": 301,
+                "y": 3,
+                "width": 8,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F1EF24B9-F5DD-4553-B529-881248104BF5",
+            "name": "Path",
+            "rect": {
+                "x": 301,
+                "y": 3,
+                "width": 8,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3AAFDB9A-E23E-4949-B0D8-227E8BAFF6E7",
+            "name": "Path",
+            "rect": {
+                "x": 301,
+                "y": 3,
+                "width": 8,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "014860BB-04F7-4BD0-A0AC-B841F410A5B7",
+            "name": "Time",
+            "rect": {
+                "x": 174,
+                "y": 6,
+                "width": 24,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B9C06981-1642-4800-9A1F-5B72DAA4C1E8",
+            "name": "Bottom",
+            "rect": {
+                "x": 68,
+                "y": 5,
+                "width": 14,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "68E01FF4-F31F-41D8-A256-0590E68F6EB6",
+            "name": "Middle",
+            "rect": {
+                "x": 68,
+                "y": 5,
+                "width": 14,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FF96618B-21FD-4F06-AC72-EFBB309CFEDC",
+            "name": "Top",
+            "rect": {
+                "x": 68,
+                "y": 5,
+                "width": 14,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "21A3AB3F-071F-405A-83EB-5F2AF5B78001",
+            "name": "Carrier",
+            "rect": {
+                "x": 25,
+                "y": 5,
+                "width": 39,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5A50AEB9-B2FD-4569-8916-10BD0044C474",
+            "name": "Path",
+            "rect": {
+                "x": 6,
+                "y": 5,
+                "width": 15,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "379E846C-C18F-4CB7-B806-9A1514BF3E9F",
+            "name": "Path",
+            "rect": {
+                "x": 6,
+                "y": 5,
+                "width": 15,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "519D1645-9195-4290-8EE9-2AC2FFF8D5E1",
+            "name": "Path",
+            "rect": {
+                "x": 6,
+                "y": 5,
+                "width": 15,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "66DDE610-F802-45B0-A109-A1A8A62DEF6D",
+            "name": "Path",
+            "rect": {
+                "x": 6,
+                "y": 5,
+                "width": 15,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EA5B13A7-AC1F-4F43-98B7-65A41AFC5037",
+            "name": "Path",
+            "rect": {
+                "x": 424,
+                "y": 63,
+                "width": 377,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5F0B4EFE-7BBD-43DE-B312-CBCA4B8278E4",
+            "name": "nav bar rectangle",
+            "rect": {
+                "x": 0,
+                "y": 617,
+                "width": 375,
+                "height": 50
+            },
+            "_class": "symbolInstance",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

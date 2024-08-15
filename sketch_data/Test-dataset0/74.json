@@ -1,0 +1,1124 @@
+{
+    "layers": [
+        {
+            "id": "720929CF-B441-4BC5-9C64-CD24E7C27E65",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 667
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C68EEE39-D5C1-404D-B7F2-339F884CF84E",
+            "name": "Path",
+            "rect": {
+                "x": 8,
+                "y": 81,
+                "width": 359,
+                "height": 167
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CEC44C5F-1582-4BBB-AECA-323897C9842D",
+            "name": "订单号: 65436875486",
+            "rect": {
+                "x": 237,
+                "y": 225,
+                "width": 121,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "56FD428C-A281-468B-9E42-3D3934459609",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 215,
+                "width": 344,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CB840BB6-B4DD-4583-A57F-4000B25B0745",
+            "name": "出发\\到达：黄冈口岸 - 美国",
+            "rect": {
+                "x": 17,
+                "y": 137,
+                "width": 177,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "17B52046-576C-42FE-A2D7-52B285DCF2F4",
+            "name": "Path",
+            "rect": {
+                "x": 8,
+                "y": 81,
+                "width": 359,
+                "height": 41
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0F24028D-7691-4FF0-8817-545131AF037D",
+            "name": "2016-06-01",
+            "rect": {
+                "x": 302,
+                "y": 98,
+                "width": 55,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F688DC2D-333F-4EEC-A778-B6781305C2B1",
+            "name": "正在通关处理",
+            "rect": {
+                "x": 16,
+                "y": 95,
+                "width": 84,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AAB2B2F9-2B19-46AB-A286-22B5B83D5E48",
+            "name": "产品件数：  3000件",
+            "rect": {
+                "x": 16,
+                "y": 161,
+                "width": 127,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "EABD0FC5-720F-49B1-8B9B-3AB9BFA6F18D",
+            "name": "总货值：     300,000 USD",
+            "rect": {
+                "x": 16,
+                "y": 185,
+                "width": 166,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "71E07447-15ED-4FD8-A6E6-6D9FC2693D6F",
+            "name": "Path",
+            "rect": {
+                "x": 8,
+                "y": 256,
+                "width": 359,
+                "height": 167
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "45CF941F-C962-4BCC-88CB-8F41F0504E19",
+            "name": "订单号: 65436875486",
+            "rect": {
+                "x": 237,
+                "y": 400,
+                "width": 121,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "915B9577-D0CB-4627-A993-00BFA2ED626F",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 390,
+                "width": 344,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FAC240D7-4029-48E5-B6B4-74DD68062A59",
+            "name": "出发\\到达：黄冈口岸 - 美国",
+            "rect": {
+                "x": 17,
+                "y": 312,
+                "width": 177,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1C2F35A6-883A-4F3B-B197-9081E3FD7E39",
+            "name": "Path",
+            "rect": {
+                "x": 8,
+                "y": 256,
+                "width": 359,
+                "height": 41
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "81EE0474-F1A9-4E9B-85A2-94A9C6C0DAD5",
+            "name": "2016-06-01",
+            "rect": {
+                "x": 302,
+                "y": 273,
+                "width": 55,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "845A11A8-2CE0-4153-B865-0E25D91AA2DC",
+            "name": "正在通关处理",
+            "rect": {
+                "x": 16,
+                "y": 270,
+                "width": 84,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "16FE9BD8-7C9C-4B6B-AC47-9E064D60CDFF",
+            "name": "产品件数：  3000件",
+            "rect": {
+                "x": 16,
+                "y": 336,
+                "width": 127,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2066B8E3-BED3-479F-A420-19B9FE63BCE0",
+            "name": "总货值：     300,000 USD",
+            "rect": {
+                "x": 16,
+                "y": 360,
+                "width": 166,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BD8E88B1-87CF-4A52-8B0C-57EB22D4A94E",
+            "name": "Path",
+            "rect": {
+                "x": 8,
+                "y": 431,
+                "width": 359,
+                "height": 167
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "11D5E9F4-6557-4655-8794-94A0A8C39A73",
+            "name": "订单号: 65436875486",
+            "rect": {
+                "x": 237,
+                "y": 575,
+                "width": 121,
+                "height": 13
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "106204FD-D760-44EF-B9A5-A8472EFB928F",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 565,
+                "width": 344,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9FDC1184-DA79-4B8E-8461-A047437EEAFC",
+            "name": "出发\\到达：黄冈口岸 - 美国",
+            "rect": {
+                "x": 17,
+                "y": 487,
+                "width": 177,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5DB2C44A-37A4-4E61-A9B3-1039CEEA1D45",
+            "name": "Path",
+            "rect": {
+                "x": 8,
+                "y": 431,
+                "width": 359,
+                "height": 41
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "DDD70C61-D5F6-4985-85CB-4F04091A476B",
+            "name": "2016-06-01",
+            "rect": {
+                "x": 302,
+                "y": 448,
+                "width": 55,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4B23840C-0E39-46E4-9B4A-62167B8F9037",
+            "name": "正在通关处理",
+            "rect": {
+                "x": 16,
+                "y": 445,
+                "width": 84,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8B69B35D-7586-4AA7-BA34-54497E646F1C",
+            "name": "产品件数：  3000件",
+            "rect": {
+                "x": 16,
+                "y": 511,
+                "width": 127,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6736F711-C741-41C4-BA3D-72BD80C37F54",
+            "name": "总货值：     300,000 USD",
+            "rect": {
+                "x": 16,
+                "y": 535,
+                "width": 166,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "076C3288-A614-4FAA-A6A1-461C7B390AB6",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 65
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "44967DFF-0D57-442A-8BA9-08F0BFB8B72B",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C7ACE8B8-F4CE-4110-879A-E625F5C26F7E",
+            "name": "1",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "7307ACE1-4207-44C3-8909-2F3CFBAC1402",
+            "name": "2",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5DEC3A01-2D74-4DAD-9166-18A09CC4111C",
+            "name": "3",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2C7346B1-D270-464F-AEFE-99D9D66192F9",
+            "name": "4",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "86FF1009-15A5-4394-8418-18C939E397B2",
+            "name": "4 Subtraction",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B9A545CC-68DE-45A4-AF3A-2461FB8D6306",
+            "name": "5",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FEAFED6D-AE4E-4DC8-8F01-3006AF299042",
+            "name": "5 Subtraction",
+            "rect": {
+                "x": 5,
+                "y": 8,
+                "width": 37,
+                "height": 7
+            },
+            "_class": "oval",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AEFCEC05-C200-48DC-874B-6020643360F5",
+            "name": "Bottom",
+            "rect": {
+                "x": 94,
+                "y": 6,
+                "width": 15,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "70EDA66D-781F-483F-B43E-E9F19A87A7AB",
+            "name": "Middle",
+            "rect": {
+                "x": 94,
+                "y": 6,
+                "width": 15,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A4FB247E-4F70-4CE4-A10E-592D92D2038C",
+            "name": "Top",
+            "rect": {
+                "x": 94,
+                "y": 6,
+                "width": 15,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "59E91E00-EE10-4838-8CF5-5A4042D96872",
+            "name": "9:41 AM",
+            "rect": {
+                "x": 164,
+                "y": 8,
+                "width": 47,
+                "height": 10
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B096ADD1-5A25-4B17-B088-C08DEE17701F",
+            "name": "Alibaba",
+            "rect": {
+                "x": 48,
+                "y": 6,
+                "width": 41,
+                "height": 10
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8E064CCC-1DCC-4296-A642-C674A077A6BF",
+            "name": "100%",
+            "rect": {
+                "x": 304,
+                "y": 5,
+                "width": 33,
+                "height": 11
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "479F67F7-F4AE-4FA7-9856-CAA74634B1C5",
+            "name": "Border",
+            "rect": {
+                "x": 343,
+                "y": 5,
+                "width": 27,
+                "height": 11
+            },
+            "_class": "rectangle",
+            "label": 1,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "1A6E2A74-9D89-4002-9605-E9FF0A9A6125",
+            "name": "Cap",
+            "rect": {
+                "x": 343,
+                "y": 5,
+                "width": 27,
+                "height": 11
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "BD5F1B93-8DE1-4661-A408-B36EB317BE88",
+            "name": "Border Subtraction",
+            "rect": {
+                "x": 343,
+                "y": 5,
+                "width": 27,
+                "height": 11
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8C165C2A-6CBD-4789-9654-44F92E46FA4B",
+            "name": "Battery Level",
+            "rect": {
+                "x": 343,
+                "y": 5,
+                "width": 27,
+                "height": 11
+            },
+            "_class": "rectangle",
+            "label": 2,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "23027242-ABE0-4A06-8979-800E65324654",
+            "name": "一达通订单",
+            "rect": {
+                "x": 146,
+                "y": 34,
+                "width": 85,
+                "height": 16
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "5A07CEE0-A047-49A8-A60D-75428F027287",
+            "name": "Path",
+            "rect": {
+                "x": 235,
+                "y": 38,
+                "width": 14,
+                "height": 9
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F8560C9C-C7A7-4203-98C1-FF6D1BFAFB0B",
+            "name": "Path",
+            "rect": {
+                "x": 12,
+                "y": 27,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E13F49E5-7B0F-46E5-B24A-9544E9A180D3",
+            "name": "Path",
+            "rect": {
+                "x": 17,
+                "y": 33,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AC6F203B-5B76-4834-B424-04BB133F14B7",
+            "name": "Path",
+            "rect": {
+                "x": 17,
+                "y": 33,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "456B5659-3E3C-4F40-88B9-905CFC3F19FA",
+            "name": "Path",
+            "rect": {
+                "x": 21,
+                "y": 32,
+                "width": 11,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0C5AC434-08A9-4F3E-A09A-696A74ACEEE1",
+            "name": "Path",
+            "rect": {
+                "x": 8,
+                "y": 606,
+                "width": 359,
+                "height": 61
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3718DED7-4609-4A8F-A9AC-78998C007B4D",
+            "name": "订单号: 65436875486",
+            "rect": {
+                "x": 237,
+                "y": 748,
+                "width": 125,
+                "height": 15
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "49009D28-65DF-4FBD-A88C-D28196A4C373",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 740,
+                "width": 344,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "31599B83-0D17-4634-8A81-A70B457EB189",
+            "name": "出发\\到达：黄冈口岸 - 美国",
+            "rect": {
+                "x": 18,
+                "y": 662,
+                "width": 176,
+                "height": 5
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "E59C3CE2-58D3-470F-AC9C-3E94E81C5E07",
+            "name": "Path",
+            "rect": {
+                "x": 8,
+                "y": 606,
+                "width": 359,
+                "height": 41
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A8EC931F-1CD3-4F79-8DD9-49B661472AF4",
+            "name": "2016-06-01",
+            "rect": {
+                "x": 302,
+                "y": 623,
+                "width": 55,
+                "height": 9
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "0BB7D411-B006-496E-B247-17022025E1BF",
+            "name": "正在通关处理",
+            "rect": {
+                "x": 16,
+                "y": 620,
+                "width": 84,
+                "height": 14
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "511A444C-8026-4185-97C0-03F3BF9C7CA1",
+            "name": "产品件数：  3000件",
+            "rect": {
+                "x": 16,
+                "y": 683,
+                "width": 128,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "ED2A49A9-F660-4F95-8BFB-6067CC3C6E03",
+            "name": "总货值：     300,000 USD",
+            "rect": {
+                "x": 16,
+                "y": 707,
+                "width": 166,
+                "height": 17
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

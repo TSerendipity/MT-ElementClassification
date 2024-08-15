@@ -1,0 +1,422 @@
+{
+    "layers": [
+        {
+            "id": "3DAA7537-BB10-454F-B0EA-6843A0165F89",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 703,
+                "width": 750,
+                "height": 222
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B2423A1C-85A5-45D4-AEB6-3EC3759989EB",
+            "name": "Type something",
+            "rect": {
+                "x": 442,
+                "y": 782,
+                "width": 286,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "445C7BC7-B29F-49C3-B1E1-8A031A4857A4",
+            "name": "订单编号：",
+            "rect": {
+                "x": 21,
+                "y": 779,
+                "width": 112,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A15831AE-962C-4941-B0DF-09D7FEDCDFFB",
+            "name": "支付宝",
+            "rect": {
+                "x": 653,
+                "y": 825,
+                "width": 75,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "6BE7AA0D-74D7-423C-8F50-198D57A704CF",
+            "name": "支付方式：",
+            "rect": {
+                "x": 21,
+                "y": 825,
+                "width": 112,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "C9502652-D824-4465-A8EC-58B72643A40F",
+            "name": "Type something Copy",
+            "rect": {
+                "x": 442,
+                "y": 874,
+                "width": 286,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "8891F3E6-19E9-4A22-846D-EC05F7D21DC0",
+            "name": "交易流水号：",
+            "rect": {
+                "x": 21,
+                "y": 871,
+                "width": 138,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "CBCE5B5F-D161-4407-B123-44E0E5C6A158",
+            "name": "下单时间：",
+            "rect": {
+                "x": 21,
+                "y": 733,
+                "width": 112,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A83CEFE1-F5B8-4AEB-B99C-C840BD0B0718",
+            "name": "2017.05.30 17:30:00",
+            "rect": {
+                "x": 481,
+                "y": 736,
+                "width": 248,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "FFAEC45C-CA0B-4136-A85A-8948B30EB395",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 387,
+                "width": 750,
+                "height": 222
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "9E5763E2-6122-4237-BD93-7AC31701C456",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 609,
+                "width": 750,
+                "height": 76
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "4C3AD437-B732-45EC-ACE1-FECDDECD6C07",
+            "name": "Path",
+            "rect": {
+                "x": 20,
+                "y": 528,
+                "width": 710,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "B0C8F1BB-079D-4EA1-8B10-041A3F0E5B98",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 608,
+                "width": 750,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "3889B0E3-3FEC-484F-95DC-D12286049238",
+            "name": "商品小计",
+            "rect": {
+                "x": 21,
+                "y": 423,
+                "width": 102,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "AFB4303F-42E4-4B4C-AC34-BBA3289936F8",
+            "name": "￥1490.00",
+            "rect": {
+                "x": 613,
+                "y": 426,
+                "width": 116,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F5C6DD9F-E97A-44EE-9605-BDD2F14B2472",
+            "name": "-￥10.00",
+            "rect": {
+                "x": 624,
+                "y": 482,
+                "width": 105,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "A632A4A5-1BC3-46E9-8289-749E565C5938",
+            "name": "优惠金额",
+            "rect": {
+                "x": 40,
+                "y": 479,
+                "width": 104,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "271BC514-B7B5-4383-AC5D-34A383F6676E",
+            "name": "￥90.00",
+            "rect": {
+                "x": 640,
+                "y": 638,
+                "width": 89,
+                "height": 20
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "85C405CE-DCD5-40B7-839D-93310EE97ABE",
+            "name": "支付宝支付",
+            "rect": {
+                "x": 41,
+                "y": 635,
+                "width": 128,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "2D844F16-F94A-4522-B499-BEEB33F55CC4",
+            "name": "￥1480.00",
+            "rect": {
+                "x": 595,
+                "y": 557,
+                "width": 134,
+                "height": 23
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "67A1BDB1-9F20-499C-ACFC-8D57ACB7E062",
+            "name": "实付金额合计",
+            "rect": {
+                "x": 21,
+                "y": 556,
+                "width": 154,
+                "height": 25
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "F0984722-92F5-4137-98F0-30C9B4BE8601",
+            "name": "Path",
+            "rect": {
+                "x": 0,
+                "y": 44,
+                "width": 297,
+                "height": 120
+            },
+            "_class": "rectangle",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "id": "D7A0E2E7-146E-44D3-BAED-5FA7A1E0D507",
+            "name": "结算信息",
+            "rect": {
+                "x": 44,
+                "y": 82,
+                "width": 188,
+                "height": 45
+            },
+            "_class": "text",
+            "label": 0,
+            "color": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "width": 750,
+    "height": 1407,
+    "layer_width": 64,
+    "layer_height": 64
+}
